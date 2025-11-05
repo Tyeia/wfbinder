@@ -26,4 +26,51 @@ Thanks to the freezing, Loid and the Cavia were able to survive the Old War and 
 ### Encroaching Murmur Threat
 
 Fibonacci would attempt to calibrate Jahu Gargoyles across the system to detect any possibility of the Indifference escaping. He consequently overlooked the possibility of intrusion by the Indifference. As such, Tenno across the system were tasked with eliminating the Fragmented Tides whenever they appeared to acquire Curses to properly calibrate Jahu Gargoyles that were placed within Tenno Dojos.
+
+## Notable Members
+[  
+![](https://wiki.warframe.com/images/thumb/Fibonacci.jpg/300px-Fibonacci.jpg?0d0e5)](https://wiki.warframe.com/w/File:Fibonacci.jpg)
+
+### Fibonacci
+
+_Main article: [Fibonacci](https://wiki.warframe.com/w/Fibonacci "Fibonacci")_
+
+**Fibonacci** is a large  [![](https://wiki.warframe.com/images/thumb/Norg.png/32px-Norg.png?7a3ec)](https://wiki.warframe.com/w/Norg) [Norg](https://wiki.warframe.com/w/Norg) who has gained sapience due to a failed experiment of Albrecht Entrati. He gives out bounties for players to complete in [Albrecht's abandoned Laboratories](https://wiki.warframe.com/w/Albrecht%27s_Laboratories "Albrecht's Laboratories"), and is the contact who manages ranking up in the syndicate.
+
+[![](https://wiki.warframe.com/images/thumb/LoidPrime.PNG/300px-LoidPrime.PNG?22110)](https://wiki.warframe.com/w/File:LoidPrime.PNG)
+
+### Loid
+
+_Main article: [Loid (Original)](https://wiki.warframe.com/w/Loid_\(Original\) "Loid (Original)")_
+
+The **original Loid** is [Albrecht Entrati](https://wiki.warframe.com/w/Albrecht_Entrati "Albrecht Entrati")'s human assistant, having been in suspended animation in the Laboratories since the Old War. He accepts [Vocas](https://wiki.warframe.com/w/Voca "Voca") in exchange for Cavia standing, offers Vocas for sale in exchange for resources, and is the contact for [Arcane Dissolution](https://wiki.warframe.com/w/Arcane_Enhancement "Arcane Enhancement").
+[  
+![](https://wiki.warframe.com/images/thumb/Bird_3.jpg/300px-Bird_3.jpg?7b31a)](https://wiki.warframe.com/w/File:Bird_3.jpg)
+
+### Bird 3
+
+_Main article: [Bird 3](https://wiki.warframe.com/w/Bird_3 "Bird 3")_
+
+**Bird 3** is a large tropical bird of unknown species who has gained sapience due to a failed experiment of Albrecht Entrati. He sells various wares for Cavia  **[![](https://wiki.warframe.com/images/thumb/ReputationLarge.png/20px-ReputationLarge.png?ef954)](https://wiki.warframe.com/w/Standing "Standing") Standing**, such as  [![](https://wiki.warframe.com/images/thumb/QorvexIcon272.png/31px-QorvexIcon272.png?9d1dd)](https://wiki.warframe.com/w/Qorvex) [Qorvex's](https://wiki.warframe.com/w/Qorvex) component blueprints and scavenged decor from Albrecht's Laboratories.
+[  
+![](https://wiki.warframe.com/images/thumb/Tagfer.jpg/300px-Tagfer.jpg?3705c)](https://wiki.warframe.com/w/File:Tagfer.jpg)
+
+### Tagfer
+
+_Main article: [Tagfer](https://wiki.warframe.com/w/Tagfer "Tagfer")_
+
+**Tagfer** is a Cervulite, a vaguely deer-like animal, who has gained sapience due to a failed experiment of Albrecht Entrati. He is one of the last of his species, with the only other known member being his mate, [Minn](https://wiki.warframe.com/w/Minn?action=edit&redlink=1 "Minn (page does not exist)"). Tagfer grants access to the weekly [Netracells](https://wiki.warframe.com/w/Netracells "Netracells") mission.
+### Other
+
+#### Necraloid
+
+_Main article: [Loid](https://wiki.warframe.com/w/Loid "Loid")_
+
+The **Necraloid** is a construct modeled after the human Loid to serve the Entrati following Albrecht's disappearance. At **Rank 5 - Illuminate**, he arrives at the Sanctum Anatomica to offer [Deep Archimedea](https://wiki.warframe.com/w/Deep_Archimedea "Deep Archimedea") weekly missions.
+
+#### Minn
+
+_Main article: [Minn](https://wiki.warframe.com/w/Minn?action=edit&redlink=1 "Minn (page does not exist)")_
+
+Similar to her mate Tagfer, **Minn** was a Cervulite, a unique species on the brink of extinction. Of the four, Minn was the only member of Cavia that failed to return from the Void and is believed to be either missing or dead.
 <div style="page-break-after: always;"></div>

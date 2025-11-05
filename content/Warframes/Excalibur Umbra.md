@@ -1,5 +1,5 @@
 # REQUIRED READING
-[[Quests/The Sacrifice| Quest: The Sacrifice]]
+[[2 - The Sacrifice| Quest: The Sacrifice]]
 
 ![[Pasted image 20250719104844.png|200]]
 

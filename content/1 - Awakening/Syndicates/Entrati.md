@@ -92,4 +92,63 @@ _Main article: [Veilbreaker](https://wiki.warframe.com/w/Veilbreaker "Veilbreak
 Intrigued by [Narmer](https://wiki.warframe.com/w/Narmer "Narmer")'s new leader [Pazuul](https://wiki.warframe.com/w/Pazuul "Pazuul"), Daughter intercepts a distress beacon from a [Murex](https://wiki.warframe.com/w/Murex "Murex") above [Deimos](https://wiki.warframe.com/w/Deimos "Deimos"), and sends the Tenno to investigate. After triangulating the signal, Daughter is shocked that the owner is a [Grineer](https://wiki.warframe.com/w/Grineer "Grineer") soldier named [Kahl-175](https://wiki.warframe.com/w/Kahl-175 "Kahl-175"). Kahl manages to strike a deal with her, agreeing to provide information about Pazuul in exchange for helping to free the prisoners.
 
 After Kahl settles within the Drifter's camp, he and Daughter assist the Tenno in triangulating and hunting down Narmer's [**Archons**](https://wiki.warframe.com/w/Archon "Archon").
+
+## Notable Members
+### Mother
+
+[![](https://wiki.warframe.com/images/thumb/MotherEntrati.jpg/300px-MotherEntrati.jpg?8aca4)](https://wiki.warframe.com/w/File:MotherEntrati.jpg)
+
+_Main article: [Mother](https://wiki.warframe.com/w/Mother "Mother")_
+
+**"Mother"** is the matriarch and head of the Entrati family. She offers [Bounties](https://wiki.warframe.com/w/Bounty "Bounty") for players to undertake in Cambion Drift, awarding [Mother Tokens](https://wiki.warframe.com/w/Mother_Token "Mother Token") and other rewards. In addition, she provides access to the first difficulty tier of the non-expiring [Isolation Vault](https://wiki.warframe.com/w/Isolation_Vault "Isolation Vault") Bounties. However, subsequent difficulty tiers must first be acquired by finding her out on the [Cambion Drift](https://wiki.warframe.com/w/Cambion_Drift "Cambion Drift"). Upon completion of these, she will offer all difficulty tiers from within the Necralisk.
+
+### Father
+
+[![](https://wiki.warframe.com/images/thumb/FatherEntrati.jpg/300px-FatherEntrati.jpg?4ac79)](https://wiki.warframe.com/w/File:FatherEntrati.jpg)
+
+_Main article: [Father](https://wiki.warframe.com/w/Father "Father")_
+
+**"Father"** is a former Orokin engineer and weapons expert. He accepts lootable resources in the Cambion Drift for [Father Tokens](https://wiki.warframe.com/w/Father_Token "Father Token"), and sells Infested and ancient Orokin weapons, as well as mods for [Prime](https://wiki.warframe.com/w/Prime "Prime") weapons for Standing.
+
+
+
+### Daughter
+
+[![](https://wiki.warframe.com/images/thumb/Daughter_New.jpg/300px-Daughter_New.jpg?08ac0)](https://wiki.warframe.com/w/File:Daughter_New.jpg)
+
+_Main article: [Daughter](https://wiki.warframe.com/w/Daughter "Daughter")_
+
+**"Daughter"** is an Orokin biologist who studies the Infested fish in the Cambion Drift. She takes extracted fish innards for [Daughter Tokens](https://wiki.warframe.com/w/Daughter_Token "Daughter Token"), allows the player to cut fish, and sells bait and unique Infested Fishing Spears that can penetrate the exocrine surfaces.
+
+
+
+### Son
+
+[![](https://wiki.warframe.com/images/thumb/Son.jpg/300px-Son.jpg?67de1)](https://wiki.warframe.com/w/File:Son.jpg)
+
+_Main article: [Son](https://wiki.warframe.com/w/Son "Son")_
+
+**"Son"** is an Orokin researcher and biologist who takes in Infested wildlife for [Conservation](https://wiki.warframe.com/w/Conservation "Conservation") and study. He takes tags for [Son Tokens](https://wiki.warframe.com/w/Son_Token "Son Token"), and handles the Revivification process to turn weakened [Predasites](https://wiki.warframe.com/w/Predasite "Predasite") and [Vulpaphyla](https://wiki.warframe.com/w/Vulpaphyla "Vulpaphyla") into [Companions](https://wiki.warframe.com/w/Companion "Companion"). He also handles gilding Predasite and Vulpaphyla companions and allows the player to rename them for  **[![](https://wiki.warframe.com/images/thumb/Platinum64.png/20px-Platinum64.png?6022f)](https://wiki.warframe.com/w/Platinum "Platinum") 15**, or to release them in exchange for Son Tokens.
+
+
+
+View Tags List▾▾
+
+### Grandmother
+
+[![](https://wiki.warframe.com/images/thumb/Grandmother.jpg/300px-Grandmother.jpg?a9995)](https://wiki.warframe.com/w/File:Grandmother.jpg)
+
+_Main article: [Grandmother](https://wiki.warframe.com/w/Grandmother "Grandmother")_
+
+**"Grandmother"** is the mother of **Father**, and attempts to keep the family together. She takes [Entrati Family Tokens](https://wiki.warframe.com/w/Entrati_Family_Tokens "Entrati Family Tokens") for Entrati Standing or [Grandmother Tokens](https://wiki.warframe.com/w/Grandmother_Token "Grandmother Token"), which in turn can be exchanged for [Seriglass Shards](https://wiki.warframe.com/w/Seriglass_Shard "Seriglass Shard"), profile [Glyphs](https://wiki.warframe.com/w/Glyphs "Glyphs"), [Captura](https://wiki.warframe.com/w/Captura "Captura") scenes, and [Orbiter](https://wiki.warframe.com/w/Orbiter "Orbiter") decorations. She also organizes [K-Drive Races](https://wiki.warframe.com/w/K-Drive_Race "K-Drive Race") in the Cambion Drift. Unless specified, the token costs of the Orbiter decorations are randomized daily. Token costs range from 5 - 20 tokens and may require up to two different token types.
+
+
+
+### Otak
+
+[![](https://wiki.warframe.com/images/thumb/Otak.jpg/300px-Otak.jpg?b7d1b)](https://wiki.warframe.com/w/File:Otak.jpg)
+
+_Main article: [Otak](https://wiki.warframe.com/w/Otak "Otak")_
+
+**Otak** is a damaged [Cephalon](https://wiki.warframe.com/w/Cephalon "Cephalon") that was integrated into a Necraloid shell with [Loid](https://wiki.warframe.com/w/Loid "Loid"). He handles [Mining](https://wiki.warframe.com/w/Mining "Mining") services, sells gem and ore blueprints, and takes mining resources for [Otak Tokens](https://wiki.warframe.com/w/Otak_Token "Otak Token").
 <div style="page-break-after: always;"></div>

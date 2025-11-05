@@ -13,3 +13,10 @@ Necraloids are the loyal [Cephalon](https://wiki.warframe.com/w/Cephalon "Cepha
 
 After repairing the [Heart](https://wiki.warframe.com/w/Heart_of_Deimos_\(Object\) "Heart of Deimos (Object)"), Loid now collaborates with [Father](https://wiki.warframe.com/w/Father "Father"), providing the Tenno with [Necramech](https://wiki.warframe.com/w/Necramech "Necramech") parts in secret.
 <div style="page-break-after: always;"></div>
+
+## Notable Necraloids
+### [Loid](https://wiki.warframe.com/w/Loid "Loid")
+
+_Main article: [Loid](https://wiki.warframe.com/w/Loid "Loid")_
+
+**Loid** is the Entrati's [Cephalon](https://wiki.warframe.com/w/Cephalon "Cephalon") servant, integrated into a Necraloid chassis so he can navigate in the physical world.
