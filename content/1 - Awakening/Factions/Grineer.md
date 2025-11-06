@@ -1,7 +1,7 @@
 ![[Pasted image 20251106131718.png]]
 > They say there is power in numbers - the Grineer are living proof. Wretched from centuries of cloning that has left their genetics in decay, this horde expands their vile empire through brute force, conquering anyone who tries to stop them.
 
-The **Grineer** (![|20](https://wiki.warframe.com/images/Grineer_G.svg?ea196)![|20](https://wiki.warframe.com/images/Grineer_R.svg?3ed52)![|20](https://wiki.warframe.com/images/Grineer_I.svg?1e6c3)![|20](https://wiki.warframe.com/images/Grineer_N.svg?b21ac)![20](https://wiki.warframe.com/images/Grineer_E.svg?21785)![|20](https://wiki.warframe.com/images/Grineer_E.svg?21785)![|20](https://wiki.warframe.com/images/Grineer_R.svg?3ed52)) is one of the major [Factions](https://wiki.warframe.com/w/Factions "Factions") of the [Origin System](https://wiki.warframe.com/w/Star_Chart "Star Chart"). They are the first enemies encountered by newly [awakened](https://wiki.warframe.com/w/Awakening "Awakening") [Tenno](https://wiki.warframe.com/w/Tenno "Tenno").
+The **Grineer** is one of the major [Factions](https://wiki.warframe.com/w/Factions "Factions") of the [Origin System](https://wiki.warframe.com/w/Star_Chart "Star Chart"). They are the first enemies encountered by newly [awakened](https://wiki.warframe.com/w/Awakening "Awakening") [Tenno](https://wiki.warframe.com/w/Tenno "Tenno").
 
 The expansion of their militaristic, violent Empire across the Origin System through the raiding or conquest of peaceful colonies serves as the primary motivator of the [Lotus](https://wiki.warframe.com/w/Lotus "Lotus")' call to her slumbering warriors.
 
