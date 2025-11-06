@@ -22,6 +22,7 @@ There is a reaper whose name is Nekros. He provides deathly crowd control. Erstw
 
 —[Ballas](https://wiki.warframe.com/w/Ballas "Ballas")
 ![[nekrospa.png]]
+![](https://youtu.be/InN07z-8LwE?si=e4r3fVfKocF9H67Q)
 
 **Release Date:** September 13th, 2013
 

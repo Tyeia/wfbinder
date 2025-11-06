@@ -28,6 +28,7 @@ Banshee Prime assails her foes by manipulating sonic forces to deadly effect. Fe
 
 —[**Ballas**](https://wiki.warframe.com/w/Ballas)
 ![[bansheepa.png]]
+![](https://youtu.be/OUVNonCWIaM?si=5SDGG0CGz7jZHyYU)
 
 **Release Date:** March 18th, 2013
 

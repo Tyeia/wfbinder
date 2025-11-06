@@ -23,6 +23,7 @@ Toxicity is Saryn's strength. Her serpentine powers deal heavy damage. For Saryn
 —[Ballas](https://wiki.warframe.com/w/Ballas "Ballas")
 
 ![[sarynpa.png]]
+![](https://youtu.be/qO4ldsvVbjA?si=_GiB1l8VPMSadwGP)
 
 **Release Date:** March 18th, 2013
 

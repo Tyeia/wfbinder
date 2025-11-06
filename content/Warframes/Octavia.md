@@ -26,7 +26,7 @@ Octavia turns bass, beat, and melody into a symphony of devastation. The music o
 
 —[Ballas](https://wiki.warframe.com/w/Ballas)
 ![[octaviapa.png]]
-
+![](https://youtu.be/XUjwi9d-rvw?si=N_XxiQG669fIMWis)
 **Release Date:** March 24th, 2017
 
 Rhythmic and imaginative, **Octavia** conducts her myriad siren songs and ambient anthems through the mystical [Mandachord](https://wiki.warframe.com/w/Mandachord "Mandachord"). Entice enemies with musical instruments that inflict melodic maladies, as the Tenno chorus synchronize their rhythm to sound the drums of war. Octavia was composed in [Update 20.0](https://wiki.warframe.com/w/Update_20#Update_20.0 "Update 20") (2017-03-24).

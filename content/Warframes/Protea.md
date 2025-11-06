@@ -30,6 +30,7 @@ Protea knows all about protection. Her vast arsenal inflicts damage and provides
 
 —[Ballas](https://wiki.warframe.com/w/Ballas "Ballas") and [Parvos Granum](https://wiki.warframe.com/w/Parvos_Granum "Parvos Granum")
 ![[proteapa.png]]
+![](https://youtu.be/t0ONmP3TGZ4?si=XxK-N5e7lN0xh4u-)
 
 **Release Date:** June 11, 2020
 

@@ -26,7 +26,7 @@ Strength is Hildryn's virtue. Her unique high-damage abilities are powered by he
 
 —[Ballas](https://wiki.warframe.com/w/Ballas "Ballas")
 ![[hildrynpa.png]]
-
+![](https://youtu.be/cfxG7_Gx8RQ?si=lbjxa5B-Aqe5PrKB)
 **Release Date:** March 7th, 2019
 
 Reinforced by her stalwart physique, the Herculean cyborg, **Hildryn**, fortifies her allies' defenses as enemy barricades crumble beneath her overwhelming might. Rocket skyward at full thrust, achieve atmospheric flight, and launch shield-powered warheads to raze the battlefield with heavy artillery firepower. Hildryn first rained death from above on [Update 24.4](https://wiki.warframe.com/w/Update_24#Update_24.4 "Update 24") (2019-03-08): [Buried Debts](https://wiki.warframe.com/w/Operation:_Buried_Debts "Operation: Buried Debts").

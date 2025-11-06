@@ -23,7 +23,7 @@ Grendel sees every battlefield as a smorgasbord. His insatiable appetite rewards
 
 —[Ballas](https://wiki.warframe.com/w/Ballas)
 ![[grendelpa.png]]
-
+![](https://youtu.be/8FSOCxA3X1M?si=RnSsVEbRjEx9N_sV)
 **Release Date:** October 31st, 2019
 
 Indulge amid the stench of battle as **Grendel** the voracious gourmand, greedily swallowing armies whole into his fathomless maw. Corpulent and courageous, he consumes prey to invigorate kindred warriors, or disgorges the eaten out drenched in putrid acidic bile. Stampede through strongholds as a spherical menace, leaving cadavers in the wake crushed by his thunderous quake. Grendel's feeding frenzy began in [Update 26](https://wiki.warframe.com/w/Update_26 "Update 26"): The Old Blood.

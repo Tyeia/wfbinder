@@ -29,6 +29,7 @@ Enemies are made fragile by Gara's deadly touch. Gara's vitric abilities provide
 
 —[Ballas](https://wiki.warframe.com/w/Ballas "Ballas")
 ![[garapa.png]]
+![](https://youtu.be/UZCrLzWb-sQ?si=yJWWihzuqW8iPgjt)
 
 **Release Date:** October 12th, 2017
 

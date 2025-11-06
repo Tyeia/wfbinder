@@ -24,7 +24,7 @@ Wisp floats between the material and the ethereal. She accesses multiple dimensi
 
 —[Ballas](https://wiki.warframe.com/w/Ballas)
 ![[wisppa.png]]
-
+![](https://youtu.be/eMlX3isbMBE?si=Zod6xxMBhhAaDLYc)
 **Release Date:** May 22nd, 2019
 
 Eerie. Elusive. Enigmatic. Haunting the spatial crossroads between dimensional doorways, the ethereal enchantress **Wisp** summons strange apparitions from beyond the breach. Sever her soul to escape death, steal the sight from enemy eyes, and vaporize all before the blaze of our celestial light. Wisp materialized in [Update 25.0](https://wiki.warframe.com/w/Update_25#Update_25.0 "Update 25") (2019-05-22).

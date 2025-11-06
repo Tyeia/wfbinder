@@ -24,6 +24,7 @@ Vauban is the model of innovative technology. He deploys clever inventions to pr
 
 —[Ballas](https://wiki.warframe.com/w/Ballas)
 ![[vaubanpa.png]]
+![](https://youtu.be/lm6DS3IDYqI?si=6h5YivImecK3IbP9)
 
 **Release Date:** May 17th, 2013
 

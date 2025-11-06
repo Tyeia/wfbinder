@@ -27,7 +27,7 @@ Healing and suffering do Oberon's bidding. His command of the natural world supp
 
 —[Ballas](https://wiki.warframe.com/w/Ballas)
 ![[oberonpa.png]]
-
+![](https://youtu.be/Ij8Ql_RbdT8?si=_yGCekzljHUV0TeF)
 **Release Date:** December 19th, 2013
 
 Endowed with zealous offensive powers and sacred protective skills, **Oberon** is a balanced fighter with assault and supportive capabilities. Oberon came to light in [Update 11.5](https://wiki.warframe.com/w/Update_11#Update_11.5 "Update 11") (2013-12-19).

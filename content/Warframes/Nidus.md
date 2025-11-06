@@ -25,6 +25,7 @@ Nidus draws strength from the Infestation. It bolsters him with survivability as
 
 —[Ballas](https://wiki.warframe.com/w/Ballas)
 ![[niduspa.png]]
+![](https://youtu.be/m2DnHMEKgKE?si=_dORwe-Xl5fQb0B3)
 
 **Release Date:** December 22nd, 2016
 

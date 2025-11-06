@@ -24,7 +24,7 @@ Mirage's sleight of hand complements her might. Her dazzled foes take heavy dama
 
 —[Ballas](https://wiki.warframe.com/w/Ballas "Ballas")
 ![[miragepa.png]]
-
+![](https://youtu.be/LP9xH9hqC04?si=4t2ajkF36dyoa_--)
 **Release Date:** July 18th, 2014
 
 Mysterious and mischievous, **Mirage** manipulates the spectrum of light to dazzle her foes. With deceitful mirror images, colorful photokinetic displays and explosive pranks up her sleeves, every battlefield becomes the stage for her next performance. **Mirage** was unveiled in [Update 14.0](https://wiki.warframe.com/w/Update_14#Update_14.0 "Update 14") (2014-07-18).

@@ -28,7 +28,8 @@ Macabre spectral power has risen. Infused with the essence of the Eidolon, Reven
 
 —[Ballas](https://wiki.warframe.com/w/Ballas "Ballas")
 ![[revenantpa.png]]
-
+![](https://youtu.be/3HD6rfvMOgk?si=r9ySjA50dJwCndIK
+)
 **Release Date:** August 24th, 2018
 
 Ravaged by  [![](https://wiki.warframe.com/images/thumb/SentientFactionIcon.png/32px-SentientFactionIcon.png?19c23)](https://wiki.warframe.com/w/Sentient) [Sentient](https://wiki.warframe.com/w/Sentient) energy, wreathed with eldritch [Eidolon](https://wiki.warframe.com/w/Eidolon "Eidolon") essence, the blighted sovereign **Revenant** subjugates foes through his affliction. Bestow his sacrificial legion haunted dreams, reap unseen, and spill their lifeblood upon the desolate scorched earth. Revenant was resurrected in [Update 23.5](https://wiki.warframe.com/w/Update_23#Update_23.5 "Update 23") (2018-08-24).

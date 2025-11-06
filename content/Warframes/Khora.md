@@ -23,7 +23,7 @@ Khora is red in whip and claw. She works together with her Kavat companion, Vena
 
 —[Ballas](https://wiki.warframe.com/w/Ballas "Ballas")
 ![[khorapa.png]]
-
+![](https://youtu.be/FEQP2y--LG8?si=n3V5odXGcLuIyzw_)
 **Release Date:** April 20th, 2018
 
 Fiercely poised with feral instincts, the huntress **Khora** and her feline familiar  **[![](https://wiki.warframe.com/images/thumb/Venari.png/32px-Venari.png?d08b0)](https://wiki.warframe.com/w/Khora/Abilities#Passive) [Venari](https://wiki.warframe.com/w/Khora/Abilities#Passive)** prowl amidst combat scouring for prey. Mistress of the livewire, she enchains her foes to enforce deadly discipline by whiplash, claws, and serrated steel. Khora and Venari pounced from the shadows in [Update 22.18](https://wiki.warframe.com/w/Update_22#Update_22.18 "Update 22") (2018-04-20).

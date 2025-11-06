@@ -24,6 +24,7 @@ Valkyr was modified into a highly motivated and fearsome killer. She is adept at
 
 —[Ballas](https://wiki.warframe.com/w/Ballas "Ballas")
 ![[valkyrpa.png]]
+![](https://youtu.be/9ubZLPNE4Lk?si=63hSov4MytpPKU0Y)
 
 **Release Date:** November 20th, 2013
 

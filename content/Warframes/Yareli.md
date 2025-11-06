@@ -24,6 +24,7 @@ The waverider can unleash a flood of destruction on the battlefield. Yareli’s 
 
 —[Ballas](https://wiki.warframe.com/w/Ballas "Ballas")
 ![[yarelipa.png]]
+![](https://youtu.be/XYy2XPR-cIo?si=_mtvytip4AH-J2yI)
 
 **Release Date:** July 6th, 2021
 
