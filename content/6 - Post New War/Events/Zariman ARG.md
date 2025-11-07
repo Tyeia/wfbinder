@@ -68,7 +68,7 @@ Spectrogram of "the fog" amplified by 10dB
 
 ### Hexadecimal Puzzle
 
-[](https://wiki.warframe.com/w/File:ZarimanARGInstagramVideo.mp4)
+<video controls="" name="media"><source src="https://wiki.warframe.com/images/ZarimanARGInstagramVideo.mp4?c1fe2" type="video/mp4"></video>
 
 Video post with an image glitching periodically.
 
@@ -126,8 +126,7 @@ b2theSBJIHRoaW5rIEkgZ290IHRoZSBoYW5nIG9mIHRoaXMgbGV0cyB0cnkgc29tZXRoaW5nIHdpdGgg
 - QR code links to a 29-second TikTok video ![](https://vm.tiktok.com/ZMLgMqAXM/)
 
 ### Audio Broadcast 1
-
-[](https://wiki.warframe.com/w/File:ZarimanARGAudioBroadcast1.mp4)
+<video controls="" name="media"><source src="https://wiki.warframe.com/images/ZarimanARGAudioBroadcast1.mp4?318c5" type="video/mp4"></video>
 
 On April 22, 2022, around 16:30 (UTC), WARFRAME's official TikTok account posted a 29-second video:
 
@@ -201,9 +200,8 @@ A week old Twitch account discovered early on, [unidentifiedsignal](https://www
 
 ### Audio Broadcast 2 and 3
 
-[](https://wiki.warframe.com/w/File:ZarimanARGAudioBroadcast2.mp4)
-
-[](https://wiki.warframe.com/w/File:ZarimanARGAudioBroadcast3.mp4)
+<video controls="" name="media"><source src="https://wiki.warframe.com/images/ZarimanARGAudioBroadcast2.mp4?2e72a" type="video/mp4"></video>
+<video controls="" name="media"><source src="https://wiki.warframe.com/images/ZarimanARGAudioBroadcast3.mp4?07abc" type="video/mp4"></video>
 
 Around April 22, 2022, 19:00 UTC two new TikTok videos were posted by WARFRAME's account in response to the password "We shall not fear to take the leap".
 
@@ -278,7 +276,7 @@ The file repository contains already solved puzzles:
 
 On April 23, 2022 16:07 UTC, WARFRAME's Facebook account made a new post titled "Angels of the Zarima56275686779727566756028636271656370276E69667F6D602075656B602F64702566716860256D60276E69646E6966602D656864702B63796270247E61636" with an image of  [![](https://wiki.warframe.com/images/Mod_TT_20px.png?dec74)](https://wiki.warframe.com/w/Khra) [Khra](https://wiki.warframe.com/w/Khra) symbol.
 
-[![](https://wiki.warframe.com/images/thumb/ZarimanARGKhraImage.jpg/200px-ZarimanARGKhraImage.jpg?93d30)](https://wiki.warframe.com/w/File:ZarimanARGKhraImage.jpg)
+![](https://wiki.warframe.com/w/File:ZarimanARGKhraImage.jpg)
 
 - When reversed and converted to ASCII from hexadecimal, the string of numbers translates to "cant risk them finding me have to keep moving search everywhere".
 - Adjusting the color levels of the image so that the black pixel values are towards level 255 reveals a hidden the Khra poem in the background repeated 20 times: "We end as we began we end"
@@ -625,8 +623,7 @@ Going to "wrfr.me/yclnv" will download the second part of the archive called "IM
 ## April 24, 2022
 
 ### Audio Broadcast 4
-
-[](https://wiki.warframe.com/w/File:ZarimanARGAudioBroadcast4.mp4)
+<video controls="" name="media"><source src="https://wiki.warframe.com/images/ZarimanARGAudioBroadcast4.mp4?8c451" type="video/mp4"></video>
 
 Around April 24, 2022 14:00 UTC, WARFRAME's TikTok account released a 4th audio broadcast:
 
@@ -700,8 +697,7 @@ April 24, 2022 20:37 UTC:
     
 
 ### Audio Broadcast 5
-
-[](https://wiki.warframe.com/w/File:ZarimanARGAudioBroadcast5.mp4)
+<video controls="" name="media"><source src="https://wiki.warframe.com/images/ZarimanARGAudioBroadcast5.mp4?41a3a" type="video/mp4"></video>
 
 Around April 24, 2022 20:49 UTC, WARFRAME's TikTok account released a 5th audio broadcast, password was "Across the gulf to fare", this was found zooming in the middle of the Zariman logo in the previous PDFs:
 
@@ -875,8 +871,7 @@ THROUGH ALL BETWIXT IS DARK AND DEEP
 The password was "Through all betwixt is dark and deep" and unlocks a log as showcased on Twitter and YouTube. After the log finished playing, the stream ended.
 
 ### Audio Broadcast 6
-
-[](https://wiki.warframe.com/w/File:ZarimanARGAudioBroadcast6.mp4)
+<video controls="" name="media"><source src="https://wiki.warframe.com/images/ZarimanARGAudioBroadcast6.mp4?37c50" type="video/mp4"></video>
 
 Around April 25, 2022 15:00 UTC, WARFRAME's TikTok account posted the 6th audio broadcast:
 
@@ -987,7 +982,7 @@ Around April 26, 2022 02:19 UTC, the blog post was updated with a link "To remin
 ![](https://wiki.warframe.com/images/ZarimanARGBabyAnnouncement.jpg?517fc)
 ### Audio Broadcast 7
 
-[](https://wiki.warframe.com/w/File:ZarimanARGAudioBroadcast7.mp4)
+<video controls="" name="media"><source src="https://wiki.warframe.com/images/ZarimanARGAudioBroadcast7.mp4?7946b" type="video/mp4"></video>
 
 Around April 26, 2022 06:19 UTC, the WARFRAME TikTok account released the 7th audio broadcast, the password being "Through all betwixt is dark and deep":
 
@@ -1003,7 +998,7 @@ Day Five:
 
 26.04.2022.09.11: Sorry. I'm trying my best.
 
-A new link at the bottom "And all that we've done wrong" goes to [#Audio Broadcast 7](https://wiki.warframe.com/w/Zariman_ARG#Audio_Broadcast_7)'s TikTok post.
+A new link at the bottom "And all that we've done wrong" goes to Audio Broadcast 7's TikTok post.
 
 On April 26, 2022 17:30 UTC, the blog post was updated:
 
@@ -1737,8 +1732,7 @@ In response, a message has to uploaded to an "encrypted channel" `` ` f_a fd` _
 > ```
 
 ### Audio Broadcast 8
-
-[](https://wiki.warframe.com/w/File:ZarimanARGAudioBroadcast8.mp4)
+<video controls="" name="media"><source src="https://wiki.warframe.com/images/ZarimanARGAudioBroadcast8.mp4?f89e0" type="video/mp4"></video>
 
 Around April 26, 2022 18:00 UTC, WARFRAME's TikTok account posted the 8th audio broadcast:
 
@@ -1752,8 +1746,7 @@ On April 26, 2022 18:43 UTC, the blog post was updated:
 ![](https://wiki.warframe.com/images/ZarimanARGZarimanTenZeroWelcomeLetter.jpg?5a1fa)
 
 ### Audio Broadcast 9
-
-[](https://wiki.warframe.com/w/File:ZarimanARGAudioBroadcast9.mp4)
+<video controls="" name="media"><source src="https://wiki.warframe.com/images/ZarimanARGAudioBroadcast9.mp4?f1038" type="video/mp4"></video>
 
 Around April 26, 2022 19:30 UTC, WARFRAME's TikTok account posted the 9th audio broadcast, the password was "A home awaits us there":
 
