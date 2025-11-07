@@ -8,7 +8,7 @@ The end of the game coincided with the release of [Update 24.0](https://wiki.wa
 Full information: https://orokinarchives.tumblr.com/post/183727336249/arg-fortuna
 
 # Features
-[The Business](https://wiki.warframe.com/w/The_Business "The Business") used Discord as a primary means of communication, giving out pieces of lore and instructions needed to progress the ARG in a channel named "Solaris United". The official Warframe Twitter and Youtube accounts also participated in the ARG, giving out hints also. Over the course of 17 days, [Tenno](https://wiki.warframe.com/w/Tenno "Tenno") participated in solving puzzles to unlock lore and in-game rewards through redeemable codes. Players can give answers or interact with The Business by tagging the official Warframe Twitter account with the hashtag #LiftTogether. Tweets with the correct answers will be linked to the `#open-comms` text channel in Discord for everyone to see.
+[The Business](https://wiki.warframe.com/w/The_Business "The Business") used Discord as a primary means of communication, giving out pieces of lore and instructions needed to progress the ARG in a channel named "Solaris United". The official Warframe Twitter and Youtube accounts also participated in the ARG, giving out hints also. Over the course of 17 days, [Tenno](https://wiki.warframe.com/w/Tenno "Tenno") participated in solving puzzles to unlock lore and in-game rewards through redeemable codes. Players can give answers or interact with The Business by tagging the official Warframe Twitter account with the hashtag \#LiftTogether. Tweets with the correct answers will be linked to the `#open-comms` text channel in Discord for everyone to see.
 
 Initially, only a small number of people could gain access to the server through time-limited Discord invite links, but as the ARG progressed, a permanent link was generated for everyone who wanted to join: [https://discord.gg/lifttogether](https://discord.gg/lifttogether).
 
@@ -32,7 +32,7 @@ On October 23, 2018 16:25 UTC the official Warframe Twitter account sent out cry
 
 ## Background
 
-On Thursday, 22 October 2018, 17 days before Fortuna was released on PC, a Discord server was created named Solaris United. The user who managed the server and conducted the ARG (alternate reality game) was named The Business. Initially there was only the channel #solarisunited, but within a few days the #cache, #intel, and #open-comms channels were created. Most of the ARG was conducted in the #solarisunited channel, with some information divulged in #cache and #intel. The #open-comms channel was for The Business to link to tweets or other community engagement during the course of the server, and occasionally, the channel would be opened for members of the server to post in.
+On Thursday, 22 October 2018, 17 days before Fortuna was released on PC, a Discord server was created named Solaris United. The user who managed the server and conducted the ARG (alternate reality game) was named The Business. Initially there was only the channel \#solarisunited, but within a few days the \#cache, \#intel, and \#open-comms channels were created. Most of the ARG was conducted in the \#solarisunited channel, with some information divulged in \#cache and \#intel. The \#open-comms channel was for The Business to link to tweets or other community engagement during the course of the server, and occasionally, the channel would be opened for members of the server to post in.
 
 Access to the Discord server was initially limited, with temporary invites as the only way to access it for some time. Later, a universal invite link was shared: [https://discord.gg/lifttogether](https://discord.gg/lifttogether)
 
@@ -42,7 +42,7 @@ Below are described the events of the ARG and the contents of the Discord server
 
 ## 22 October
 
-**\[18.04, #solarisunited]**  
+**\[18.04, \#solarisunited]**  
 ==========================  
 |==:: Version 5.24 starting up ::==|  
 ==========================
@@ -58,7 +58,7 @@ Connecting to data structures…
 
 ![image](https://64.media.tumblr.com/2d8b234af73e835eb5916d020f659476/tumblr_inline_pozfstgsLf1r56sld_400.gifv)
 
-**\[18.11, #solarisunited]**  
+**\[18.11, \#solarisunited]**  
 How do you do, Outworlders?
 
 They call me ‘The Business’. I need your help.
@@ -75,13 +75,13 @@ Some of us still act on behalf of the old Solaris United – what little of it r
 
 We have agents tracking Corpus shipments on the Vallis: resources we can steal to help our people make payments and clear debts.
 
-Help me recruit members for Solaris United, and I’ll add your cut of the bounty to a cache. I’ve created a #cache channel to track your share.
+Help me recruit members for Solaris United, and I’ll add your cut of the bounty to a cache. I’ve created a \#cache channel to track your share.
 
 Tell your fellow Outworlders we aren’t giving up without a fight. We are Solaris, and down here, we all lift together.
 
 I’ll contact you again soon. Stay sharp.
 
-**\[18.23, #cache]**  
+**\[18.23, \#cache]**  
 ==========================  
 |==:: Version 5.24 starting up ::==|  
 ==========================
@@ -95,8 +95,8 @@ Connecting to data structures…
 
 …Complete
 
-**\[18:26, #cache]**  
-Welcome to the #cache channel, Outworlders. Here, I’ll deliver the latest information on your cut of the bounty as we steal from the Corpus. It’ll take time to put your share together, so I’ll let you know when you can pick it up.
+**\[18:26, \#cache]**  
+Welcome to the \#cache channel, Outworlders. Here, I’ll deliver the latest information on your cut of the bounty as we steal from the Corpus. It’ll take time to put your share together, so I’ll let you know when you can pick it up.
 
 ---
 
@@ -118,10 +118,10 @@ Welcome to the #cache channel, Outworlders. Here, I’ll deliver the latest info
 
 Once each Partner attempted to answer the question (seriously or not), the Warframe twitter account would reply, “Code accepted. Agent confirmed. Check your messages.” Each partner received a single-use invite to the Discord server.
 
-**\[18.00, #solarisunited]**  
-Outworlders, you’ve done well in recruiting new members for the cause. Because of your efforts, I’m opening a new channel, #intel. I will deliver additional information to you there. Stay sharp.
+**\[18.00, \#solarisunited]**  
+Outworlders, you’ve done well in recruiting new members for the cause. Because of your efforts, I’m opening a new channel, \#intel. I will deliver additional information to you there. Stay sharp.
 
-**\[18.02, #intel]**  
+**\[18.02, \#intel]**  
 ==========================  
 |==:: Version 5.24 starting up ::==|  
 ==========================
@@ -133,10 +133,10 @@ Connecting to data structures…
 
 …Complete
 
-**\[18:04, #intel]**  
-Welcome to the new #intel channel. As you continue to recruit new members for Solaris United, I will trust you with new information.
+**\[18:04, \#intel]**  
+Welcome to the new \#intel channel. As you continue to recruit new members for Solaris United, I will trust you with new information.
 
-**\[18:13, #intel]**  
+**\[18:13, \#intel]**  
 Repossession. Nasty business.
 
 The Solaris need cybernetic upgrades to protect themselves from the hostile Vallis climate. And guess who supplies the upgrades?
@@ -163,16 +163,16 @@ We must fight back, Outworlders. Because if we lose, we lose everything.
 
 ## 24 October
 
-**\[15.54, #solarisunited]**  
+**\[15.54, \#solarisunited]**  
 We’ve seen a large influx of new recruits. Well done, Outworlders.
 
-To aid in your recruitment effort, I’m adding our sigil to the #cache channel.
+To aid in your recruitment effort, I’m adding our sigil to the \#cache channel.
 
 Wear this sigil to display your allegiance to Solaris United and guide new members to the cause.
 
 Share this far and wide today. We need all the help we can get.
 
-**\[15:58, #cache]**  
+**\[15:58, \#cache]**  
 So far, you’ve brought in a great number of trusted Outworlders to join the cause.
 
 Attached to this message is an insignia – the symbol of Solaris United.
@@ -187,10 +187,10 @@ We need all the help we can get.
 
 [The code SOLARISUNITED would unlock the Solaris United sigil for players to wear. At the time, this code worked for PC accounts only.]
 
-**\[16.00, #solarisunited]**  
+**\[16.00, \#solarisunited]**  
 I’m worried we may have Corpus spies in our midst. I can only keep the comms channel open for a limited time after you hear from me. Stay sharp.
 
-**\[16.09, #solarisunited]**  
+**\[16.09, \#solarisunited]**  
 ==============================  
 |==::: Version 5.24 starting output :::==|  
 ==============================
@@ -207,25 +207,25 @@ Output:
 Self-destructs in one hour. Please share.  
 ===============================
 
-**\[18.12, #solarisunited]**  
-Wear your sigil and share it on public social channels using #lifttogether.
+**\[18.12, \#solarisunited]**  
+Wear your sigil and share it on public social channels using \#LiftTogether.
 
-I’ll post the most inspiring images in #open-comms.
+I’ll post the most inspiring images in \#open-comms.
 
 Word of your efforts is spreading.
 
 There’s hope again. Keep it up.
 
-**\[20.13, #solarisunited]**  
+**\[20.13, \#solarisunited]**  
 More and more of you are joining the cause. Excellent. This operation carries risk, but with you on our side, there’s hope for a free Fortuna.
 
-Share this message with #LiftTogether and help me recruit more members for Solaris United.
+Share this message with \#LiftTogether and help me recruit more members for Solaris United.
 
 [![](https://youtu.be/m1dgUmQadLc)]
 
 The Business: “Outworlder, it pains me to say this, but, I need your help. They call me 'The Business’. Time was, I’d get my hands dirty and deal with Nef Anyo myself. But my hands are tied now. Down here in Fortuna, everyone lives in fear of the Taxmen. Solaris are in debt and, by proxy, enslaved. If someone misses a payment, Nef sends his repo squads down here to… well, it’s not pleasant. That’s why I need your help. We used to fight back, no matter the odds. But those days are over. Outworlder, help me reignite the flames of rebellion. Help me rebuild Solaris United. To deliver this message, I managed to slip inside a Corpus research facility. I’ve hijacked their frequency to create a back-channel for further communication. Attached to this message is a link to the channel. You’ll hear from me again soon. As they say in Fortuna, we all lift together. Stay sharp.”
 
-**\[20.58, #solarisunited]**  
+**\[20.58, \#solarisunited]**  
 A resource shipment is flying into the Vallis tomorrow.
 
 Intel suggests it may contain Nitain extract.
@@ -234,13 +234,13 @@ I’m sending two agents there to relieve the Corpus of this burden.
 
 They’ll report back tomorrow, so I’ll have more information for you then.
 
-Keep sharing the sigil using #LiftTogether, and we’ll cut you in.
+Keep sharing the sigil using \#LiftTogether, and we’ll cut you in.
 
 ---
 
 ## 25 October
 
-**\[03.12, #solarisunited]**
+**\[03.12, \#solarisunited]**
 
 ==============================  
 |==::: Version 5.24 starting output :::==|  
@@ -258,14 +258,14 @@ Output:
 Self-destructs in one hour. Please share.  
 ===============================
 
-**\[18.26, #solarisunited]**  
+**\[18.26, \#solarisunited]**  
 Our agents in the Vallis haven’t reported in.
 
 With a task this dangerous, I’m worried.
 
 I’ll let you know as soon as I have more information.
 
-**\[18.36, #solarisunited]**  
+**\[18.36, \#solarisunited]**  
 Whispers are spreading around Fortuna.
 
 Rumours of the Solaris United insignia being seen in Relays and around the Origin System.
@@ -278,7 +278,7 @@ I’m speechless. Thank you, Outworlders.
 
 I’ll have a new objective for you today. Stay sharp.
 
-**\[21.44, #solarisunited]**  
+**\[21.44, \#solarisunited]**  
 Recently, you may have noticed us in the Relays.
 
 Very few places are safe for us in the System.
@@ -306,7 +306,7 @@ Self-destructs in thirty minutes. Please share.
 
 ## 26 October
 
-**\[04.30, #solarisunited]  
+**\[04.30, \#solarisunited]  
 **We have trouble. One of our agents is missing.
 
 We believe he’s been compromised by the Taxmen. We don’t know where they’re taking him.
@@ -319,7 +319,7 @@ I’ve sent a team out there to bring them both home and recover the resources t
 
 I’ll report back tomorrow. Keep your head to the wind.
 
-**\[18.03, #solarisunited]**  
+**\[18.03, \#solarisunited]**  
 Our rescue team made it back.
 
 We lost a great agent today. He's… he’s sure to be brain-shelved, I’m afraid.
@@ -332,9 +332,9 @@ Crates upon crates of Nitain, just waiting to be plucked from those Taxmen mucke
 
 We’ll launder what we can to safely pay off debts for people here in Fortuna.
 
-There’s too much for us to safely spend – I’ll keep the rest in holding to share with you later.  You can keep an eye on #cache to see your cut.
+There’s too much for us to safely spend – I’ll keep the rest in holding to share with you later.  You can keep an eye on \#cache to see your cut.
 
-**\[18:04, #cache]**  
+**\[18:04, \#cache]**  
 Agent HR-67 made it home safe with the stolen Corpus shipment.
 
 We stole crates upon crates of Nitain, Ducats and Orokin Cells from those Taxmen muckers.
@@ -353,7 +353,7 @@ We’ll need all the help we can get when the time comes.
 Self-destructs in 12 hours. Please share.  
 ===============================
 
-**\[18.12 #solarisunited]  
+**\[18.12 \#solarisunited]  
 **We found a Corpus shipping manifest among the crates.
 
 I’ve circled the shipments with the biggest payloads.
@@ -370,7 +370,7 @@ When the time comes, I may need to ask for your help.
 
 [The manifest reads: SHIPMENT CODE: PRIORITY. DO NOT LEAVE UNATTENDED. ITEMS DETAINED EN ROUTE. RETURN TO VENUS. ENGINEERING SAMPLE FOR DISASSEMBLY AND CATALOGUE. MANIFEST]
 
-**\[21.21, #solarisunited]**  
+**\[21.21, \#solarisunited]**  
 As the movement grows, our most dedicated agents are finding ways to represent the cause.
 
 Some of you haven’t been able to obtain the sigil yet, but you’re finding your own ways to bring it to life.
@@ -383,7 +383,7 @@ Support them however you can.
 
 ## 27 October
 
-**\[20.40, #solarisunited]  
+**\[20.40, \#solarisunited]  
 **We are 41,000 strong now. Excellent work, Outworlders.
 
 I know you’re eager. I am, too. But I can’t say more now.
@@ -409,7 +409,7 @@ Self-destructs in 6 hours.
 
 ## 28 October
 
-**\[05.17, #solarisunited]  
+**\[05.17, \#solarisunited]  
 **=============================  
 |==:: Version 5.24 starting output ::==|  
 =============================
@@ -425,7 +425,7 @@ Output:
 Self-destructs in 6 hours.  
 =====================
 
-**\[22.51, #solarisunited]**  
+**\[22.51, \#solarisunited]**  
 =============================  
 |==:: Version 5.24 starting output ::==|  
 =============================
@@ -445,7 +445,7 @@ Self-destructs in 6 hours.
 
 ## 29 October
 
-**\[18.45, #solarisunited]  
+**\[18.45, \#solarisunited]  
 **Great work over the weekend, Outworlders.
 
 You’ve helped us reach 50,000 members.
@@ -456,23 +456,23 @@ Unfortunately, the Corpus have encrypted the file.
 
 Outworlders, work together to help me break the encryption.
 
-Share the final message with me using #LiftTogether.
+Share the final message with me using \#LiftTogether.
 
 ==============================  
 [https://discord.gg/B4pQu](https://discord.gg/B4pQu)  
 Self-destructs in 6 hours. Please share.  
 ==============================
 
-[An audio file, [Encrypted_Intelligence.wav](https://www.dropbox.com/s/ebcpqj91oo8gc7v/07_Encrypted_Intelligence%20%28audio01%29.wav?dl=0), was sent to the server. This audio file contained a series of DTMF tones – the sounds played when dialling a number on a conventional telephone – masked by static. The tones, when matched to their respective numbers, sounded out the sequence 24859 782887 7435833. When decoded (by matching the numbers to letters, as on a phone keypad), the message read BITLY STATUS SHELVED, which allowed players to reconstruct the shortened URL [http://bit.ly/statusshelved](http://bit.ly/statusshelved), which lead to the image, shortly afterward posted in the #intel channel.]
+[An audio file, [Encrypted_Intelligence.wav](https://www.dropbox.com/s/ebcpqj91oo8gc7v/07_Encrypted_Intelligence%20%28audio01%29.wav?dl=0), was sent to the server. This audio file contained a series of DTMF tones – the sounds played when dialling a number on a conventional telephone – masked by static. The tones, when matched to their respective numbers, sounded out the sequence 24859 782887 7435833. When decoded (by matching the numbers to letters, as on a phone keypad), the message read BITLY STATUS SHELVED, which allowed players to reconstruct the shortened URL [http://bit.ly/statusshelved](http://bit.ly/statusshelved), which lead to the image, shortly afterward posted in the \#intel channel.]
 
-**\[22.29, #solarisunited]**  
+**\[22.29, \#solarisunited]**  
 Good work cracking the code… despite the bad news that it brings.
 
 Agent HC-85 is the agent we lost during the first shipment.
 
 Brain-shelved. Just as I feared.
 
-I’ll share what you found in #intel.
+I’ll share what you found in \#intel.
 
 Thankfully, Nef doesn’t suspect Solaris United was involved in stealing the shipment.
 
@@ -486,7 +486,7 @@ Thank you for the closure. Take a moment today to honour him.
 
 I’ll talk to you tomorrow.
 
-**\[22:33, #intel]**  
+**\[22:33, \#intel]**  
 The Taxmen have a disturbing protocol they call 'brain-shelving.’
 
 For major debts or acts of defiance, the repo squad will tear you apart and keep your brain 'tanked’ in a storage facility.
@@ -505,13 +505,13 @@ Absolutely dreadful.
 
 ## 30 October
 
-**\[04.58, #solarisunited]**  
+**\[04.58, \#solarisunited]**  
 ==============================  
 [https://discord.gg/sHQcp](https://discord.gg/sHQcp)  
 Self-destructs in 6 hours. Please share.  
 ==============================
 
-**\[19.12, #solarisunited]**  
+**\[19.12, \#solarisunited]**  
 Outworlders, I need your help.
 
 We have an agent returning to Orb Vallis. She’s bringing a shipment of stolen Catalysts and Reactors, but security here in the Vallis is tight since the Taxmen caught one of our agents.
@@ -530,7 +530,7 @@ Keep it going for as long as you can.
 
 Complete this mission, and everyone here will get a cut of the shipment.
 
-Your share will be added to the #cache.
+Your share will be added to the \#cache.
 
 Good luck, and stay sharp.
 
@@ -539,7 +539,7 @@ Good luck, and stay sharp.
 Self-destructs in 12 hours. Please share.  
 ===============================
 
-**\[22:20, #cache]**  
+**\[22:20, \#cache]**  
 Rumours are spreading online.
 
 Outworlders are saying that anyone can wear the sigil now.
@@ -548,21 +548,21 @@ Outworlders are saying that anyone can wear the sigil now.
 
 PC, XBOX, PS4 Code:  SOLARISUNITED
 
-**\[22.22, #solarisunited]**  
+**\[22.22, \#solarisunited]**  
 First reports are in. More than 7,000,000 Taxmen have been eliminated on V Prime so far.
 
 The assault is off to a good start, but we need more help.
 
 Let’s make this a day the Corpus will never forget.
 
-**\[23.45, #solarisunited]**  
+**\[23.45, \#solarisunited]**  
 Outworlders, as you’re distracting the Taxmen on V Prime, we’re taking this opportunity to steal new intel.
 
 We found this text in a Corpus database.
 
 Work together to help us decipher it.
 
-I’ll keep an eye on #LiftTogether for what you find.
+I’ll keep an eye on \#LiftTogether for what you find.
 
 [A large text file, [data.txt](https://www.dropbox.com/s/btw0u0rn7t2vt53/09_data.txt?dl=0), was sent to the server, containing gibberish characters. When run through a base64 converter, the text file was shown to be an image, consisting of the same two images – one an exterior shot of the Orb Vallis, the other an interior shot of Fortuna – repeated in a random sequence.]
 
@@ -572,20 +572,20 @@ I’ll keep an eye on #LiftTogether for what you find.
 
 011010010110110101100111011101010111001000101110011000110110111101101101001011110111010101110100010110010100100001111000011100110100110000101110011010100111000001100111
 
-[This translated into an imgur link: [imgur.com/utYHxsL.jpg](https://i.imgur.com/utYHxsL.jpg). The image from imgur was shortly afterwards posted in the #intel channel.]
+[This translated into an imgur link: [imgur.com/utYHxsL.jpg](https://i.imgur.com/utYHxsL.jpg). The image from imgur was shortly afterwards posted in the \#intel channel.]
 
 ---
 
 ## 31 October
 
-**\[00.43, #solarisunited]  
+**\[00.43, \#solarisunited]  
 **Very impressive, Outworlders.
 
 The Corpus may need to hire new intel officers after this is over.
 
-I’ll share what you deciphered in #intel.
+I’ll share what you deciphered in \#intel.
 
-**\[00:47, #intel]**  
+**\[00:47, \#intel]**  
 Little Duck.
 
 One of our best agents.
@@ -598,7 +598,7 @@ If our distraction works, she’ll fly in tonight with those Reactors and Cataly
 
 ![image](https://64.media.tumblr.com/dab6c9ec6cf58e5803338a12a8e745fc/tumblr_inline_pozh8hrged1r56sld_500.jpg)
 
-**\[03.53, #solarisunited]**  
+**\[03.53, \#solarisunited]**  
 You are causing quite a stir, Outworlders.
 
 I’d be shocked if this wasn’t the most activity the Corpus have ever seen on V Prime.
@@ -607,10 +607,10 @@ Little Duck is on her way.
 
 Wear your sigil. Keep it going.
 
-**\[07.06, #solarisunited]**  
+**\[07.06, \#solarisunited]**  
 Your distraction worked. Our agent – Little Duck – is on her way with the shipment of Orokin Catalysts and Reactors. Nice work.
 
-**\[19.09, #solarisunited]**  
+**\[19.09, \#solarisunited]**  
 The assault on V Prime was a resounding success.
 
 More than 30,000 of you came together to help us secure this shipment.
@@ -623,11 +623,11 @@ Good work, Outworlders.
 
 Little Duck arrived unscathed with the shipment of Reactors and Catalysts.
 
-I’ve added your share of the shipment to your #cache.
+I’ve added your share of the shipment to your \#cache.
 
 If we can sell these on the black market, we can repay a great amount of Solaris debt.
 
-**\[19:10, #cache]**  
+**\[19:10, \#cache]**  
 Thanks for your help, Outworlders.
 
 Because of your distraction on V Prime, Little Duck was able to deliver these to us.
@@ -638,7 +638,7 @@ I’ve added your cut to the cache for you to pick up when this is all over.
 
 An all-platform Cache code will be shared once all shipments have been stolen.
 
-**\[19.12, #solarisunited]**  
+**\[19.12, \#solarisunited]**  
 ===============================  
 [https://discord.gg/2DG5D](https://discord.gg/2DG5D)  
 Self-destructs in 12 hours. Please share.  
@@ -648,13 +648,13 @@ Self-destructs in 12 hours. Please share.
 
 ## 01 November
 
-**\[18.45, #solarisunited]  
+**\[18.45, \#solarisunited]  
 **I have a new update for the server that should upgrade the comms channel and fix a few bugs. You’ll need to accept the download on your end.
 
-**\[19.39, #solarisunited]  
+**\[19.39, \#solarisunited]  
 **\[A text file, [errorlog.txt](https://www.dropbox.com/s/l98h4bjao55ihjh/12_errorlog.txt?dl=0), was sent to the server. It contained random characters and punctuation, but, when word-wrapped in a particular way, the file could be shown to contain Roman numerals depicted in ASCII art. The sequence of numbers was 1, 22, 23, 24, 65, 84, 85, 103, 142, 143, 146, although this sequence was apparently incorrect and needed to be amended on Prime Time #224, which also aired that day. During Prime Time, the sequence was shown on screen for a few seconds at the end of the stream, where it was corrected to 11, 22, 23, 24, 65, 84, 85, 103, 142, 143, 146, 161.]
 
-**\[19.48, #solarisunited]**  
+**\[19.48, \#solarisunited]**  
 [A PDF file, [6rhe84.pdf](https://www.dropbox.com/s/drn5ys1awv4oqi1/13_6rhe84.pdf?dl=0), was sent to the server. It was protected by a password and could not be opened without it. A [tweet](https://twitter.com/PlayWarframe/status/1058080639453487105) by the Warframe twitter account contained the following text:]
 
 feｅｌｔｈeｗeightｏfｗhaｔｗｅoｗeｆeeltｈeweigｈtοfｗhatweоｗｅfｅelｔhewｅⅰghtofwhatweowefeeltheweightofwhatweowefeeltheweightofwhatweowefeeltheweightofwhatweowe
@@ -669,11 +669,11 @@ The right group of Outworlders creates a tribe, one that is full of ambition and
 
 ## 03 November
 
-**\[19.12, #solarisunited]  
+**\[19.12, \#solarisunited]  
 **/// TRANSMISSION JAMMER DEACTIVATED ///  
 /// UNAUTHORISED USERS REMOVED ///
 
-**\[19.40, #solarisunited]**  
+**\[19.40, \#solarisunited]**  
 You did it, Outworlders!
 
 When the Corpus jammer went up, I feared the worst. I didn’t think we would speak again.
@@ -690,7 +690,7 @@ Well done, Outworlders. Well done.
 
 Our team stole a shipment of Fieldron and Articulas while we were busy with the jammer.
 
-I’ve added your cut to the #cache.
+I’ve added your cut to the \#cache.
 
 And thanks to your efforts, this server is now open for anyone to join.
 
@@ -704,7 +704,7 @@ This is it. Stay sharp.
 
 [The Discord server now had a universal invite code that did not expire, and anyone could join the server using the new link.]
 
-**\[19:52, #cache]**  
+**\[19:52, \#cache]**  
 While the Corpus jammer was up, our agents managed to steal a shipment of Fieldron. We also found a crate of Articulas stored away in there.
 
 I’ve added your share to the cache.
@@ -716,14 +716,14 @@ Good work, Outworlders.
 An all-platform Cache code will be shared once all shipments have been stolen.  
 Our agents are reporting back today about the final shipment. Stay sharp.
 
-**\[20.33, #solarisunited]**  
+**\[20.33, \#solarisunited]**  
 Urgent message, Outworlders… I have new intel.
 
 The final shipment is missing. Help us track down the tags so we can secure it.
 
 [![](https://youtu.be/6YeekqjUaNA)]
 
-The Business: “We have a situation. The bloody Taxmen are on full alert. I need your help now more than ever. We can’t find the final shipment. The Corpus must have moved it after the jammer went down. The Ventkids know where it is, but it’ll be a warm day on the Vallis before they do something completely useful. They’re giving us the name through coded tags, in a few different locations. Something about… "sticking it to the Taxmen”. _[chuckles]_ Well, they should know where to look for the tags. Find them, figure out the code, and give me the location in the #comms channel. And, of course, I’ll make it worth your while. Stay sharp.“
+The Business: “We have a situation. The bloody Taxmen are on full alert. I need your help now more than ever. We can’t find the final shipment. The Corpus must have moved it after the jammer went down. The Ventkids know where it is, but it’ll be a warm day on the Vallis before they do something completely useful. They’re giving us the name through coded tags, in a few different locations. Something about… "sticking it to the Taxmen”. _[chuckles]_ Well, they should know where to look for the tags. Find them, figure out the code, and give me the location in the \#comms channel. And, of course, I’ll make it worth your while. Stay sharp.“
 
 [A [video](https://www.youtube.com/watch?v=m1dgUmQadLc) was posted to the Warframe YouTube channel, consisting of the first transmission from The Business on 24 October, but in the description of the video was an [imgur link](https://i.imgur.com/zRnRemB.png). This image was of a scrambled piece of text that read "Where Agent 101 greets Agent 36”. This was interpreted as the highways US Route 101 and California State Route 36, which meet in the town of Fortuna, California. A [second video](https://www.youtube.com/watch?v=6YeekqjUaNA) was posted on YouTube, consisting of The Business’ other transmission from today, with another [imgur link](https://i.imgur.com/ivgMjSd.jpg) in the description, this being a depiction of the shape of Fortuna, CA.]
 
@@ -741,7 +741,7 @@ The Business: “We have a situation. The bloody Taxmen are on full alert. I nee
 
 40° 46’ 13.9" N, 73° 55’ 6.0"W [Hoyt Avenue, Long Island City, NY] (no letter, likely error)
 
-[At each of the locations in real life was a billboard advertising the pending Fortuna update for Warframe. Each billboard had a Corpus letter spray-painted in the corner (in bold next to each coordinate). Players had to find the billboards, take a picture of them, and post them to social media using the hashtag #LiftTogether, at which time The Business, using official Warframe social media accounts, would reply and confirm the correct billboard. Two of the locations had no billboard, or a billboard without a letter tag, which was later [acknowledged](https://www.google.com/url?q=https://twitter.com/PlayWarframe/status/1059270896467079168&sa=D&ust=1553621410223000&usg=AFQjCNEO9Gar3hl6_DxKAWIRvJkMRScRBw) as a mistake.]
+[At each of the locations in real life was a billboard advertising the pending Fortuna update for Warframe. Each billboard had a Corpus letter spray-painted in the corner (in bold next to each coordinate). Players had to find the billboards, take a picture of them, and post them to social media using the hashtag \#LiftTogether, at which time The Business, using official Warframe social media accounts, would reply and confirm the correct billboard. Two of the locations had no billboard, or a billboard without a letter tag, which was later [acknowledged](https://www.google.com/url?q=https://twitter.com/PlayWarframe/status/1059270896467079168&sa=D&ust=1553621410223000&usg=AFQjCNEO9Gar3hl6_DxKAWIRvJkMRScRBw) as a mistake.]
 
 ![image](https://64.media.tumblr.com/483e86257cfaf92588697e942d44f6f2/tumblr_inline_pozhsuYfOU1r56sld_500.jpg)
 
@@ -751,7 +751,7 @@ The Business: “We have a situation. The bloody Taxmen are on full alert. I nee
 
 ## 04 November
 
-**\[22:02, #solarisunited]  
+**\[22:02, \#solarisunited]  
 **Not sure where this came from, but if I had to wager, it’d be the Ventkids.
 
 Hmm, it looks like some sort of code.
@@ -776,7 +776,7 @@ Be quick, and stay safe, Outworlders.
 
 ## 05 November
 
-**\[23:21, #solarisunited]  
+**\[23:21, \#solarisunited]  
 **Looks like the Ventkids hid the final batch of coordinates somewhere in here:
 
 [https://www.warframe.com/fortuna/info](https://www.warframe.com/fortuna/info)
@@ -785,7 +785,7 @@ Knowing them, some of these coordinates won’t lead to tags.
 
 Work together to find them and decipher the code.
 
-I’ll keep an eye out for the final location name on #LiftTogether.
+I’ll keep an eye out for the final location name on \#LiftTogether.
 
 Good luck, Outworlders, and stay sharp.
 
@@ -856,7 +856,7 @@ EW▲JFNZL OY▼MLGSY
 
 ## 06 November
 
-**\[03:57, #open-comms]  
+**\[03:57, \#open-comms]  
 **Nice work, Agent Nub. That sounds like a location here in the Vallis.
 
 Let me send a team up there to investigate.
@@ -867,7 +867,7 @@ Rest up and stay sharp, Outworlders.
 
 [Replying to a [tweet](https://www.google.com/url?q=https://twitter.com/primenub/status/1059638635698372608&sa=D&ust=1553621410238000&usg=AFQjCNFA06BdUULqJ2M184q2U-VsUDoGaQ) by @PrimeNub asking about the Temple of Profit.]
 
-**\[16:11, #solarisunited]**  
+**\[16:11, \#solarisunited]**  
 You were right! The final shipment went to the Temple of Profit.
 
 Our team just came back with it. Tons of Forma just waiting to be snatched.
@@ -878,13 +878,13 @@ We couldn’t have done it without your incredible effort.
 
 On behalf of the Solaris, thank you, Outworlders.
 
-I will add your Forma cut to the #cache.
+I will add your Forma cut to the \#cache.
 
 The Ventkids also sent along a Scrawl for your K-Drive to thank you for your efforts – something to give it more flair.
 
 They don’t hand these out to just anyone, so consider yourself lucky!
 
-**\[16:15, #cache]**  
+**\[16:15, \#cache]**  
 As promised, I’ve added your Forma to the Cache.
 
 I’ll send you the code to your cache once the first Outworlders arrive in Fortuna later this week.
@@ -899,7 +899,7 @@ A PC K-drive Scrawl code will be shared when Fortuna launches this week.
 
 A console K-drive Scrawl code will be shared when Fortuna launches on console.
 
-**\[16:23, #solarisunited]**  
+**\[16:23, \#solarisunited]**  
 We’ve racked up quite a bounty in our short time together.
 
 I’ll give you your code to claim your share once the first Outworlders arrive in Fortuna later this week.
@@ -918,12 +918,12 @@ Thanks again for all of your help, Outworlders. 
 
 Until we speak again, stay sharp.
 
-**\[21:17, #solarisunited]**  
+**\[21:17, \#solarisunited]**  
 Before we meet in person, I have some new intel I’d like to share with you.
 
 I think you’ll find this valuable.
 
-There’s a layer of encryption to keep its contents safe – answer my questions using #LiftTogether.
+There’s a layer of encryption to keep its contents safe – answer my questions using \#LiftTogether.
 
 What controls the flash? [Answer: Those who lift together]  
 What was the original server version? [Answer: 5.24]  
@@ -932,14 +932,14 @@ Who did we lose? [Answer: HC-85]
 The ___ wakes first. [Answer: dreamer]  
 Final question: What do we fear? [Answer: Repossession. Soon, nothing.]
 
-[Players attempted to answer the questions on social media using the hashtag #LiftTogether. The correct answers were linked by The Business in the #open-comms channel with the acknowledgement “Response confirmed.” Those who responded correctly soon received fragments of another debt portfolio. Once all the pieces were brought together, The Business posted the complete image in #intel.]
+[Players attempted to answer the questions on social media using the hashtag \#LiftTogether. The correct answers were linked by The Business in the \#open-comms channel with the acknowledgement “Response confirmed.” Those who responded correctly soon received fragments of another debt portfolio. Once all the pieces were brought together, The Business posted the complete image in \#intel.]
 
-**\[22:28, #solarisunited]**  
+**\[22:28, \#solarisunited]**  
 Good work, Outworlders.
 
-I’ll add what you put together in #intel.
+I’ll add what you put together in \#intel.
 
-**\[22:29, #intel]**  
+**\[22:29, \#intel]**  
 Poor Thursby. First he loses his parents on Deck 12, then he inherits their debt.
 
 Now he’s facing repossession.
@@ -952,7 +952,7 @@ I need to tell Eudico about this.
 
 ## 08 November
 
-**\[00:35, #solarisunited]  
+**\[00:35, \#solarisunited]  
 **An agent has intel for us. He’s an Outworlder, like you. 
 
 He’ll be waiting for you somewhere in the Origin System.
@@ -970,16 +970,16 @@ You should share this with our, uh, mutual friend.
 2. Find me in Cetus on PC.  
 3. Deep Bow twice to confirm your identity.
 
-[On Cetus, there would be a player with the name [FRIENDOFSOLARIS] in a Mag warframe. If this player was approached by another player wearing the Solaris United sigil, and was Deep Bowed twice to, they would say a message such as “qYDRDVq” into Cetus chat, and leave, going to another Cetus instance. Players had to find which instance of Cetus the Friend of Solaris was in, find them, and approach them to receive another code. The codes turned out to be imgur links (ie [https://imgur.com/qYDRDVq](https://imgur.com/qYDRDVq)), which were pieces of another debt portfolio. Once all the pieces were collected and assembled, The Business posted the complete picture in #intel.]
+[On Cetus, there would be a player with the name [FRIENDOFSOLARIS] in a Mag warframe. If this player was approached by another player wearing the Solaris United sigil, and was Deep Bowed twice to, they would say a message such as “qYDRDVq” into Cetus chat, and leave, going to another Cetus instance. Players had to find which instance of Cetus the Friend of Solaris was in, find them, and approach them to receive another code. The codes turned out to be imgur links (ie [https://imgur.com/qYDRDVq](https://imgur.com/qYDRDVq)), which were pieces of another debt portfolio. Once all the pieces were collected and assembled, The Business posted the complete picture in \#intel.]
 
-**\[03:06, #solarisunited]**  
+**\[03:06, \#solarisunited]**  
 Remarkable work, Outworlders.
 
 Ah, this is about Zuud.
 
-I’ll add what you deciphered to #intel.
+I’ll add what you deciphered to \#intel.
 
-**\[03:07, #intel]**  
+**\[03:07, \#intel]**  
 Zuud’s a few circuits short of a full board, but I can’t blame her.
 
 Another Deck 12 survivor. A night of horrors, to be sure.
@@ -992,7 +992,7 @@ Eudico still blames herself.
 
 ![image](https://64.media.tumblr.com/d84d8dc3bb77c3b2b5f333c166ea433b/tumblr_inline_pozib6BGVx1r56sld_500.jpg)
 
-**\[05:10, #solarisunited]**  
+**\[05:10, \#solarisunited]**  
 I couldn’t help but notice something last week.
 
 When I mentioned my former protégé, you seemed to recognise her.
@@ -1009,7 +1009,7 @@ And maybe you’ll learn our truth when you get here.
 
 ![image](https://64.media.tumblr.com/2ba2431e1357eb92c63dde3ee213bd7c/tumblr_inline_pozicwSS7g1r56sld_500.jpg)
 
-**\[18:42, #solarisunited]**  
+**\[18:42, \#solarisunited]**  
 This is it, Outworlders. There’s one last piece of intel for us to decipher.
 
 Work together to solve it and report back to me.
@@ -1022,23 +1022,23 @@ Our time together here is almost over, but on the bright side… it won’t be l
 
 ![image](https://64.media.tumblr.com/cf4babad2acc4c200fe3a234231b1f32/tumblr_inline_poziftC1jb1r56sld_500.png)
 
-[Counting the number of characters in each column gives 17, 17, 10, 26, 18, 4, 14; 7, 11, 14, 1, 16, 25; and 7, 22, 14, 18, 5, 21, 10. Converting the numbers into letters, based on their position in the alphabet (where A=1, B=2, and so forth) gives the strings QQJZRDN, GKNAPOY, and GVNREUJ. These are imgur links (ie [https://imgur.com/QqJZrDN](https://imgur.com/QqJZrDN)), which show pieces of yet another debt portfolio. Once the image was put together, The Business posted the complete image in #intel.]
+[Counting the number of characters in each column gives 17, 17, 10, 26, 18, 4, 14; 7, 11, 14, 1, 16, 25; and 7, 22, 14, 18, 5, 21, 10. Converting the numbers into letters, based on their position in the alphabet (where A=1, B=2, and so forth) gives the strings QQJZRDN, GKNAPOY, and GVNREUJ. These are imgur links (ie [https://imgur.com/QqJZrDN](https://imgur.com/QqJZrDN)), which show pieces of yet another debt portfolio. Once the image was put together, The Business posted the complete image in \#intel.]
 
-**\[19:36, #solarisunited]**  
+**\[19:36, \#solarisunited]**  
 Outworlders, today is the day we’ve been waiting for. You know what’s at stake now.
 
 As we open our home to you, help us spread the word.
 
-Report in with your Agent name and let everyone know that today, we all #LiftTogether.
+Report in with your Agent name and let everyone know that today, we all \#LiftTogether.
 
 [https://discord.gg/lifttogether](https://discord.gg/lifttogether)
 
-**\[19:45, #solarisunited]**  
+**\[19:45, \#solarisunited]**  
 Excellent work, Outworlders. This intel is about Eudico.
 
-I’ll share your final deciphered information in #intel.
+I’ll share your final deciphered information in \#intel.
 
-**\[19:46, #intel]**  
+**\[19:46, \#intel]**  
 Eudico. Nef Anyo’s loyal floor boss.
 
 Or so it would seem from her report. Clean as a whistle on paper.
@@ -1061,7 +1061,7 @@ Help me convince her to bring back Solaris United.
 
 ![image](https://64.media.tumblr.com/784327401824a3bde122e8df2dad224d/tumblr_inline_poziiawnYL1r56sld_500.jpg)
 
-**\[20:36, #solarisunited]**  
+**\[20:36, \#solarisunited]**  
 Looks like some of you made it down here to Fortuna.
 
 Thanks for all of your hard work, Outworlders.

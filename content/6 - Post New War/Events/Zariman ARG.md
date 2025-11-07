@@ -24,8 +24,8 @@ On April 20, 2022 05:58 UTC, TheRagingterror on Discord revealed that he and oth
 One cardboard cutout in particular was a portrait of [Albrecht Entrati](https://wiki.warframe.com/w/Albrecht_Entrati "Albrecht Entrati") (identical to the one found during [The New War](https://wiki.warframe.com/w/The_New_War "The New War")) labeled "Digital Extremes-200-01-of-06-num1-mC-Zariman_Prop_AlbrechtPainting_withARG.psd", implying it contains clues for the ARG.
 
 - There is a hidden code "M77" inscribed on his mask. M77 refers to [Messier 77](https://en.wikipedia.org/wiki/Messier_77 "wikipedia:Messier 77"), a galaxy that is within the constellation of [Cetus](https://en.wikipedia.org/wiki/Cetus "wikipedia:Cetus") (or the 'whale').
-    - This implies that there is a lead somewhere in the in-game hub [Cetus](https://wiki.warframe.com/w/Cetus "Cetus") which was revealed to be a player named Unidentified-Signal. The player would type a clue in chat that is revealed in [#In-Game Cetus and Base64 Puzzle](https://wiki.warframe.com/w/Zariman_ARG#In-Game_Cetus_and_Base64_Puzzle).
-    - The [right ascension](https://en.wikipedia.org/wiki/Right_ascension "wikipedia:Right ascension") and [declination](https://en.wikipedia.org/wiki/Declination "wikipedia:Declination") of Messier 77 (RA 02h 42m 41s | Dec −0° 0′ 48″) would be used to solve one of the final puzzles in the ARG: [#IRC Chat - Satellite Alignment Puzzle](https://wiki.warframe.com/w/Zariman_ARG#IRC_Chat_-_Satellite_Alignment_Puzzle).
+    - This implies that there is a lead somewhere in the in-game hub [Cetus](https://wiki.warframe.com/w/Cetus "Cetus") which was revealed to be a player named Unidentified-Signal. The player would type a clue in chat that is revealed in [In-Game Cetus and Base64 Puzzle](https://wiki.warframe.com/w/Zariman_ARG#In-Game_Cetus_and_Base64_Puzzle).
+    - The [right ascension](https://en.wikipedia.org/wiki/Right_ascension "wikipedia:Right ascension") and [declination](https://en.wikipedia.org/wiki/Declination "wikipedia:Declination") of Messier 77 (RA 02h 42m 41s | Dec −0° 0′ 48″) would be used to solve one of the final puzzles in the ARG: [IRC Chat - Satellite Alignment Puzzle](https://wiki.warframe.com/w/Zariman_ARG#IRC_Chat_-_Satellite_Alignment_Puzzle).
 - ![](https://wiki.warframe.com/images/thumb/ZarimanARGAlbrechtPainting.jpg/800px-ZarimanARGAlbrechtPainting.jpg?04571)
     
     Image of [Albrecht Entrati](https://wiki.warframe.com/w/Albrecht_Entrati "Albrecht Entrati") with the hidden code "M77" inscribed on his mask
@@ -240,7 +240,7 @@ These people are friends, they can help you:
 
 https://discord.gg/playwarframe
 
-Go to #open-comms channel to find allies.
+Go to \#open-comms channel to find allies.
 
 ===================================
 
@@ -288,7 +288,7 @@ Around April 23, 2022 20:41 UTC, the UnidentifiedSignal Twitch channel started s
 aHR0cHM6Ly9mb3J1bXMubmkuY29tL3Q1L0xhYlZJRVcvRG91YmxlLVhPUi1DaXBoZXItV2lsbC1pdC1pbmNyZWFzZS1zYWZldHkvdGQtcC80MTg2NjA2
 
 - The string translates to "https://forums.ni.com/t5/LabVIEW/Double-XOR-Cipher-Will-it-increase-safety/td-p/4186606".
-    - The linked forum post is about the double XOR cipher method, hinting at its use in [#weendaswebegan.com - Double XOR Cipher Puzzle](https://wiki.warframe.com/w/Zariman_ARG#weendaswebegan.com_-_Double_XOR_Cipher_Puzzle).
+    - The linked forum post is about the double XOR cipher method, hinting at its use in [\#weendaswebegan.com - Double XOR Cipher Puzzle](https://wiki.warframe.com/w/Zariman_ARG#weendaswebegan.com_-_Double_XOR_Cipher_Puzzle).
 
 ### In-Game Cetus and Base64 Puzzle
 
@@ -1198,7 +1198,7 @@ There is new [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat "wikipedia
 
 ::ZARIMAN EMERGENCY BROADCAST PROTOCOL v2.33:: PLEASE INPUT DESTINATION COORDINATES. IF COORDINATES ARE RELATIVE TO A KNOWN CELESTIAL OBJECT, PLEASE INPUT COORDINATES AND SPECIFY THE CELESTIAL OBJECT THEY ARE RELATIVE TO.
 
-The correct coordinates are `EARTH RA 2h 42m 41s | Dec -0° 0′ 48″`, referring to coordinates of Messier 77 relative to Earth ([#April 13-20, 2022 - M77 Clue](https://wiki.warframe.com/w/Zariman_ARG#April_13-20,_2022_-_M77_Clue)).
+The correct coordinates are `EARTH RA 2h 42m 41s | Dec -0° 0′ 48″`, referring to coordinates of Messier 77 relative to Earth ([\#April 13-20, 2022 - M77 Clue](https://wiki.warframe.com/w/Zariman_ARG#April_13-20,_2022_-_M77_Clue)).
 
 ### IRC Chat - ROT-47 Cipher Puzzle
 
