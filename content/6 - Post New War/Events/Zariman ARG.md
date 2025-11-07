@@ -1267,6 +1267,7 @@ In response, a message has to uploaded to an "encrypted channel" `` ` f_a fd` _
 #### Full Logs
 > [!note]
 > I pissed off a lot of people here
+
 > [!quote]
 > ```
 > Start of #SAT_INT_ZARIMAN buffer: Tue Apr 26 13:01:27 2022
