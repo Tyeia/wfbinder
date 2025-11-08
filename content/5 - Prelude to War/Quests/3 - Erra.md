@@ -1,0 +1,7 @@
+![](https://wiki.warframe.com/images/thumb/Erra.png/300px-Erra.png?e2499)
+[Transcript](https://wiki.warframe.com/w/Erra_(Quest)/Transcript)
+
+RECOMMENDED READING:
+[[Erra]]
+
+In preparation of [The New War](https://wiki.warframe.com/w/The_New_War "The New War"), the [Tenno](https://wiki.warframe.com/w/Tenno "Tenno") travels to the [Veil Proxima](https://wiki.warframe.com/w/Veil_Proxima "Veil Proxima") with their [Railjack](https://wiki.warframe.com/w/Railjack "Railjack") crew, only to discover a [Murex](https://wiki.warframe.com/w/Murex "Murex") Ship. With their  [![](https://wiki.warframe.com/images/thumb/Paracesis.png/32px-Paracesis.png?f1231)](https://wiki.warframe.com/w/Paracesis) [Paracesis](https://wiki.warframe.com/w/Paracesis) in hand, they board the Murex to fend off the Sentient threat. Afterwards, they destroy a mysterious red crystal at the end of the Murex, which upon re-boarding the [Orbiter](https://wiki.warframe.com/w/Orbiter "Orbiter") reveals flashbacks about [The Old War](https://wiki.warframe.com/w/The_Old_War "The Old War") and [Natah](https://wiki.warframe.com/w/Natah "Natah")'s brother, [Erra](https://wiki.warframe.com/w/Erra_\(Character\) "Erra (Character)"). A vision of the [Sentient Mothership](https://wiki.warframe.com/w/Praghasa "Praghasa") exposes a meeting between Erra and Natah, hinting at an escalation of the war with Natah's war cry.

@@ -1,0 +1,13 @@
+![](https://wiki.warframe.com/images/Teshin.png?2d375)
+# Lore
+### [Natah](https://wiki.warframe.com/w/Natah_\(Quest\) "Natah (Quest)")
+
+After the [Lotus](https://wiki.warframe.com/w/Lotus "Lotus") abruptly breaks off communication with the Tenno, Teshin makes contact, offering to guide the player and help them figure out why. By the time the Lotus resurfaces, the Tenno and Teshin are already hot on the trail of [Tyl Regor](https://wiki.warframe.com/w/Tyl_Regor "Tyl Regor") and his excavation team.
+
+Notably, Tyl Regor calls Teshin a "_pseudo-Tenno_," and implies at least some familiarity between the two.
+
+### [The War Within](https://wiki.warframe.com/w/The_War_Within "The War Within")
+
+During this quest, it is revealed that Teshin is one of the [Dax](https://wiki.warframe.com/w/Dax "Dax") Soldiers, bearing the epithet "**Teshin Dax**", one of the mighty warrior caste created by the Orokin and used as their personal guardians. Unfortunately for him, the Elder of the [Grineer Queens](https://wiki.warframe.com/w/Grineer_Queens "Grineer Queens") possesses a [Kuva](https://wiki.warframe.com/w/Kuva "Kuva")  [![](https://wiki.warframe.com/images/thumb/BrokenScepter.png/32px-BrokenScepter.png?325b2)](https://wiki.warframe.com/w/Broken_Scepter) [Scepter](https://wiki.warframe.com/w/Broken_Scepter), marking her as a member of the Orokin Elite. As result of his Dax heritage, Teshin is mentally incapable of refusing her orders, though his loathing for the Twins is made quite clear.
+
+In the quest, Teshin suggests that [Margulis](https://wiki.warframe.com/w/Margulis "Margulis") did a disservice to Tenno by concealing and erasing their past. Partly to rectify this and partly to save the player's life, Teshin guides the player's [Operator](https://wiki.warframe.com/w/Operator "Operator") (via astral projection, it is assumed) through a mountain temple on Earth, to an Orokin Yuvan Theater previously used for countless Orokin Continuity rituals. Thanks to Teshin's guidance the player's Operator regains full use of their powers, and [transfers](https://wiki.warframe.com/w/Operator#The_War_Within "Operator") into the [Kuva Fortress](https://wiki.warframe.com/w/Kuva_Fortress "Kuva Fortress") using their [Warframe](https://wiki.warframe.com/w/Warframe "Warframe"). In the ensuing battle the Queens' [Guardians](https://wiki.warframe.com/w/Kuva_Guardian "Kuva Guardian") and Teshin are defeated, and the Elder Queen loses possession of her Scepter, freeing Teshin from her thrall.

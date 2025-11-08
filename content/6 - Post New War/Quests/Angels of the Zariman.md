@@ -1,0 +1,16 @@
+![](https://wiki.warframe.com/images/thumb/AngelsoftheZariman.jpg/300px-AngelsoftheZariman.jpg?d1b7f)
+[Transcript](https://wiki.warframe.com/w/Angels_of_the_Zariman/Transcript)
+
+RECOMMENDED READING:
+[[Zariman ARG]]
+[[The Holdfasts]]
+[[Kira]]
+
+
+> From depths beyond reason a Voice had spoken, and its echoes would not be denied. No longer fully concealed by the ever-shifting Void, the Zariman now rests between worlds. A haunting song resounds across the System. It is time for an overdue confrontation with the past...
+
+Due to the events of the New War, the Zariman Ten Zero is accessible from the material world. The appearance of the fabled ship draws the attention of the [Worm Queen](https://wiki.warframe.com/w/Worm_Queen "Worm Queen")'s [Grineer](https://wiki.warframe.com/w/Grineer "Grineer") and [Parvos Granum](https://wiki.warframe.com/w/Parvos_Granum "Parvos Granum")'s [Corpus](https://wiki.warframe.com/w/Corpus "Corpus"), while a strange song emanating from within attracts the attention of the [Tenno](https://wiki.warframe.com/w/Tenno "Tenno") and the [Lotus](https://wiki.warframe.com/w/Lotus "Lotus").
+
+Once aboard, the Tenno finds that the Grineer had arrived first, loses the Lotus' signal, and meets [The Holdfasts](https://wiki.warframe.com/w/The_Holdfasts "The Holdfasts"), the last remaining survivors of the Zariman's crew who were known to be dead. Led by [Quinn](https://wiki.warframe.com/w/Quinn "Quinn"), they exist in a form in-between life and death, defending the Zariman from that which would destroy it, including the Void itself. They inform the Tenno that the Zariman is suffering a [Void Cascade](https://wiki.warframe.com/w/Void_Cascade "Void Cascade") that threatens reality itself, accelerated by the [Void Angels](https://wiki.warframe.com/w/Void_Angel "Void Angel") such as [Kira](https://wiki.warframe.com/w/Kira "Kira"), who was a former member of the Holdfasts before succumbing to the Void's call. The Tenno is able to stop the Void Cascade with their powers, but the Angels proceed to break through the Albrecht Membrane and cause a [Void Flood](https://wiki.warframe.com/w/Void_Flood "Void Flood"). After sealing the flood, the invading Grineer along with Kira begin a [Void Armageddon](https://wiki.warframe.com/w/Void_Armageddon "Void Armageddon") and head to attack the Reliquary Drive powering the Zariman directly. [Cavalero](https://wiki.warframe.com/w/Cavalero "Cavalero") of the Holdfasts explains that while the Zariman was a colony ship and not provided weapons, the Reliquary Drive was too important to leave unguarded and so it was equipped with Auto-Fabricating Armaments. Using the Armaments, the Tenno is able to successfully defend the Reliquary Drive from the encroaching Grineer troops and destroy Kira, putting a stop to the song and the threat.
+
+Quinn suggests creating a memorial for everyone that was lost in Kira's favorite location, which the Tenno visits to honor them. The Tenno is encouraged by Quinn and the Holdfasts to continue helping defend the Zariman, and to use it as a new home and fortress against both the Void and the enemies of the Tenno.
