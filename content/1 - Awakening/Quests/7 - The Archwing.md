@@ -1,6 +1,7 @@
 ![](https://wiki.warframe.com/images/thumb/TheArchwing.png/300px-TheArchwing.png?8b518)
 [Transcript](https://wiki.warframe.com/w/The_Archwing/Transcript)
 
+RECOMMENDED READING:
 [[Councilor Vay Hek]]
 
 > The Balor Fomorians are coming but we are ready. Through your efforts we finally have a working Archwing prototype and I am sending you the blueprint. However, your task is not yet complete. You still must discover the component parts.

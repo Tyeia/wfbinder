@@ -5,6 +5,8 @@ RECOMMENDED READING:
 [[Lotus]]
 [[Ordis]]
 [[Captain Vor]]
+[[Tenno]]
+[[Grineer]]
 
 
 > The Tenno: monuments of an ancient warrior caste. For generations you've slept, with no call to awake you. Until now.

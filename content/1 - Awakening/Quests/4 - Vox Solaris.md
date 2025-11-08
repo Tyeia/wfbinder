@@ -6,6 +6,7 @@ RECOMMENDED READING:
 [[Solaris United]]
 [[Solaris United ARG]]
 [[Nef Anyo]]
+[[Corpus]]
 
 > Eudico would do anything to keep her people safe, but will she stand up to Nef Anyo?
 
