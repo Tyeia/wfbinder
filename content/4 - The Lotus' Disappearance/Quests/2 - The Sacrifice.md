@@ -4,8 +4,8 @@
 RECOMMENDED READING:
 [[Ordis' Past]]
 [[The Beast]]
-[[Ballas]]
-[[Natah]]
+[[4 - The Lotus' Disappearance/Important Characters/Ballas|Ballas]]
+[[4 - The Lotus' Disappearance/Important Characters/Natah|Natah]]
 
 > A tortured vision sends the Operator on the hunt for a Warframe unlike any other.
 

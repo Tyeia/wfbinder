@@ -2,7 +2,7 @@
 [Transcript](https://wiki.warframe.com/w/The_Lotus_Eaters/Transcript)
 
 RECOMMENDED READING:
-[[Lotus]]
+[[7 - The Kalymos Sequence/Important Characters/Lotus|Lotus]]
 
 > A strange call comes from beyond and must not go unanswered.
 

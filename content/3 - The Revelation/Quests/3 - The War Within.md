@@ -4,7 +4,7 @@
 RECOMMENDED READING:
 [[Kaleen's Investigation]]
 [[Kuria Poem]]
-[[Teshin]]
+[[3 - The Revelation/Important Characters/Teshin|Teshin]]
 [[Twin Queens]]
 [[Continuity]]
 

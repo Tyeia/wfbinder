@@ -3,7 +3,7 @@
 
 RECOMMENDED READING:
 [[Conceptual Embodiment]]
-[[Teshin]]
+[[6 - Post New War/Important Characters/Teshin|Teshin]]
 [[Dominus Thrax]]
 
 Trapped within the [Void](https://wiki.warframe.com/w/Void "Void") in an endless loop, the [Drifter](https://wiki.warframe.com/w/Drifter "Drifter") time and time again fails to escape [Duviri](https://wiki.warframe.com/w/Duviri "Duviri") as they are repeatedly sentenced to death by the time-resetting mad ruler [Dominus Thrax](https://wiki.warframe.com/w/Dominus_Thrax "Dominus Thrax"), leaving them in a depressed and apathetic state, no longer remembering who they are. One day, following a strange sensation of being [stabbed](https://wiki.warframe.com/w/The_New_War "The New War"), a [mysterious hand](https://wiki.warframe.com/w/Lotus "Lotus") appears providing the Drifter with strange powers. The hand guides the Drifter to [Teshin](https://wiki.warframe.com/w/Teshin "Teshin"), an old wizened man, who explains that they have received aid from beyond the Void-made "walls" of their "prison" and gradually teaches them about the ways of the [Tenno](https://wiki.warframe.com/w/Tenno "Tenno") and the [Warframes](https://wiki.warframe.com/w/Warframes "Warframes") sent as aid through the paradox from a storybook titled [Tales of Duviri](https://wiki.warframe.com/w/Tales_of_Duviri "Tales of Duviri").

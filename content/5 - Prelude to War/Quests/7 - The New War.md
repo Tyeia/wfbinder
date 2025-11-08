@@ -2,8 +2,8 @@
 [Transcript](https://wiki.warframe.com/w/The_New_War/Transcript)
 
 RECOMMENDED READING:
-[[Hunhow]]
-[[Teshin]]
+[[5 - Prelude to War/Important Characters/Hunhow|Hunhow]]
+[[5 - Prelude to War/Important Characters/Teshin|Teshin]]
 
 > The Sentient armada has emerged from the Veil Proxima in shocking numbers.
 > 

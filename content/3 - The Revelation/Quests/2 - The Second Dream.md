@@ -8,8 +8,8 @@ RECOMMENDED READING:
 [[Stalker's Manifesto]]
 [[Margulis]]
 [[Natah]]
-[[Hunhow]]
-[[Stalker]]
+[[3 - The Revelation/Important Characters/Hunhow|Hunhow]]
+[[3 - The Revelation/Important Characters/Stalker|Stalker]]
 
 > The Sentient Hunhow seeks to destroy the Tenno by exploiting long forgotten secrets.
 

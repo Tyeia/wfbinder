@@ -5,9 +5,9 @@
 RECOMMENDED READING:
 [[Creation of Sentients]]
 [[Grineer Encounter with Sentients]]
-[[Hunhow]]
+[[3 - The Revelation/Important Characters/Hunhow|Hunhow]]
 [[Natah]]
-[[Teshin]]
+[[3 - The Revelation/Important Characters/Teshin|Teshin]]
 
 On [Uranus](https://wiki.warframe.com/w/Uranus "Uranus"), the Tenno encounters strange drones that seem to be looking for something... or someone. Upon scanning them, the Lotus will ask the Tenno for their assistance. Assuming that they are of [Corpus](https://wiki.warframe.com/w/Corpus "Corpus") origin, Lotus sends the Tenno to [Earth](https://wiki.warframe.com/w/Earth "Earth") to investigate these drones, only to discover an [Old War](https://wiki.warframe.com/w/The_Old_War "The Old War") wreckage which heightens her confusion. In an epiphany, the Lotus realizes these drones are [Sentient](https://wiki.warframe.com/w/Sentient "Sentient") [Oculysts](https://wiki.warframe.com/w/Oculyst "Oculyst") and immediately cuts off transmissions with the Tenno. An individual of the [Orokin](https://wiki.warframe.com/w/Orokin "Orokin")-era, [Conclave](https://wiki.warframe.com/w/Conclave "Conclave") master [Teshin](https://wiki.warframe.com/w/Teshin "Teshin") offers his aid to unravel the truth about the mysterious Lotus, suspicious of her true motives.
 > [!quote] Teshin
