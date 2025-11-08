@@ -1,5 +1,8 @@
 ![](https://wiki.warframe.com/images/thumb/TheArchwing.png/300px-TheArchwing.png?8b518)
 [Transcript](https://wiki.warframe.com/w/The_Archwing/Transcript)
+
+[[Councilor Vay Hek]]
+
 > The Balor Fomorians are coming but we are ready. Through your efforts we finally have a working Archwing prototype and I am sending you the blueprint. However, your task is not yet complete. You still must discover the component parts.
 
 The threat of a Grineer [Balor Fomorian](https://wiki.warframe.com/w/Balor_Fomorian "Balor Fomorian"), the capital ship of the Fomorian fleet, tips the balance of power within the Solar System. [Councilor Vay Hek](https://wiki.warframe.com/w/Councilor_Vay_Hek "Councilor Vay Hek") declares war on the [Corpus](https://wiki.warframe.com/w/Corpus "Corpus") and the Chairman of the Corpus Board of Directors, [Frohd Bek](https://wiki.warframe.com/w/Frohd_Bek "Frohd Bek"), in an attempt to seize total control over the Origin System.
