@@ -1,0 +1,9 @@
+![](https://wiki.warframe.com/images/thumb/CalloftheTempestarii.jpg/300px-CalloftheTempestarii.jpg?153a6)
+[Transcript](https://wiki.warframe.com/w/Call_of_the_Tempestarii/Transcript)
+
+RECOMMENDED READING:
+[[Vala Glarios]]
+
+> Void Storms gather in Corpus lanes... could a mysterious vessel somehow be the cause?
+
+[Cephalon Cy](https://wiki.warframe.com/w/Cephalon_Cy "Cephalon Cy") discovers [Corpus](https://wiki.warframe.com/w/Corpus "Corpus") convoys exploring [Void](https://wiki.warframe.com/w/Void "Void") anomalies in [Veil Proxima](https://wiki.warframe.com/w/Veil_Proxima "Veil Proxima") and decides to bring the Tenno along to investigate. Upon arrival, the Tenno gets intercepted by [Vala Glarios](https://wiki.warframe.com/w/Vala_Glarios "Vala Glarios") and her fleet, followed by the ghost ship the [Tempestarii](https://wiki.warframe.com/w/Tempestarii "Tempestarii"), helmed by [Sevagoth's Shadow](https://wiki.warframe.com/w/Sevagoth%27s_Shadow "Sevagoth's Shadow"). Escaping the ambush, the Tenno infiltrates a Corpus ship and hacks into their data vaults to discover the mysterious origins of the ghost ship. With this information, Cephalon Cy releases a distress signal to summon the Tempestarii and establishes communication with the ship. Vala returns to destroy the Tempestarii, but Sevagoth's Shadow fends off the invaders. The Tenno successfully sends Vala's capital ship into the Void and returns the Shadow to its body. In the end scene, [Parvos Granum](https://wiki.warframe.com/w/Parvos_Granum "Parvos Granum") is seen with Vala in the [Granum Void](https://wiki.warframe.com/w/Granum_Void "Granum Void").

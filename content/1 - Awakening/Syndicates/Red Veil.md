@@ -36,7 +36,7 @@ In exchange for such a daring task, players were rewarded [Specter](https://wik
 
 The Red Veil's involvement in the **Avalanche Offensive** is fairly minor, consisting of Cantis informing the Tenno of an unusual amount of [Arctic Eximus](https://wiki.warframe.com/w/Eximus "Eximus") training on [Mars](https://wiki.warframe.com/w/Mars "Mars"). After the Tenno resolve the threat, Cantis thanks the Tenno, also rewarding them with an [Affinity Booster](https://wiki.warframe.com/w/Affinity_Booster "Affinity Booster"), which the Corpus were using to improve their training.
 
-## [[Chains of Harrow]]
+## [[4 - Chains of Harrow|Chains of Harrow]]
 >Righteous Rell - outcast of sacred Void - hear my voice. Speak. You have been driven from the vessel by your suffering. You have swallowed the poison stars so we would not... Holy Rell, Speak! The Tenno who rejected you have come to your aid!
 
 —Palladino

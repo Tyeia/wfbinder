@@ -1,0 +1,4 @@
+# Lore
+### [The Lotus Eaters](https://wiki.warframe.com/w/The_Lotus_Eaters "The Lotus Eaters")
+
+Following the events of [Whispers in the Walls](https://wiki.warframe.com/w/Whispers_in_the_Walls "Whispers in the Walls"), the Lotus appears in-person at [Sanctum Anatomica](https://wiki.warframe.com/w/Sanctum_Anatomica "Sanctum Anatomica"). As the Tenno approaches her, she is revealed to be fighting the influence of [The Man in the Wall](https://wiki.warframe.com/w/The_Man_in_the_Wall "The Man in the Wall") and instructs the [Drifter](https://wiki.warframe.com/w/Drifter "Drifter") to find [Albrecht Entrati](https://wiki.warframe.com/w/Albrecht_Entrati "Albrecht Entrati") in [1999](https://wiki.warframe.com/w/1999 "1999"). [Loid](https://wiki.warframe.com/w/Loid_\(Original\) "Loid (Original)") is able to use this established link to assist in completing this time travel journey.
