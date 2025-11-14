@@ -21,7 +21,7 @@ Khora is red in whip and claw. She works together with her Kavat companion, Vena
 > 
 > An apex predator, a deathless companion. Unsurpassed. Blood-raw in whip, claw and fang. Khora.
 
-—[[Ballas]]
+—[[4 - The Lotus' Disappearance/Important Characters/Ballas|Ballas]]
 ![[khorapa.png]]
 ![](https://youtu.be/FEQP2y--LG8?si=n3V5odXGcLuIyzw_)
 **Release Date:** April 20th, 2018

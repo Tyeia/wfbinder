@@ -22,7 +22,7 @@ Mirage's sleight of hand complements her might. Her dazzled foes take heavy dama
 > 
 > The mere vapors of your life, shimmering still. Mirage.
 
-—[[Ballas]]
+—[[4 - The Lotus' Disappearance/Important Characters/Ballas|Ballas]]
 ![[miragepa.png]]
 ![](https://youtu.be/LP9xH9hqC04?si=4t2ajkF36dyoa_--)
 **Release Date:** July 18th, 2014

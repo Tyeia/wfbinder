@@ -22,7 +22,7 @@ Valkyr was modified into a highly motivated and fearsome killer. She is adept at
 > 
 > That is why they will destroy us.
 
-—[[Ballas]]
+—[[4 - The Lotus' Disappearance/Important Characters/Ballas|Ballas]]
 ![[valkyrpa.png]]
 ![](https://youtu.be/9ubZLPNE4Lk?si=63hSov4MytpPKU0Y)
 

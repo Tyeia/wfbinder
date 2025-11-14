@@ -65,6 +65,6 @@ Converge three streams of raw energy upon a single point, causing a massive expl
 > 
 > Master his abilities. Discover his potential. Restore his honor.
 > 
-> [[Lotus]]
+> [[1 - Awakening/Important Characters/Lotus|Lotus]]
 
 Birthed during [The Old War](https://wiki.warframe.com/w/The_Old_War "The Old War") by the  [![](https://wiki.warframe.com/images/thumb/SentientFactionIcon.png/32px-SentientFactionIcon.png?19c23)](https://wiki.warframe.com/w/Sentient) [[Sentient]] warlord, [[Erra]], Caliban was created for a single purpose: to destroy the  [![](https://wiki.warframe.com/images/thumb/TennoIcon.png/32px-TennoIcon.png?3c7f6)](https://wiki.warframe.com/w/Tenno) [[Tenno]]h Warframe and Sentient, it is a miracle that his creator no longer controls him.

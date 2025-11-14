@@ -2,7 +2,7 @@
 [Transcript](https://wiki.warframe.com/w/Awakening/Transcript)
 
 RECOMMENDED READING:
-[[Lotus]]
+[[1 - Awakening/Important Characters/Lotus|Lotus]]
 [[Ordis]]
 [[Captain Vor]]
 [[Tenno]]
@@ -13,10 +13,10 @@ RECOMMENDED READING:
 
 **Awakening** is the introductory [Quest](https://wiki.warframe.com/w/Quest "Quest") to [WARFRAME](https://wiki.warframe.com/w/WARFRAME "WARFRAME"), designed to allow players to familiarize themselves with the basics of Warframe control and combat. Players are given a choice between various starting Warframes:  [![](https://wiki.warframe.com/images/thumb/ExcaliburIcon272.png/31px-ExcaliburIcon272.png?3bcf7)](https://wiki.warframe.com/w/Excalibur) [Excalibur](https://wiki.warframe.com/w/Excalibur),  [![](https://wiki.warframe.com/images/thumb/MagIcon272.png/31px-MagIcon272.png?3e890)](https://wiki.warframe.com/w/Mag) [Mag](https://wiki.warframe.com/w/Mag), and  [![](https://wiki.warframe.com/images/thumb/VoltIcon272.png/31px-VoltIcon272.png?9e2f7)](https://wiki.warframe.com/w/Volt) [Volt](https://wiki.warframe.com/w/Volt), along with a small selection of weapons. The Quest was released in [Update 29.0](https://wiki.warframe.com/w/Update_29 "Update 29") (2020-08-25).
 # Cinematic Intro
-The intro, narrated by the [[Lotus]], tells the tale of the [[Tenno]]. They were once an ancient warrior caste who controlled the [Warframes](https://wiki.warframe.com/w/Warframes "Warframes") and brought ruin to the [[Orokin]] Empire, before abruptly leaving. However, with the rise of the [[Grineer]] Empire, seeds from the ruins of [The Old War](https://wiki.warframe.com/w/The_Old_War "The Old War") that now swallow colonies whole, the Tenno begin to awaken.
+The intro, narrated by the [[1 - Awakening/Important Characters/Lotus|Lotus]], tells the tale of the [[Tenno]]. They were once an ancient warrior caste who controlled the [Warframes](https://wiki.warframe.com/w/Warframes "Warframes") and brought ruin to the [[Orokin]] Empire, before abruptly leaving. However, with the rise of the [[Grineer]] Empire, seeds from the ruins of [The Old War](https://wiki.warframe.com/w/The_Old_War "The Old War") that now swallow colonies whole, the Tenno begin to awaken.
 >For generations, you’ve slept. No purpose.... no call... to wake you.
 
-—[[Lotus]]
+—[[1 - Awakening/Important Characters/Lotus|Lotus]]
 The cinematic opens with a human girl, awakening underwater. Gasping for air, she surfaces, only to find the Grineer burning down the forests of [Earth](https://wiki.warframe.com/w/Earth "Earth").
 > Grineer! Seeds from the ruins of the Old War. Swallowing colonies whole.
 
@@ -43,7 +43,7 @@ Back in the present, the Grineer soldiers have reached the temple. The girl drop
 —Lotus
 
 # Synopsis
-For countless centuries, the Tenno have been dormant, but with the Grineer Empire on the rise, the [[Lotus]] begins tracking down and awakening the Tenno. Unfortunately for the Lotus, [[Captain Vor]] has been one step ahead of her so far and has been killing off the Tenno as they awaken, before they are strong enough to stop him. His latest find takes him to [Earth](https://wiki.warframe.com/w/Earth "Earth"), near an [[Ostron]] village, where he finds a dormant Tenno just as the Lotus reawakens them.
+For countless centuries, the Tenno have been dormant, but with the Grineer Empire on the rise, the [[1 - Awakening/Important Characters/Lotus|Lotus]] begins tracking down and awakening the Tenno. Unfortunately for the Lotus, [[Captain Vor]] has been one step ahead of her so far and has been killing off the Tenno as they awaken, before they are strong enough to stop him. His latest find takes him to [Earth](https://wiki.warframe.com/w/Earth "Earth"), near an [[Ostron]] village, where he finds a dormant Tenno just as the Lotus reawakens them.
 
 This time, however, he has a different plan—to capture said Tenno. He attaches an [Ascaris](https://wiki.warframe.com/w/Ascaris "Ascaris") device to the Warframe, ordering his soldiers to spare it; he intends to use the Ascaris to control the Tenno, and take it to the [[Twin Queens]] as his prize. Presumably the first of many or a proof of concept, Vor would then seek to capture more Tenno; once armed with loyal Tenno soldiers, the Grineer Empire would become unstoppable.
 

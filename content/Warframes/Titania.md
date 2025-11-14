@@ -50,7 +50,7 @@ Shrink down and take flight, while razorflies attack nearby enemies.
 
 —[Silvana](https://wiki.warframe.com/w/Silvana "Silvana")
 
-[Silvana](https://wiki.warframe.com/w/Silvana "Silvana") was an [[Orokin]]-era researcher from [Earth](https://wiki.warframe.com/w/Earth "Earth") who wished to save her dying planet. She was recruited by [[Margulis]] to assist in Transference research, but the dream in working with her childhood hero turned into a nightmare as [[Ballas]] warped the project into creating Warframes for the sole purpose of destruction. Thus, Titania was born, a killer made by a healer.
+[Silvana](https://wiki.warframe.com/w/Silvana "Silvana") was an [[Orokin]]-era researcher from [Earth](https://wiki.warframe.com/w/Earth "Earth") who wished to save her dying planet. She was recruited by [[Margulis]] to assist in Transference research, but the dream in working with her childhood hero turned into a nightmare as [[4 - The Lotus' Disappearance/Important Characters/Ballas|Ballas]] warped the project into creating Warframes for the sole purpose of destruction. Thus, Titania was born, a killer made by a healer.
 
 Hateful at her own creation, Silvana defected and stowed away on Earth-bound cargo, having stolen Apothics and slapdash Somatics with the intention to revive her planet. Seeding a mighty forest that would become the Silver Grove, Silvana then used her Transference knowledge to successfully and permanently bond with the forest itself.
 

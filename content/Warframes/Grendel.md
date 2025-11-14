@@ -21,7 +21,7 @@ Grendel sees every battlefield as a smorgasbord. His insatiable appetite rewards
 > 
 > For you birthed him, in all his innocent obscenity. This... is what you ordered. Grendel.
 
-—[[Ballas]]
+—[[4 - The Lotus' Disappearance/Important Characters/Ballas|Ballas]]
 ![[grendelpa.png]]
 ![](https://youtu.be/8FSOCxA3X1M?si=RnSsVEbRjEx9N_sV)
 **Release Date:** October 31st, 2019

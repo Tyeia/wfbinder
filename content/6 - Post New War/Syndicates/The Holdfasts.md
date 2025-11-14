@@ -66,5 +66,5 @@ _Main article: [The Husband](https://wiki.warframe.com/w/The_Husband "The Husba
 
 _Main article: [Gyre/Main#Lore](https://wiki.warframe.com/w/Gyre/Main#Lore "Gyre/Main")_
 
-**Gyra** was a passenger notable for her graceful movements and was sent aboard by Orokin Executor [[Ballas]] to act as a figurehead, but eventually became a victim herself of the Void-Jump accident. She is the likely basis for the Warframe  [![](https://wiki.warframe.com/images/thumb/GyreIcon272.png/31px-GyreIcon272.png?4c4ae)](https://wiki.warframe.com/w/Gyre) [Gyre](https://wiki.warframe.com/w/Gyre).
+**Gyra** was a passenger notable for her graceful movements and was sent aboard by Orokin Executor [[5 - Prelude to War/Important Characters/Ballas|Ballas]] to act as a figurehead, but eventually became a victim herself of the Void-Jump accident. She is the likely basis for the Warframe  [![](https://wiki.warframe.com/images/thumb/GyreIcon272.png/31px-GyreIcon272.png?4c4ae)](https://wiki.warframe.com/w/Gyre) [Gyre](https://wiki.warframe.com/w/Gyre).
 <div style="page-break-after: always;"></div>

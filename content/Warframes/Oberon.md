@@ -25,7 +25,7 @@ Healing and suffering do Oberon's bidding. His command of the natural world supp
 > 
 > Oberon.
 
-—[[Ballas]]
+—[[4 - The Lotus' Disappearance/Important Characters/Ballas|Ballas]]
 ![[oberonpa.png]]
 ![](https://youtu.be/Ij8Ql_RbdT8?si=_yGCekzljHUV0TeF)
 **Release Date:** December 19th, 2013

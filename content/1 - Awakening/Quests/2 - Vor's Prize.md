@@ -4,4 +4,4 @@ Continuing with their efforts to stop [[Captain Vor]], the newly awakened [[Te
 
 In the end, the Tenno successfully disables the Ascaris device, freeing them from Vor's control. However, the device has an anti-tampering failsafe that will cause it to detonate if it is not disarmed. They then seek to assassinate the captain, defeating him on a mining asteroid off Earth's orbit, ultimately disarming the Ascaris device.
 
-The [[Lotus]] counts on the Tenno to travel across the [Star Chart](https://wiki.warframe.com/w/Star_Chart "Star Chart") to bring balance to the Origin System from the dominating forces of the Grineer and Corpus factions.
+The [[1 - Awakening/Important Characters/Lotus|Lotus]] counts on the Tenno to travel across the [Star Chart](https://wiki.warframe.com/w/Star_Chart "Star Chart") to bring balance to the Origin System from the dominating forces of the Grineer and Corpus factions.

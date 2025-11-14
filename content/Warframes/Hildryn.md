@@ -20,11 +20,11 @@ Strength is Hildryn's virtue. Her unique high-damage abilities are powered by he
 > 
 > She has sent many weeping on their way. This sky-born bastion of the sagas.
 > 
-> So hear me well, [[Hunhow]]. When you despoil the [Reservoir](https://wiki.warframe.com/w/Reservoir "Reservoir"), spare only her.
+> So hear me well, [[3 - The Revelation/Important Characters/Hunhow|Hunhow]]. When you despoil the [Reservoir](https://wiki.warframe.com/w/Reservoir "Reservoir"), spare only her.
 > 
 > My stalwart. My shieldmaiden. Hildryn.
 
-—[[Ballas]]
+—[[4 - The Lotus' Disappearance/Important Characters/Ballas|Ballas]]
 ![[hildrynpa.png]]
 ![](https://youtu.be/cfxG7_Gx8RQ?si=lbjxa5B-Aqe5PrKB)
 **Release Date:** March 7th, 2019

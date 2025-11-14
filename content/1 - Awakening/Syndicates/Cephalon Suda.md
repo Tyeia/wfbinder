@@ -21,7 +21,7 @@ In the age of the [[Orokin]], during the **[Old War](https://wiki.warframe.com
 Having suffered from dementia, however, memories began slipping away from her. The Archimedean realizes she can no longer uphold the oath and requested the Orokin to turn her into a [Cephalon](https://wiki.warframe.com/w/Cephalon "Cephalon"), in order to preserve what remains of her memories, but not before expressing her regret that she had delayed this long enough to forget her wedded lover's name. The Archimedean was later Cephalized, becoming **Cephalon Suda**.
 
 ## [[Octavia's Anthem]]
-In the events of the [Octavia's Anthem](https://wiki.warframe.com/w/Octavia%27s_Anthem "Octavia's Anthem") Quest, Suda's lapses in memory and weakened state allows [[Hunhow]] to gain access to her data stream, quietly infiltrating her programming until he eventually takes control.
+In the events of the [Octavia's Anthem](https://wiki.warframe.com/w/Octavia%27s_Anthem "Octavia's Anthem") Quest, Suda's lapses in memory and weakened state allows [[3 - The Revelation/Important Characters/Hunhow|Hunhow]] to gain access to her data stream, quietly infiltrating her programming until he eventually takes control.
 
 [[Cephalon Simaris]] refers to this amalgamation of Cephalon and Sentient as Suda-Hunhow and initially believes it is a lost cause to save her.
 

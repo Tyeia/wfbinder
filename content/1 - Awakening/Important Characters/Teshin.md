@@ -8,13 +8,13 @@
 # Lore & History
 ### General
 
-As a [Dax](https://wiki.warframe.com/w/Dax "Dax"), an elite warrior force of the  [![](https://wiki.warframe.com/images/thumb/IconOrokinOn.png/32px-IconOrokinOn.png?07e7d)](https://wiki.warframe.com/w/Orokin) [[Orokin]], Teshin's origins date back to the Orokin Era and was one of the few who did not enter cryosleep. How he has remained alive for this long however, is unknown. He blames the fall of the Orokin on the [[Lotus]], who led the  [![](https://wiki.warframe.com/images/thumb/TennoIcon.png/32px-TennoIcon.png?3c7f6)](https://wiki.warframe.com/w/Tenno) [[Tenno]] to become "complacent like oxen", though he reluctantly concedes that the Orokin's demise and [The Old War](https://wiki.warframe.com/w/The_Old_War "The Old War") were necessary.
+As a [Dax](https://wiki.warframe.com/w/Dax "Dax"), an elite warrior force of the  [![](https://wiki.warframe.com/images/thumb/IconOrokinOn.png/32px-IconOrokinOn.png?07e7d)](https://wiki.warframe.com/w/Orokin) [[Orokin]], Teshin's origins date back to the Orokin Era and was one of the few who did not enter cryosleep. How he has remained alive for this long however, is unknown. He blames the fall of the Orokin on the [[1 - Awakening/Important Characters/Lotus|Lotus]], who led the  [![](https://wiki.warframe.com/images/thumb/TennoIcon.png/32px-TennoIcon.png?3c7f6)](https://wiki.warframe.com/w/Tenno) [[Tenno]] to become "complacent like oxen", though he reluctantly concedes that the Orokin's demise and [The Old War](https://wiki.warframe.com/w/The_Old_War "The Old War") were necessary.
 
 Teshin references the imminent arrival of the  [![](https://wiki.warframe.com/images/thumb/SentientFactionIcon.png/32px-SentientFactionIcon.png?19c23)](https://wiki.warframe.com/w/Sentient) [Sentients](https://wiki.warframe.com/w/Sentient) by insisting the Tenno use the Conclave to fight their greatest enemy, themselves, in order to grow stronger and to prepare themselves for 'horrors' beyond the [Outer Terminus](https://wiki.warframe.com/w/Outer_Terminus "Outer Terminus").
 
 ### [The Teacher](https://wiki.warframe.com/w/The_Teacher "The Teacher")
 
-Learning of a Tenno that defeated [[Captain Vor]], Teshin makes contact with them. He shows immediate disdain toward the [[Lotus]], acknowledging that the Tenno do not remember [The Old War](https://wiki.warframe.com/w/The_Old_War "The Old War").
+Learning of a Tenno that defeated [[Captain Vor]], Teshin makes contact with them. He shows immediate disdain toward the [[1 - Awakening/Important Characters/Lotus|Lotus]], acknowledging that the Tenno do not remember [The Old War](https://wiki.warframe.com/w/The_Old_War "The Old War").
 
 With [[Corpus]] and the Tenno lured by a [Mod Segment](https://wiki.warframe.com/w/Orbiter_Segments "Orbiter Segments"), Teshin captures the Tenno and forces them to undergo training to learn to use [Mods](https://wiki.warframe.com/w/Mod "Mod"). However, the Corpus raid his base, and he entrusts them to escape with the Mod Segment before allowing himself to be captured.
 

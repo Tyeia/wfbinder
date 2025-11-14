@@ -27,7 +27,7 @@ Enemies are made fragile by Gara's deadly touch. Gara's vitric abilities provide
 > 
 > The unbroken. Gara.
 
-—[[Ballas]]
+—[[4 - The Lotus' Disappearance/Important Characters/Ballas|Ballas]]
 ![[garapa.png]]
 ![](https://youtu.be/UZCrLzWb-sQ?si=yJWWihzuqW8iPgjt)
 
@@ -67,7 +67,7 @@ Create an expanding ring of molten glass that slowly crystallizes enemies who en
 
 ## Lore
 
-The person that would become Gara was one of the few that knew the [truth](https://wiki.warframe.com/w/Helminth "Helminth") of Warframes and had volunteered willingly to be turned into one. [Nihil](https://wiki.warframe.com/w/Nihil "Nihil") demanded she be glassed for her arrogance, and thus [[Ballas]] turned her into the Glass Warrior seemingly to spite the Glassmaker.
+The person that would become Gara was one of the few that knew the [truth](https://wiki.warframe.com/w/Helminth "Helminth") of Warframes and had volunteered willingly to be turned into one. [Nihil](https://wiki.warframe.com/w/Nihil "Nihil") demanded she be glassed for her arrogance, and thus [[4 - The Lotus' Disappearance/Important Characters/Ballas|Ballas]] turned her into the Glass Warrior seemingly to spite the Glassmaker.
 
 ### Glass Fragments
 >[[Grineer]]! Spread out! Crawl if you have to! I need more glass! It is the key to a power I've never seen! The power to kill... a [[Sentient]]!
@@ -78,4 +78,4 @@ Gara, the **Glass Warrior**, served the [Unum](https://wiki.warframe.com/w/Unu
 
 However, the Sentient captured the fauna and discovered it could use the Kuva to restore its long-lost ability to reproduce. Thus, its attacks escalated, forcing Gara to take decisive action. Carrying a bomb in her chest, Gara gave her life to destroy the Sentient as it descended on her mortally wounded body, detonating the bomb and scattering the Sentient across the land that would be known as the [Plains of Eidolon](https://wiki.warframe.com/w/Plains_of_Eidolon "Plains of Eidolon"), ending the threat to the tower. However, the threat of the Sentient still lingers, taking the form of the mindless [Eidolons](https://wiki.warframe.com/w/Eidolon "Eidolon") that wander the plains at night in search of its missing fragments to become whole once more.
 
-In present day, the [[Ostron]] researcher [Onkko](https://wiki.warframe.com/w/Onkko "Onkko") from [Cetus](https://wiki.warframe.com/w/Cetus "Cetus") disappears in an effort to prevent Gara from falling into [[Grineer]] hands. His wife [Saya](https://wiki.warframe.com/w/Saya "Saya") accepts the Tenno's help to find Onkko, coming across a case locked with a glass key. While finding the [glass fragments](https://wiki.warframe.com/w/Fragments/Glass "Fragments/Glass") needed to open the case, the [[Lotus]] performs a harmonics sweep on the glass key and discovers a blueprint for Gara hidden within.
+In present day, the [[Ostron]] researcher [Onkko](https://wiki.warframe.com/w/Onkko "Onkko") from [Cetus](https://wiki.warframe.com/w/Cetus "Cetus") disappears in an effort to prevent Gara from falling into [[Grineer]] hands. His wife [Saya](https://wiki.warframe.com/w/Saya "Saya") accepts the Tenno's help to find Onkko, coming across a case locked with a glass key. While finding the [glass fragments](https://wiki.warframe.com/w/Fragments/Glass "Fragments/Glass") needed to open the case, the [[1 - Awakening/Important Characters/Lotus|Lotus]] performs a harmonics sweep on the glass key and discovers a blueprint for Gara hidden within.

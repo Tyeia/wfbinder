@@ -41,10 +41,10 @@ Gyre’s mechanisms spin at incredible speeds, generating an Electric Field that
 
 ## Lore
 
->Every ship needs a figurehead. Executor [[Ballas]] presented us with sweet Gyra on the day of our departure. She spoke with her movement. Her dancing was meant to bring joy, but when we entered the Void... such madness, and one so gentle. The way you move now reminds me of her.
+>Every ship needs a figurehead. Executor [[4 - The Lotus' Disappearance/Important Characters/Ballas|Ballas]] presented us with sweet Gyra on the day of our departure. She spoke with her movement. Her dancing was meant to bring joy, but when we entered the Void... such madness, and one so gentle. The way you move now reminds me of her.
 
 —[Quinn](https://wiki.warframe.com/w/Quinn "Quinn")
 
 After the events of Angels of the Zariman, when speaking to [Quinn](https://wiki.warframe.com/w/Quinn "Quinn") as Gyre for first time in the [Chrysalith](https://wiki.warframe.com/w/Chrysalith "Chrysalith"), he reminisces about the day of the [Zariman Ten Zero](https://wiki.warframe.com/w/Zariman_Ten_Zero "Zariman Ten Zero")'s departure for the [Tau System](https://wiki.warframe.com/w/Tau_System "Tau System").
 
-A passenger by the name of **Gyra** was sent aboard by Orokin Executor [[Ballas]] to act as a figurehead. She was renown for her graceful movements and was a gentle soul, yet misfortune befell her as the Zariman crossed the fold in the [Void](https://wiki.warframe.com/w/Void "Void"). She succumbed to madness and insanity same as the rest of the ship's occupants.
+A passenger by the name of **Gyra** was sent aboard by Orokin Executor [[4 - The Lotus' Disappearance/Important Characters/Ballas|Ballas]] to act as a figurehead. She was renown for her graceful movements and was a gentle soul, yet misfortune befell her as the Zariman crossed the fold in the [Void](https://wiki.warframe.com/w/Void "Void"). She succumbed to madness and insanity same as the rest of the ship's occupants.

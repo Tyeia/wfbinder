@@ -23,7 +23,7 @@ Take charge with the Saint of Altra. Gauss is fast, deals high damage, and has s
 > 
 > For thankless eyes shall be seared blind in the heat of HIS passing. Gauss.
 
-—[[Ballas]]
+—[[4 - The Lotus' Disappearance/Important Characters/Ballas|Ballas]]
 ![[gausspa.png]]
 ![](https://youtu.be/RqlicgmjFUE?si=pbhwv-IA0zC-CR5w)
 **Release Date:** August 29th, 2019

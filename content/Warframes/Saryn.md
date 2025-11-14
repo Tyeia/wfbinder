@@ -20,7 +20,7 @@ Toxicity is Saryn's strength. Her serpentine powers deal heavy damage. For Saryn
 > 
 > It came to me like a proverb: Fight poison with... poison. Cure this sick horde with the greatest of plagues. I will call her... Saryn.
 
-—[[Ballas]]
+—[[4 - The Lotus' Disappearance/Important Characters/Ballas|Ballas]]
 
 ![[sarynpa.png]]
 ![](https://youtu.be/qO4ldsvVbjA?si=_GiB1l8VPMSadwGP)

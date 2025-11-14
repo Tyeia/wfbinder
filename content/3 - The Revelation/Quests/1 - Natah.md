@@ -9,11 +9,11 @@ RECOMMENDED READING:
 [[Natah]]
 [[3 - The Revelation/Important Characters/Teshin|Teshin]]
 
-On [Uranus](https://wiki.warframe.com/w/Uranus "Uranus"), the Tenno encounters strange drones that seem to be looking for something... or someone. Upon scanning them, the Lotus will ask the Tenno for their assistance. Assuming that they are of [[Corpus]] origin, Lotus sends the Tenno to [Earth](https://wiki.warframe.com/w/Earth "Earth") to investigate these drones, only to discover an [Old War](https://wiki.warframe.com/w/The_Old_War "The Old War") wreckage which heightens her confusion. In an epiphany, the Lotus realizes these drones are [[Sentient]] [Oculysts](https://wiki.warframe.com/w/Oculyst "Oculyst") and immediately cuts off transmissions with the Tenno. An individual of the [[Orokin]]-era, [Conclave](https://wiki.warframe.com/w/Conclave "Conclave") master [[Teshin]] offers his aid to unravel the truth about the mysterious Lotus, suspicious of her true motives.
+On [Uranus](https://wiki.warframe.com/w/Uranus "Uranus"), the Tenno encounters strange drones that seem to be looking for something... or someone. Upon scanning them, the Lotus will ask the Tenno for their assistance. Assuming that they are of [[Corpus]] origin, Lotus sends the Tenno to [Earth](https://wiki.warframe.com/w/Earth "Earth") to investigate these drones, only to discover an [Old War](https://wiki.warframe.com/w/The_Old_War "The Old War") wreckage which heightens her confusion. In an epiphany, the Lotus realizes these drones are [[Sentient]] [Oculysts](https://wiki.warframe.com/w/Oculyst "Oculyst") and immediately cuts off transmissions with the Tenno. An individual of the [[Orokin]]-era, [Conclave](https://wiki.warframe.com/w/Conclave "Conclave") master [[3 - The Revelation/Important Characters/Teshin|Teshin]] offers his aid to unravel the truth about the mysterious Lotus, suspicious of her true motives.
 > [!quote] Teshin
 > The Lotus seduced the Tenno. Led them on a complacent path like oxen. I failed the Orokin but I will preserve their legacy. The Tenno. Now is the time for action. Cast off your harness and become a pupil of The Conclave. Through trial combat, I will prepare you for the evils beyond the Outer Terminus. A warrior only grows if they face the ultimate enemy. Themselves.
 
-In search for information on these drones, [[Grineer]] scientist [[Tyl Regor]] has lead efforts in excavating a tomb from the Old War in the depths of Uranus. The Lotus suddenly reappears, claiming she went dark to hide her tracks and pleads to the Tenno to stop Regor from entering this tomb. Their efforts were in vain as Regor accidentally awakens a Sentient, that being [[Hunhow]], destroyer of worlds:
+In search for information on these drones, [[Grineer]] scientist [[Tyl Regor]] has lead efforts in excavating a tomb from the Old War in the depths of Uranus. The Lotus suddenly reappears, claiming she went dark to hide her tracks and pleads to the Tenno to stop Regor from entering this tomb. Their efforts were in vain as Regor accidentally awakens a Sentient, that being [[3 - The Revelation/Important Characters/Hunhow|Hunhow]], destroyer of worlds:
 > [!quote] Hunhow
 > ...Natah, where are you? You cannot hide from me.
 
@@ -21,4 +21,4 @@ The Lotus reveals that her old name was [[Natah]] and was formerly a Sentient,
 > [!quote] Lotus
 > Natah was the daughter until I destroyed her. Now I am the Lotus. Now I am the mother.
 
-Once the daughter of [[Hunhow]], the Lotus betrayed her own kind out of selfishness to become a mother. Hunhow will soon finish where the Lotus had failed: elimination of the Tenno.
+Once the daughter of [[3 - The Revelation/Important Characters/Hunhow|Hunhow]], the Lotus betrayed her own kind out of selfishness to become a mother. Hunhow will soon finish where the Lotus had failed: elimination of the Tenno.

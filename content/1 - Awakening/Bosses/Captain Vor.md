@@ -38,7 +38,7 @@ The fate of Captain Vor is unknown beyond this point, but it is presumed he surv
 
 ### [Awakening](https://wiki.warframe.com/w/Awakening "Awakening") & [Vor's Prize](https://wiki.warframe.com/w/Vor%27s_Prize "Vor's Prize")
 
-Captain Vor, bent on controlling the Warframes rather than destroying them, travels to Earth to the location of a newly-discovered cryopod (containing the player's first Warframe). His attempt to capture the Tenno fails, however. They are awakened by the [[Lotus]] and manage steal a ship and escape Earth, despite Vor using an [Ascaris](https://wiki.warframe.com/w/Ascaris "Ascaris") to begin taking mental control of the Warframe's functions.
+Captain Vor, bent on controlling the Warframes rather than destroying them, travels to Earth to the location of a newly-discovered cryopod (containing the player's first Warframe). His attempt to capture the Tenno fails, however. They are awakened by the [[1 - Awakening/Important Characters/Lotus|Lotus]] and manage steal a ship and escape Earth, despite Vor using an [Ascaris](https://wiki.warframe.com/w/Ascaris "Ascaris") to begin taking mental control of the Warframe's functions.
 
 Under the Lotus' guidance, and with the assistance of their old ship [Cephalon](https://wiki.warframe.com/w/Cephalon "Cephalon"), [[Ordis]], the Tenno rescues the black market arms dealer [Darvo](https://wiki.warframe.com/w/Darvo "Darvo") from a Grineer gulag. In gratitude, Darvo helps them detach the Ascaris from their Warframe, allowing the Tenno to track down and defeat Vor. As the capatin is bested, he utters one last taunt, making sure the Tenno knows that it will not be the last time they've seen of him, and teleports away.
 

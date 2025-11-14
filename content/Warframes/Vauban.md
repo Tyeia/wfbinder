@@ -22,7 +22,7 @@ Vauban is the model of innovative technology. He deploys clever inventions to pr
 > 
 > For your consideration... Vauban.
 
-—[[Ballas]]
+—[[4 - The Lotus' Disappearance/Important Characters/Ballas|Ballas]]
 ![[vaubanpa.png]]
 ![](https://youtu.be/lm6DS3IDYqI?si=6h5YivImecK3IbP9)
 

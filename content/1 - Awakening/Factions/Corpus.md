@@ -31,7 +31,7 @@ The Corpus were founded by [**Parvos Granum**](https://wiki.warframe.com/w/Parv
 >
 > Those kneeling at the altar of commerce will be returned... to the Void.
 
-—[[Ballas]] during  [![](https://wiki.warframe.com/images/thumb/Vauban_PrimeIcon272.png/31px-Vauban_PrimeIcon272.png?652ef)](https://wiki.warframe.com/w/Vauban/Prime) [Vauban Prime](https://wiki.warframe.com/w/Vauban/Prime)'s trailer
+—[[4 - The Lotus' Disappearance/Important Characters/Ballas|Ballas]] during  [![](https://wiki.warframe.com/images/thumb/Vauban_PrimeIcon272.png/31px-Vauban_PrimeIcon272.png?652ef)](https://wiki.warframe.com/w/Vauban/Prime) [Vauban Prime](https://wiki.warframe.com/w/Vauban/Prime)'s trailer
 
 At first the Orokin accepted the Corpus (see the [Detron Crewman Synthesis Imprint](https://wiki.warframe.com/w/Synthesis#Imprints "Synthesis")) and during the Old War, even gave Granum a  [![](https://wiki.warframe.com/images/thumb/ProteaIcon272.png/31px-ProteaIcon272.png?6b6d2)](https://wiki.warframe.com/w/Protea) [Warframe bodyguard](https://wiki.warframe.com/w/Protea) as part of some unspecified deal.
 

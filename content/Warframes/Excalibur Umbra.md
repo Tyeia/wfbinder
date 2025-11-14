@@ -61,9 +61,9 @@ Summon a sword of pure light and immense power.
 
 >But you won't have to imagine. A lovingly cultured [Infestation](https://wiki.warframe.com/w/Infested "Infested") swarms within your blood. Your transformation has begun, reshaping you into a sacred surrogate of the unholy [[Tenno]]m/w/Warframe "Warframe") with but a Single. Burning. Memory. It is... a miracle! But all miracles require sacrifice.
 
-—[[Ballas]]
+—[[4 - The Lotus' Disappearance/Important Characters/Ballas|Ballas]]
 
-Excalibur Umbra was originally an [[Orokin]]") soldier who was punished by [[Ballas]] for attempting to interfere with his betrayal. Similar to the description of the Warframe creation process previously recorded by Ballas in the [Vitruvian](https://wiki.warframe.com/w/Vitruvian "Vitruvian"), he was shown to be exposed to the [Infestation](https://wiki.warframe.com/w/Infested "Infested") to become an anti-[[Sentient]]e" that required the "sacrifice" of Umbra's son [Isaah](https://wiki.warframe.com/w/Isaah "Isaah"), at his own hands, forced by Ballas through a unique Transference Bolt. This memory of filicide was permanently stored in Umbra to be replayed endlessly as punishment for spying on Ballas.
+Excalibur Umbra was originally an [[Orokin]]") soldier who was punished by [[4 - The Lotus' Disappearance/Important Characters/Ballas|Ballas]] for attempting to interfere with his betrayal. Similar to the description of the Warframe creation process previously recorded by Ballas in the [Vitruvian](https://wiki.warframe.com/w/Vitruvian "Vitruvian"), he was shown to be exposed to the [Infestation](https://wiki.warframe.com/w/Infested "Infested") to become an anti-[[Sentient]]e" that required the "sacrifice" of Umbra's son [Isaah](https://wiki.warframe.com/w/Isaah "Isaah"), at his own hands, forced by Ballas through a unique Transference Bolt. This memory of filicide was permanently stored in Umbra to be replayed endlessly as punishment for spying on Ballas.
 
 As a result of Umbra's torment, he retains most of his sentience and is capable of acting on his own without the [[Tenno]]'s control, even initially rejecting the [Operator](https://wiki.warframe.com/w/Operator "Operator")'s Transference and going rogue. Umbra also carries the memories of his final moments before transforming into a Warframe, which the Operator discovers to contain codes that unlock Ballas's Vitruvian recordings of the Sentient's betrayal, the creation of Warframes, and the Tenno.
 
@@ -71,6 +71,6 @@ Umbra is first seen in a courtyard on [Earth](https://wiki.warframe.com/w/Earth
 
 >--[We](https://wiki.warframe.com/w/Orokin "Orokin") had created [monsters](https://wiki.warframe.com/w/Warframe "Warframe") we couldn't control. We drugged them, tortured them, eviscerated them... We brutalized their minds... but it did not work. Until [they](https://wiki.warframe.com/w/Tenno "Tenno") came. And it was not their force of will - not their [Void](https://wiki.warframe.com/w/Void "Void") devilry - not their alien darkness... It was something else. It was that somehow, from within the derelict-horror, they had learned a way to see inside an ugly, broken thing-- And take away its pain.
 
-—[[Ballas]]
+—[[4 - The Lotus' Disappearance/Important Characters/Ballas|Ballas]]
 
 After seeing all of Umbra's memories, the Operator reassures Umbra that they will fight Ballas together. In a strange and surreal sequence in his mind, Umbra calms down and finally accepts the Operator's Transference. Together they battle Ballas on Earth, whose attempts to subdue Umbra prove futile when the Operator's Transference overpowers Ballas's control, allowing Umbra to significantly wound his creator.

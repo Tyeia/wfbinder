@@ -2,7 +2,7 @@
 # Lore
 ### [Natah](https://wiki.warframe.com/w/Natah_\(Quest\) "Natah (Quest)")
 
-After the [[Lotus]] abruptly breaks off communication with the Tenno, Teshin makes contact, offering to guide the player and help them figure out why. By the time the Lotus resurfaces, the Tenno and Teshin are already hot on the trail of [[Tyl Regor]] and his excavation team.
+After the [[3 - The Revelation/Important Characters/Natah|Lotus]] abruptly breaks off communication with the Tenno, Teshin makes contact, offering to guide the player and help them figure out why. By the time the Lotus resurfaces, the Tenno and Teshin are already hot on the trail of [[Tyl Regor]] and his excavation team.
 
 Notably, Tyl Regor calls Teshin a "_pseudo-Tenno_," and implies at least some familiarity between the two.
 

@@ -3,7 +3,7 @@
 
 The **Grineer** is one of the major [Factions](https://wiki.warframe.com/w/Factions "Factions") of the [Origin System](https://wiki.warframe.com/w/Star_Chart "Star Chart"). They are the first enemies encountered by newly [awakened](https://wiki.warframe.com/w/Awakening "Awakening") [[Tenno]].
 
-The expansion of their militaristic, violent Empire across the Origin System through the raiding or conquest of peaceful colonies serves as the primary motivator of the [[Lotus]]' call to her slumbering warriors.
+The expansion of their militaristic, violent Empire across the Origin System through the raiding or conquest of peaceful colonies serves as the primary motivator of the [[1 - Awakening/Important Characters/Lotus|Lotus]]' call to her slumbering warriors.
 
 [Grineer](https://wiki.warframe.com/w/Damage/Grineer) take increased damage from  [![](https://wiki.warframe.com/images/thumb/DmgImpactSmall64.png/32px-DmgImpactSmall64.png?27a4e)](https://wiki.warframe.com/w/Damage/Impact_Damage) [Impact](https://wiki.warframe.com/w/Damage/Impact_Damage) and  [![](https://wiki.warframe.com/images/thumb/DmgCorrosiveSmall64.png/32px-DmgCorrosiveSmall64.png?9c1be)](https://wiki.warframe.com/w/Damage/Corrosive_Damage) [Corrosive](https://wiki.warframe.com/w/Damage/Corrosive_Damage). Their elite [Kuva Grineer](https://wiki.warframe.com/w/Damage/Kuva_Grineer) forces however are resistant to  [![](https://wiki.warframe.com/images/thumb/DmgHeatSmall64.png/32px-DmgHeatSmall64.png?60ae0)](https://wiki.warframe.com/w/Damage/Heat_Damage) [Heat](https://wiki.warframe.com/w/Damage/Heat_Damage).
 # Overview

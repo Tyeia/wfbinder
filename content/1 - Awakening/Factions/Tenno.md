@@ -23,7 +23,7 @@ The **Orbiters** are spacecraft used by the Tenno to travel throughout the Sol
 # Lotus
 [![](https://wiki.warframe.com/images/thumb/Photo-4.png/150px-Photo-4.png?13cbd)](https://wiki.warframe.com/w/Lotus)
 
-_Main article: [[Lotus]]_
+_Main article: [[1 - Awakening/Important Characters/Lotus|Lotus]]_
 
 Upon revival from stasis, the Tenno is guided by a figure known as the Lotus. Asserting preservation of her people by any means necessary, the Lotus dispatches and guides Tenno through missions of espionage, sabotage, defense, extermination, interception and rescue. On these missions, the Lotus guides Tenno using audio commands transmitted from an unknown location. Like the rest of Tenno culture, she remains shrouded in mystery, though the [[Natah]] quest sheds more light into her origins and motives.
 

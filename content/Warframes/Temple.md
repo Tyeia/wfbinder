@@ -68,7 +68,7 @@ Once a charge has been built up on the Backbeat metronome, set Lizzie aflame and
 > 
 > This change that's been happening in me? It can't be stopped. I'm going to transform completely one day.
 > 
-> And that's okay. Because the Warframe from your time - 'Temple' - it's me. One and the same. The Warframe that [[Ballas]] was built into its DNA.
+> And that's okay. Because the Warframe from your time - 'Temple' - it's me. One and the same. The Warframe that [[4 - The Lotus' Disappearance/Important Characters/Ballas|Ballas]] was built into its DNA.
 > 
 > You see, [Drifter](https://wiki.warframe.com/w/Drifter "Drifter"), I go where I'm needed. I stick it to the man in Ludston, Cemaria, [Höllvania](https://wiki.warframe.com/w/H%C3%B6llvania "Höllvania")... and I know I need to do it in [Pluto](https://wiki.warframe.com/w/Pluto "Pluto") Terminus, too, many many years from now.
 > 

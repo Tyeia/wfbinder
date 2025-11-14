@@ -26,7 +26,7 @@ Macabre spectral power has risen. Infused with the essence of the Eidolon, Reven
 > 
 > This shadow of ill omen. This grim harbinger. This... Revenant.
 
-—[[Ballas]]
+—[[4 - The Lotus' Disappearance/Important Characters/Ballas|Ballas]]
 ![[revenantpa.png]]
 ![](https://youtu.be/3HD6rfvMOgk?si=r9ySjA50dJwCndIK
 )

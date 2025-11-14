@@ -23,7 +23,7 @@ Nidus draws strength from the Infestation. It bolsters him with survivability as
 > 
 > My festering demigod. My Nidus.
 
-—[[Ballas]]
+—[[4 - The Lotus' Disappearance/Important Characters/Ballas|Ballas]]
 ![[niduspa.png]]
 ![](https://youtu.be/m2DnHMEKgKE?si=_dORwe-Xl5fQb0B3)
 
