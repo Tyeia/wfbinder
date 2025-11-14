@@ -14,7 +14,7 @@ Teshin references the imminent arrival of the  [![](https://wiki.warframe.com/
 
 ### [The Teacher](https://wiki.warframe.com/w/The_Teacher "The Teacher")
 
-Learning of a Tenno that defeated [Captain Vor](https://wiki.warframe.com/w/Captain_Vor "Captain Vor"), Teshin makes contact with them. He shows immediate disdain toward the [[Lotus]], acknowledging that the Tenno do not remember [The Old War](https://wiki.warframe.com/w/The_Old_War "The Old War").
+Learning of a Tenno that defeated [[Captain Vor]], Teshin makes contact with them. He shows immediate disdain toward the [[Lotus]], acknowledging that the Tenno do not remember [The Old War](https://wiki.warframe.com/w/The_Old_War "The Old War").
 
 With [[Corpus]] and the Tenno lured by a [Mod Segment](https://wiki.warframe.com/w/Orbiter_Segments "Orbiter Segments"), Teshin captures the Tenno and forces them to undergo training to learn to use [Mods](https://wiki.warframe.com/w/Mod "Mod"). However, the Corpus raid his base, and he entrusts them to escape with the Mod Segment before allowing himself to be captured.
 

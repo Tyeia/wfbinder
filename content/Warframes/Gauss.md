@@ -23,7 +23,9 @@ Take charge with the Saint of Altra. Gauss is fast, deals high damage, and has s
 > 
 > For thankless eyes shall be seared blind in the heat of HIS passing. Gauss.
 
-—[[Ballas]]cgmjFUE?si=pbhwv-IA0zC-CR5w)
+—[[Ballas]]
+![[gausspa.png]]
+![](https://youtu.be/RqlicgmjFUE?si=pbhwv-IA0zC-CR5w)
 **Release Date:** August 29th, 2019
 
 Engines ready for ignition. Coolant circulation systems online. Revved into kinetic overdrive, the speedster **Gauss** leaves his competition amidst the dust. Accelerate and race across vast landscapes or seas. Recharge power from hostile strikes and reduce the force of their impact. Flash-freeze enemies dead in their tracks, then spontaneously combust his foes, as he paves the path to a swift victory. Gauss kickstarted in [Update 25.7](https://wiki.warframe.com/w/Update_25#Update_25.7 "Update 25") (2019-08-29): Saint of Altra.
