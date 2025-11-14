@@ -9,7 +9,7 @@ cssclasses:
 >
 > The Arbiters of Hexis exemplify a burning passion to search for the truth of Tenno ability, composed with the knowledge that Tenno are far greater than even their shattered history suggests.
 
-The  [![](https://wiki.warframe.com/images/thumb/ArbitersofHexisSigil.png/32px-ArbitersofHexisSigil.png?99f95)](https://wiki.warframe.com/w/Arbiters_of_Hexis) Arbiters of Hexis is one of the six faction [syndicates](https://wiki.warframe.com/w/Syndicate "Syndicate") with an interest in developing the [Tenno](https://wiki.warframe.com/w/Tenno "Tenno")'s skills. While many Tenno may be content to live simply as warriors, the Arbiters see them as having infinite potential, believing that the Tenno of old were shackled by the purpose the [Orokin](https://wiki.warframe.com/w/Orokin "Orokin") assigned them, and that their divine status is barely recognized.
+The  [![](https://wiki.warframe.com/images/thumb/ArbitersofHexisSigil.png/32px-ArbitersofHexisSigil.png?99f95)](https://wiki.warframe.com/w/Arbiters_of_Hexis) Arbiters of Hexis is one of the six faction [syndicates](https://wiki.warframe.com/w/Syndicate "Syndicate") with an interest in developing the [[Tenno]]'s skills. While many Tenno may be content to live simply as warriors, the Arbiters see them as having infinite potential, believing that the Tenno of old were shackled by the purpose the [[Orokin]] assigned them, and that their divine status is barely recognized.
 
 By adopting a dogmatic culture reminiscent of old Orokin hierarchy, they aim to shape a new set of rules that the Tenno can live by that does not limit their power. Through trial, focus, and study, they hope that the Tenno can rebuild their culture and become a beacon of hope in the system, not just a legend from bygone days.
 

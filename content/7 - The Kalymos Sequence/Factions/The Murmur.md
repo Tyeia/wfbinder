@@ -17,7 +17,7 @@ Additionally, these characteristics can also be seen in locations that have been
 # Lore & History
 ### Arrival
 
-Due to [Ballas](https://wiki.warframe.com/w/Ballas "Ballas")'s attempt to transport himself and his  [![](https://wiki.warframe.com/images/thumb/IconNarmer.png/32px-IconNarmer.png?1337d)](https://wiki.warframe.com/w/Narmer) [Narmer](https://wiki.warframe.com/w/Narmer) cult to [Tau](https://wiki.warframe.com/w/Tau_System "Tau System"), the Man in the Wall's attention has been shifted once again to the Origin System. As a result, the **Murmur** have been unleashed upon the now-unsealed subterranean [Laboratories](https://wiki.warframe.com/w/Albrecht%27s_Laboratories "Albrecht's Laboratories") of **[Albrecht Entrati](https://wiki.warframe.com/w/Albrecht_Entrati "Albrecht Entrati")**.
+Due to [[Ballas]]'s attempt to transport himself and his  [![](https://wiki.warframe.com/images/thumb/IconNarmer.png/32px-IconNarmer.png?1337d)](https://wiki.warframe.com/w/Narmer) [[Narmer]] cult to [Tau](https://wiki.warframe.com/w/Tau_System "Tau System"), the Man in the Wall's attention has been shifted once again to the Origin System. As a result, the **Murmur** have been unleashed upon the now-unsealed subterranean [Laboratories](https://wiki.warframe.com/w/Albrecht%27s_Laboratories "Albrecht's Laboratories") of **[[Albrecht Entrati]]**.
 
 The Kalymos Sequence has been activated. Unless the [Sleeper](https://wiki.warframe.com/w/Loid "Loid") is awoken, Albrecht's legacy will fall. All that can be done now is to await the Chosen Operator.
 

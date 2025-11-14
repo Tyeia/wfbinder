@@ -23,9 +23,7 @@ Take charge with the Saint of Altra. Gauss is fast, deals high damage, and has s
 > 
 > For thankless eyes shall be seared blind in the heat of HIS passing. Gauss.
 
-—[Ballas](https://wiki.warframe.com/w/Ballas "Ballas")
-![[gausspa.png]]
-![](https://youtu.be/RqlicgmjFUE?si=pbhwv-IA0zC-CR5w)
+—[[Ballas]]cgmjFUE?si=pbhwv-IA0zC-CR5w)
 **Release Date:** August 29th, 2019
 
 Engines ready for ignition. Coolant circulation systems online. Revved into kinetic overdrive, the speedster **Gauss** leaves his competition amidst the dust. Accelerate and race across vast landscapes or seas. Recharge power from hostile strikes and reduce the force of their impact. Flash-freeze enemies dead in their tracks, then spontaneously combust his foes, as he paves the path to a swift victory. Gauss kickstarted in [Update 25.7](https://wiki.warframe.com/w/Update_25#Update_25.7 "Update 25") (2019-08-29): Saint of Altra.
@@ -61,7 +59,7 @@ Push Gauss' battery beyond the redline, supercharging his Abilities and setting 
 
 ## Lore
 
-**Altra** was an ancient tower-fortress on [Ceres](https://wiki.warframe.com/w/Ceres "Ceres") owned by the [Orokin](https://wiki.warframe.com/w/Orokin "Orokin"). An insurgency occurred there, resulting in the Orokin inhabitants being thrown from the tower and succumbing to the landmines below. The Orokin demanded its recapture, but the tower's defenses proved to be too difficult for their [Dax](https://wiki.warframe.com/w/Dax "Dax") battalions to pass.
+**Altra** was an ancient tower-fortress on [Ceres](https://wiki.warframe.com/w/Ceres "Ceres") owned by the [[Orokin]]n the Orokin inhabitants being thrown from the tower and succumbing to the landmines below. The Orokin demanded its recapture, but the tower's defenses proved to be too difficult for their [Dax](https://wiki.warframe.com/w/Dax "Dax") battalions to pass.
 
 As backup, Gauss was then called in to quell the insurgency. With his immense speed, he blitzed through the minefield and into the tower and was able to reclaim it. His victory earned him the title: **The Saint of Altra**.
 

@@ -14,7 +14,7 @@ Delivering  [![](https://wiki.warframe.com/images/thumb/Fergolyte.png/32px-Fer
 
 ### Purple Stem Path
 
-Nightcap is introduced willingly working for [Nef Anyo](https://wiki.warframe.com/w/Nef_Anyo "Nef Anyo"), clearing out the native fungi that grow beneath the Vallis surface to make room for  [![](https://wiki.warframe.com/images/thumb/IconCorpusOn.png/32px-IconCorpusOn.png?9a680)](https://wiki.warframe.com/w/Corpus) [Corpus](https://wiki.warframe.com/w/Corpus) expansion. Nightcap and his fellow Solaris are led to believe that the fungi are an  [![](https://wiki.warframe.com/images/thumb/IconOrokinOn.png/32px-IconOrokinOn.png?07e7d)](https://wiki.warframe.com/w/Orokin) [Orokin](https://wiki.warframe.com/w/Orokin) experiment gone awry. After some time, they discover a "kid" deep in the mines who regularly sabotages their equipment.
+Nightcap is introduced willingly working for [[Nef Anyo]], clearing out the native fungi that grow beneath the Vallis surface to make room for  [![](https://wiki.warframe.com/images/thumb/IconCorpusOn.png/32px-IconCorpusOn.png?9a680)](https://wiki.warframe.com/w/Corpus) [Corpus](https://wiki.warframe.com/w/Corpus) expansion. Nightcap and his fellow Solaris are led to believe that the fungi are an  [![](https://wiki.warframe.com/images/thumb/IconOrokinOn.png/32px-IconOrokinOn.png?07e7d)](https://wiki.warframe.com/w/Orokin) [[Orokin]] experiment gone awry. After some time, they discover a "kid" deep in the mines who regularly sabotages their equipment.
 
 ### Blue Stem Path
 

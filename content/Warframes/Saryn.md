@@ -16,11 +16,11 @@ Toxicity is Saryn's strength. Her serpentine powers deal heavy damage. For Saryn
 
 —[**Lotus**](https://warframe.fandom.com/wiki/Lotus)
 
-> [Margulis](https://wiki.warframe.com/w/Margulis), from your winter ashes, there has sprung a field of flowers. Conceived by me, germinated for deadly purpose. You used to dream of old Earth, didn't you? Bathed in gold and solemn blue. I intend to reclaim it now, from the spores and the ruin.
+> [[Margulis]], from your winter ashes, there has sprung a field of flowers. Conceived by me, germinated for deadly purpose. You used to dream of old Earth, didn't you? Bathed in gold and solemn blue. I intend to reclaim it now, from the spores and the ruin.
 > 
 > It came to me like a proverb: Fight poison with... poison. Cure this sick horde with the greatest of plagues. I will call her... Saryn.
 
-—[Ballas](https://wiki.warframe.com/w/Ballas "Ballas")
+—[[Ballas]]
 
 ![[sarynpa.png]]
 ![](https://youtu.be/qO4ldsvVbjA?si=_GiB1l8VPMSadwGP)

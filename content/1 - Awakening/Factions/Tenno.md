@@ -3,14 +3,14 @@
 >
 > We took the twisted few that had returned from that place. We built a frame around them, a conduit of their affliction. Gave them the weapons of the old ways. Gun and blade. A new warrior, a new code was born. These rejects, these Tenno, became our saviors. Warrior-Gods cast in steel and fury striking our enemies in a way they could never comprehend. Excalibur was the first.
 
-The **Tenno** are the faction controlled by the players. Each player is a Tenno with a suit of biomechanical armor called a [Warframe](https://wiki.warframe.com/w/Warframe "Warframe"). The combat abilities provided by Warframes are vastly superior to both the [Corpus](https://wiki.warframe.com/w/Corpus "Corpus")' high technology and the [Grineer](https://wiki.warframe.com/w/Grineer "Grineer")'s vast numbers; even the most inexperienced Tenno can fight their way through hordes of basic foot soldiers alone, and teams of experienced Tenno can best even the deadliest enemy threats.
+The **Tenno** are the faction controlled by the players. Each player is a Tenno with a suit of biomechanical armor called a [Warframe](https://wiki.warframe.com/w/Warframe "Warframe"). The combat abilities provided by Warframes are vastly superior to both the [[Corpus]]' high technology and the [[Grineer]]'s vast numbers; even the most inexperienced Tenno can fight their way through hordes of basic foot soldiers alone, and teams of experienced Tenno can best even the deadliest enemy threats.
 
 Awakening from a deep slumber to a hostile world, the Tenno know little of themselves.
 
 Each Tenno bears a primary weapon, a sidearm, and a melee weapon. Their arsenal includes rifles of various types, shotguns, pistols, swords, and exotic melee weapons such as staves, axes, and power gauntlets. Different Warframes offer their own unique powers, ranging from  [![](https://wiki.warframe.com/images/thumb/VoltIcon272.png/31px-VoltIcon272.png?9e2f7)](https://wiki.warframe.com/w/Volt) [Volt](https://wiki.warframe.com/w/Volt)'s [burst of superhuman agility](https://wiki.warframe.com/w/Speed "Speed") to  [![](https://wiki.warframe.com/images/thumb/FrostIcon272.png/31px-FrostIcon272.png?6de31)](https://wiki.warframe.com/w/Frost) [Frost](https://wiki.warframe.com/w/Frost)'s [deadly avalanche](https://wiki.warframe.com/w/Avalanche "Avalanche"). Also, Warframe armor's modular nature allows for major upgrades and wide customization options. Utilizing the arms, armor, and powers at their disposal, Tenno squads have adapted to wildly different situations using only a moment of downtime between missions.
 
 # Tech & Weaponry
-The Tenno have created a huge amount of "home grown" weaponry and equipment – much of it descended from [Orokin](https://wiki.warframe.com/w/Orokin "Orokin") counterparts, but some of it original. Tenno weapons, in general, tend to feature smooth lines, symbolic design, and an "organic" shaping that gives them a sleek, predatory look. Weapons of Tenno origin are among the most commonly available weapons to players.
+The Tenno have created a huge amount of "home grown" weaponry and equipment – much of it descended from [[Orokin]] counterparts, but some of it original. Tenno weapons, in general, tend to feature smooth lines, symbolic design, and an "organic" shaping that gives them a sleek, predatory look. Weapons of Tenno origin are among the most commonly available weapons to players.
 
 ### Orbiter
 
@@ -18,14 +18,14 @@ The Tenno have created a huge amount of "home grown" weaponry and equipment – 
 
 _Main article: [Orbiter](https://wiki.warframe.com/w/Orbiter "Orbiter")_
 
-The **Orbiters** are spacecraft used by the Tenno to travel throughout the Solar System to and from missions. They also act as the Tenno's mobile base, carrying all of their various equipment and arsenal of weapons. An [Orokin](https://wiki.warframe.com/w/Orokin "Orokin") AI called [Ordis](https://wiki.warframe.com/w/Ordis "Ordis") acts as the main computer for the Tenno's ship.
+The **Orbiters** are spacecraft used by the Tenno to travel throughout the Solar System to and from missions. They also act as the Tenno's mobile base, carrying all of their various equipment and arsenal of weapons. An [[Orokin]] AI called [[Ordis]] acts as the main computer for the Tenno's ship.
 
 # Lotus
 [![](https://wiki.warframe.com/images/thumb/Photo-4.png/150px-Photo-4.png?13cbd)](https://wiki.warframe.com/w/Lotus)
 
-_Main article: [Lotus](https://wiki.warframe.com/w/Lotus "Lotus")_
+_Main article: [[Lotus]]_
 
-Upon revival from stasis, the Tenno is guided by a figure known as the Lotus. Asserting preservation of her people by any means necessary, the Lotus dispatches and guides Tenno through missions of espionage, sabotage, defense, extermination, interception and rescue. On these missions, the Lotus guides Tenno using audio commands transmitted from an unknown location. Like the rest of Tenno culture, she remains shrouded in mystery, though the [Natah](https://wiki.warframe.com/w/Natah "Natah") quest sheds more light into her origins and motives.
+Upon revival from stasis, the Tenno is guided by a figure known as the Lotus. Asserting preservation of her people by any means necessary, the Lotus dispatches and guides Tenno through missions of espionage, sabotage, defense, extermination, interception and rescue. On these missions, the Lotus guides Tenno using audio commands transmitted from an unknown location. Like the rest of Tenno culture, she remains shrouded in mystery, though the [[Natah]] quest sheds more light into her origins and motives.
 
 Some weapons bear the Lotus emblem to distinguish them as being unique or Tenno-altered while other weapons bear the symbol simply as a trademark of Tenno construction.
 

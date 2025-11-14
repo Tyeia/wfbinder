@@ -20,7 +20,7 @@ There is a reaper whose name is Nekros. He provides deathly crowd control. Erstw
 > 
 > Our harbinger, our terror ... Nekros."
 
-—[Ballas](https://wiki.warframe.com/w/Ballas "Ballas")
+—[[Ballas]]
 ![[nekrospa.png]]
 ![](https://youtu.be/InN07z-8LwE?si=e4r3fVfKocF9H67Q)
 

@@ -20,11 +20,11 @@ Strength is Hildryn's virtue. Her unique high-damage abilities are powered by he
 > 
 > She has sent many weeping on their way. This sky-born bastion of the sagas.
 > 
-> So hear me well, [Hunhow](https://wiki.warframe.com/w/Hunhow "Hunhow"). When you despoil the [Reservoir](https://wiki.warframe.com/w/Reservoir "Reservoir"), spare only her.
+> So hear me well, [[Hunhow]]. When you despoil the [Reservoir](https://wiki.warframe.com/w/Reservoir "Reservoir"), spare only her.
 > 
 > My stalwart. My shieldmaiden. Hildryn.
 
-—[Ballas](https://wiki.warframe.com/w/Ballas "Ballas")
+—[[Ballas]]
 ![[hildrynpa.png]]
 ![](https://youtu.be/cfxG7_Gx8RQ?si=lbjxa5B-Aqe5PrKB)
 **Release Date:** March 7th, 2019

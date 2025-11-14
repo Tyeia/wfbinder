@@ -24,7 +24,7 @@ Octavia turns bass, beat, and melody into a symphony of devastation. The music o
 > 
 > Our grand finale. Octavia.
 
-—[Ballas](https://wiki.warframe.com/w/Ballas)
+—[[Ballas]]
 ![[octaviapa.png]]
 ![](https://youtu.be/XUjwi9d-rvw?si=N_XxiQG669fIMWis)
 **Release Date:** March 24th, 2017

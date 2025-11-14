@@ -24,7 +24,7 @@ Hydroid summons the power of the ocean depths. He provides crowd control with aq
 > 
 > We will give to fear a form and yet none; a vague hydra, a lode monstrosity, surging from the unfathomable ...reminding them who their gods are. Hydroid.
 
-—[Ballas](https://wiki.warframe.com/w/Ballas)
+—[[Ballas]]
 
 **Release Date:** April 10th, 2014
 

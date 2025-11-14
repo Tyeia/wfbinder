@@ -7,4 +7,4 @@ RECOMMENDED READING:
 
 > On the Plains of Eidolon a mystery has lain buried for years: one that will mend or destroy a heart, and open the door to a hidden past.
 
-The Tenno are tasked with helping the chief elders of the [Ostron](https://wiki.warframe.com/w/Ostron "Ostron") people uncover the mystery of a long-lost Eidolon researcher.
+The Tenno are tasked with helping the chief elders of the [[Ostron]] people uncover the mystery of a long-lost Eidolon researcher.

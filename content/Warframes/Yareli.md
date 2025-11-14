@@ -22,7 +22,7 @@ The waverider can unleash a flood of destruction on the battlefield. Yareli’s 
 > 
 > So [others shall wear you now](https://wiki.warframe.com/w/Operator "Operator"), fatuous nymph. Little ocean flower. Little... Yareli.
 
-—[Ballas](https://wiki.warframe.com/w/Ballas "Ballas")
+—[[Ballas]]
 ![[yarelipa.png]]
 ![](https://youtu.be/XYy2XPR-cIo?si=_mtvytip4AH-J2yI)
 
@@ -59,9 +59,9 @@ Drag enemies into a crushing maelstrom and then blow them away in a watery burst
 > 
 > So [others shall wear you now](https://wiki.warframe.com/w/Operator "Operator"), fatuous nymph. Little ocean flower. Little... Yareli.
 
-—[Ballas](https://wiki.warframe.com/w/Ballas "Ballas")
+—[[Ballas]]
 
-The person that became Yareli was formerly a [Yuvan](https://wiki.warframe.com/w/Yuvan "Yuvan"), who was originally noticed by [Ballas](https://wiki.warframe.com/w/Ballas "Ballas") in a [Yuvan Theater](https://wiki.warframe.com/w/Yuvan_Theater "Yuvan Theater"), drawing his attention as a candidate for the [Continuity](https://wiki.warframe.com/w/Continuity_\(Lore\) "Continuity (Lore)"), but he became frustrated with her thinly-veiled disrespect for Orokin customs and beliefs, which went so far as to "dishonor the sacred [Kuva](https://wiki.warframe.com/w/Kuva "Kuva")." As retribution, he had her turned into a Warframe, so that her body would be "worn" (through [Transference](https://wiki.warframe.com/w/Transference_\(Lore\) "Transference (Lore)")) by many individuals.
+The person that became Yareli was formerly a [Yuvan](https://wiki.warframe.com/w/Yuvan "Yuvan"), who was originally noticed by [[Ballas]] in a [Yuvan Theater](https://wiki.warframe.com/w/Yuvan_Theater "Yuvan Theater"), drawing his attention as a candidate for the [Continuity](https://wiki.warframe.com/w/Continuity_\(Lore\) "Continuity (Lore)"), but he became frustrated with her thinly-veiled disrespect for Orokin customs and beliefs, which went so far as to "dishonor the sacred [Kuva](https://wiki.warframe.com/w/Kuva "Kuva")." As retribution, he had her turned into a Warframe, so that her body would be "worn" (through [Transference](https://wiki.warframe.com/w/Transference_\(Lore\) "Transference (Lore)")) by many individuals.
 
 ### The Waverider
 Yareli was the savior of children who were enslaved by a slave-driver named **Vulgran**. The rescue inspired the children to rise up against their slaver before she blasted him into the sky. Her tale is passed down through a comic Graphica dubbed **Waverider #1**.

@@ -49,4 +49,4 @@ Temporarily shed the outer pieces of Xaku in a destructive blast, then stalk the
 
 —[Grandmother](https://wiki.warframe.com/w/Grandmother "Grandmother")
 
-Xaku is a composite of three Warframes that used to be beneficiaries of the  [![](https://wiki.warframe.com/images/thumb/EntratiIcon.png/32px-EntratiIcon.png?cafef)](https://wiki.warframe.com/w/Entrati) [Entrati](https://wiki.warframe.com/w/Entrati). Throughout the ages, the trio were lost to the [Void](https://wiki.warframe.com/w/Void "Void"). Driven by void spirits, their shattered remnants fused together into the being that is now known as Xaku.
+Xaku is a composite of three Warframes that used to be beneficiaries of the  [![](https://wiki.warframe.com/images/thumb/EntratiIcon.png/32px-EntratiIcon.png?cafef)](https://wiki.warframe.com/w/Entrati) [[Entrati]]. Throughout the ages, the trio were lost to the [Void](https://wiki.warframe.com/w/Void "Void"). Driven by void spirits, their shattered remnants fused together into the being that is now known as Xaku.

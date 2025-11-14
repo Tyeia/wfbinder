@@ -45,6 +45,6 @@ Summon the Neutralizer, Cyte-09's exalted Sniper Rifle. Bullets ricochet off Wea
 >I can offer one service, at least. I discovered a clandestine blueprint among my Albrecht's personal effects, for a Warframe so secret it was never named. It is yours.
 
 —[Loid](https://wiki.warframe.com/w/Loid_\(Original\) "Loid (Original)")
-Crafted by the  [![](https://wiki.warframe.com/images/thumb/IconOrokinOn.png/32px-IconOrokinOn.png?07e7d)](https://wiki.warframe.com/w/Orokin) [Orokin](https://wiki.warframe.com/w/Orokin) to carry out highly sensitive missions, this [Warframe](https://wiki.warframe.com/w/Warframes "Warframes") was never given an actual name, only addressed by its batch name: Cyte-09.
+Crafted by the  [![](https://wiki.warframe.com/images/thumb/IconOrokinOn.png/32px-IconOrokinOn.png?07e7d)](https://wiki.warframe.com/w/Orokin) [[Orokin]] to carry out highly sensitive missions, this [Warframe](https://wiki.warframe.com/w/Warframes "Warframes") was never given an actual name, only addressed by its batch name: Cyte-09.
 
 After the fall of the Orokin, Cyte-09 would disappear during the ensuing chaos.

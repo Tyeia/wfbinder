@@ -16,7 +16,7 @@ Some may have willingly become Yuvans, while others were kidnapped and forced to
 
 During The War Within, the [Elder Queen](https://wiki.warframe.com/w/Grineer_Queens "Grineer Queens") refers to the [Operator](https://wiki.warframe.com/w/Operator "Operator") as her Yuvan, and attempts to conduct the ritual of Continuity on them.
 
-The person that became  [![](https://wiki.warframe.com/images/thumb/YareliPrimeIcon272.png/31px-YareliPrimeIcon272.png?6e720)](https://wiki.warframe.com/w/Yareli/Prime) [Yareli Prime](https://wiki.warframe.com/w/Yareli/Prime) was a Yuvan who captivated [Ballas](https://wiki.warframe.com/w/Ballas "Ballas"), but she openly disrespected the theater which angered him so much that she was converted into a Warframe instead of being sacrificed by the ritual.
+The person that became  [![](https://wiki.warframe.com/images/thumb/YareliPrimeIcon272.png/31px-YareliPrimeIcon272.png?6e720)](https://wiki.warframe.com/w/Yareli/Prime) [Yareli Prime](https://wiki.warframe.com/w/Yareli/Prime) was a Yuvan who captivated [[Ballas]], but she openly disrespected the theater which angered him so much that she was converted into a Warframe instead of being sacrificed by the ritual.
 # Ritual Process
 The exact procedure taken to initiate the ritual of Continuity is unknown, although some steps can be inferred from  [![](https://wiki.warframe.com/images/thumb/VorunaIcon272.png/31px-VorunaIcon272.png?f024e)](https://wiki.warframe.com/w/Voruna) [Voruna](https://wiki.warframe.com/w/Voruna)'s [Leverian](https://wiki.warframe.com/w/Leverian#Voruna "Leverian") entry, and from what we currently know.
 

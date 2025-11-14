@@ -2,7 +2,7 @@
 >If I must be a demon, let me be an honest one. Let me prove my nature by what I do next.
 
 —Albrecht Entrati
-**Albrecht Entrati** was a highly renowned  [![](https://wiki.warframe.com/images/thumb/IconOrokinOn.png/32px-IconOrokinOn.png?07e7d)](https://wiki.warframe.com/w/Orokin) [Orokin](https://wiki.warframe.com/w/Orokin) scientist, known for being the first one to gain access to the [Void](https://wiki.warframe.com/w/Void "Void") and introduce the Orokin to its potential. He is the former head of the  [![](https://wiki.warframe.com/images/thumb/EntratiIcon.png/32px-EntratiIcon.png?cafef)](https://wiki.warframe.com/w/Entrati) [Entrati](https://wiki.warframe.com/w/Entrati) family, and father of **[Euleria Entrati](https://wiki.warframe.com/w/Mother "Mother")**.
+**Albrecht Entrati** was a highly renowned  [![](https://wiki.warframe.com/images/thumb/IconOrokinOn.png/32px-IconOrokinOn.png?07e7d)](https://wiki.warframe.com/w/Orokin) [[Orokin]] scientist, known for being the first one to gain access to the [Void](https://wiki.warframe.com/w/Void "Void") and introduce the Orokin to its potential. He is the former head of the  [![](https://wiki.warframe.com/images/thumb/EntratiIcon.png/32px-EntratiIcon.png?cafef)](https://wiki.warframe.com/w/Entrati) [[Entrati]] family, and father of **[Euleria Entrati](https://wiki.warframe.com/w/Mother "Mother")**.
 # Lore & History
 ### General
 
@@ -12,7 +12,7 @@ Albrecht was born during the [Orokin Era](https://wiki.warframe.com/w/Orokin_Er
 
 _Main article: [Requiem Words](https://wiki.warframe.com/w/Requiem_Words "Requiem Words")_
 
-The Requiem Words found in the bowels of the  [![](https://wiki.warframe.com/images/thumb/NecraloidIcon.png/32px-NecraloidIcon.png?a3e90)](https://wiki.warframe.com/w/Necraloid) [Necraloid](https://wiki.warframe.com/w/Necraloid) chamber in [Necralisk](https://wiki.warframe.com/w/Necralisk "Necralisk"), Deimos, contains eight separate [Vitruvian](https://wiki.warframe.com/w/Vitruvian "Vitruvian") entries, each paying homage to a different Requiem Word, of Albrecht's own thoughts and chapters leading up to his first voyage into the Void.
+The Requiem Words found in the bowels of the  [![](https://wiki.warframe.com/images/thumb/NecraloidIcon.png/32px-NecraloidIcon.png?a3e90)](https://wiki.warframe.com/w/Necraloid) [[Necraloid]] chamber in [Necralisk](https://wiki.warframe.com/w/Necralisk "Necralisk"), Deimos, contains eight separate [Vitruvian](https://wiki.warframe.com/w/Vitruvian "Vitruvian") entries, each paying homage to a different Requiem Word, of Albrecht's own thoughts and chapters leading up to his first voyage into the Void.
 
 #### Crossing the Threshold
 
@@ -38,7 +38,7 @@ The Heart above the Wall of Lohk.
 
 Albrecht would later go on to discover the [**Requiem** **Words**](https://wiki.warframe.com/w/Requiem_Mods "Requiem Mods"), and create the [**Cosmic Clocks**](https://wiki.warframe.com/w/Cosmic_Clock "Cosmic Clock"). One is located within the Necraloid backroom in the [Necralisk](https://wiki.warframe.com/w/Necralisk "Necralisk"), which contains eight [Vitruvian](https://wiki.warframe.com/w/Vitruvian "Vitruvian") recordings (each paying homage to a different Requiem Word) narrating the story of Albrecht's voyage.
 
-Additionally, Albrecht would create the [**Heart**](https://wiki.warframe.com/w/Heart_of_Deimos_\(Object\) "Heart of Deimos (Object)"), an object said to provide the [Origin System](https://wiki.warframe.com/w/Star_Chart "Star Chart") and the [Tenno](https://wiki.warframe.com/w/Tenno "Tenno") with Void energy, constructing it atop the very Void gate he used in his voyage. Expeditions into the Void would still continue, with explorers depositing any treasures they found within the subterranean [Isolation Vaults](https://wiki.warframe.com/w/Isolation_Vault "Isolation Vault"). These vaults were constructed to both study the boons of the Void, and isolate and quarantine anything that came back unstable and corrupted.
+Additionally, Albrecht would create the [**Heart**](https://wiki.warframe.com/w/Heart_of_Deimos_\(Object\) "Heart of Deimos (Object)"), an object said to provide the [Origin System](https://wiki.warframe.com/w/Star_Chart "Star Chart") and the [[Tenno]] with Void energy, constructing it atop the very Void gate he used in his voyage. Expeditions into the Void would still continue, with explorers depositing any treasures they found within the subterranean [Isolation Vaults](https://wiki.warframe.com/w/Isolation_Vault "Isolation Vault"). These vaults were constructed to both study the boons of the Void, and isolate and quarantine anything that came back unstable and corrupted.
 
 ### Zariman Ten Zero
 
@@ -52,7 +52,7 @@ After Albrecht's first voyage into the untime dimension and the subsequent encou
 
 Due to his status as the first to pioneer Void study, various portraits and statues depicting Albrecht can also be found throughout the Zariman, such as in the **Habitation Zone**, **Hall of Legems**, and **Albrecht Park**.
 ### [Lost Islands of Duviri](https://wiki.warframe.com/w/Fragments/Duviri)
-Albrecht has made an appearance in [Duviri](https://wiki.warframe.com/w/Duviri "Duviri") as one of the two known outsiders, although his known records do not indicate any period of time he was lost in the kingdom. In it, [Dominus Thrax](https://wiki.warframe.com/w/Dominus_Thrax "Dominus Thrax") allowed him this to construct his own laboratory, which resided on an island dubbed **Scholar's Landing**. The stranger mentioned that Duviri would be needed in the future, and that there is a work of repentance that he alone cannot not do, before mysteriously vanishing along with the island.
+Albrecht has made an appearance in [Duviri](https://wiki.warframe.com/w/Duviri "Duviri") as one of the two known outsiders, although his known records do not indicate any period of time he was lost in the kingdom. In it, [[Dominus Thrax]] allowed him this to construct his own laboratory, which resided on an island dubbed **Scholar's Landing**. The stranger mentioned that Duviri would be needed in the future, and that there is a work of repentance that he alone cannot not do, before mysteriously vanishing along with the island.
 
 The denizens of Duviri have not forgotten Albrecht, and constructed an empty grave for him, which can be found deep in a cave near **Fort Wyrmsoul**.
 ### [Albrecht's Laboratory](https://wiki.warframe.com/w/Fragments/Albrecht "Fragments/Albrecht")
@@ -72,7 +72,7 @@ One of his first attempts involves sending many animals into the same Voidspace 
 
 To that end the Entrati would gather an assortment of unique animals, assembling [a pair](https://wiki.warframe.com/w/Minn?action=edit&redlink=1 "Minn (page does not exist)") [of Cervulites](https://wiki.warframe.com/w/Tagfer "Tagfer"), [a tropical bird of unknown species](https://wiki.warframe.com/w/Bird_3 "Bird 3") as well as an [enlargened Norg with unique body coat](https://wiki.warframe.com/w/Fibonacci "Fibonacci"), and sent them on a voyage into the void. When they returned, they did not die save [one](https://wiki.warframe.com/w/Minn?action=edit&redlink=1 "Minn (page does not exist)"), yet instead of humbling the untime consciousness, it seemed to have raised the intelligence of the animals instead to the point of them speaking in [Voidtongue](https://wiki.warframe.com/w/Voidtongue "Voidtongue") as well as giving them a personallity.
 
-And so his gambit had failed. Instead of disposing the animals, he ordered Loid to preserve them instead in hopes that future individuals more attuned to the Void may solve the mysteries unknown to him in his stead. They would later become the [Cavia](https://wiki.warframe.com/w/Cavia "Cavia") the protagonist [Tenno](https://wiki.warframe.com/w/Tenno "Tenno") encountered in [Sanctum Anatomica](https://wiki.warframe.com/w/Sanctum_Anatomica "Sanctum Anatomica"), [Deimos](https://wiki.warframe.com/w/Deimos "Deimos").
+And so his gambit had failed. Instead of disposing the animals, he ordered Loid to preserve them instead in hopes that future individuals more attuned to the Void may solve the mysteries unknown to him in his stead. They would later become the [[Cavia]] the protagonist [[Tenno]] encountered in [Sanctum Anatomica](https://wiki.warframe.com/w/Sanctum_Anatomica "Sanctum Anatomica"), [Deimos](https://wiki.warframe.com/w/Deimos "Deimos").
 
 #### Duviri
 
@@ -84,7 +84,7 @@ Albrecht had realized the trivial stories he had came up with was morphed by his
 
 #### The Vessels
 
-At some point, Albrecht seemed to have frequently travelled to [1999](https://wiki.warframe.com/w/1999 "1999"), described by him as the **Plague Year**. In it he acted the Doctor and brought healing to the people in the following year, providing treatment to those infected by the [Techrot](https://wiki.warframe.com/w/Techrot "Techrot").
+At some point, Albrecht seemed to have frequently travelled to [1999](https://wiki.warframe.com/w/1999 "1999"), described by him as the **Plague Year**. In it he acted the Doctor and brought healing to the people in the following year, providing treatment to those infected by the [[Techrot]].
 
 Towards volunteers willing to contribute more than healing, he brought with him [Helminth](https://wiki.warframe.com/w/Helminth "Helminth") infusions to turn their bodies into partial [Warframes](https://wiki.warframe.com/w/Warframe "Warframe"), their bodies becoming newly attuned to the Void whilst their minds are kept intact, presumably for research purposes. [Arthur](https://wiki.warframe.com/w/Arthur "Arthur") and [Aoi](https://wiki.warframe.com/w/Aoi "Aoi") are implied to be two among the volunteers who came forward. Results of his researches can be seen written along the blackboards of the [Netracells](https://wiki.warframe.com/w/Netracells "Netracells") of his laboratories.
 

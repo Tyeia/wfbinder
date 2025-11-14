@@ -16,16 +16,16 @@ Suda's exact goals are unknown, and could be the difference between freedom and 
 ## Origin
 Recommended Reading: [[What Remains]]
 
-In the age of the [Orokin](https://wiki.warframe.com/w/Orokin "Orokin"), during the **[Old War](https://wiki.warframe.com/w/Story_and_History "Story and History")** between the [Tenno](https://wiki.warframe.com/w/Tenno "Tenno") and the [Sentients](https://wiki.warframe.com/w/Sentient "Sentient"), a grey-haired Archimedean, later revealed to be a then-human Suda, had dedicated her life to memories when she took the Archimedean oath, holding an indispensable amount of knowledge and memories within her mind, in order to preserve the Orokin history for the future.
+In the age of the [[Orokin]], during the **[Old War](https://wiki.warframe.com/w/Story_and_History "Story and History")** between the [[Tenno]] and the [Sentients](https://wiki.warframe.com/w/Sentient "Sentient"), a grey-haired Archimedean, later revealed to be a then-human Suda, had dedicated her life to memories when she took the Archimedean oath, holding an indispensable amount of knowledge and memories within her mind, in order to preserve the Orokin history for the future.
 
 Having suffered from dementia, however, memories began slipping away from her. The Archimedean realizes she can no longer uphold the oath and requested the Orokin to turn her into a [Cephalon](https://wiki.warframe.com/w/Cephalon "Cephalon"), in order to preserve what remains of her memories, but not before expressing her regret that she had delayed this long enough to forget her wedded lover's name. The Archimedean was later Cephalized, becoming **Cephalon Suda**.
 
 ## [[Octavia's Anthem]]
-In the events of the [Octavia's Anthem](https://wiki.warframe.com/w/Octavia%27s_Anthem "Octavia's Anthem") Quest, Suda's lapses in memory and weakened state allows [Hunhow](https://wiki.warframe.com/w/Hunhow "Hunhow") to gain access to her data stream, quietly infiltrating her programming until he eventually takes control.
+In the events of the [Octavia's Anthem](https://wiki.warframe.com/w/Octavia%27s_Anthem "Octavia's Anthem") Quest, Suda's lapses in memory and weakened state allows [[Hunhow]] to gain access to her data stream, quietly infiltrating her programming until he eventually takes control.
 
-[Cephalon Simaris](https://wiki.warframe.com/w/Cephalon_Simaris "Cephalon Simaris") refers to this amalgamation of Cephalon and Sentient as Suda-Hunhow and initially believes it is a lost cause to save her.
+[[Cephalon Simaris]] refers to this amalgamation of Cephalon and Sentient as Suda-Hunhow and initially believes it is a lost cause to save her.
 
 It is also revealed during this Quest that most, if not all Cephalons, can link to each other and share information in a collective entanglement known as "The Weave". This connection is a severe weakness because when it is revealed that a Sentient has begun subverting and controlling Suda, Simaris insists on isolating and destroying Suda before she "infects them all".
 
-With the help of [Ordis](https://wiki.warframe.com/w/Ordis "Ordis"), a reluctant Simaris, and  [![](https://wiki.warframe.com/images/thumb/OctaviaIcon272.png/31px-OctaviaIcon272.png?ad6d4)](https://wiki.warframe.com/w/Octavia) [Octavia](https://wiki.warframe.com/w/Octavia)'s Mandachord, Suda regains clarity and is able to push out Hunhow.
+With the help of [[Ordis]], a reluctant Simaris, and  [![](https://wiki.warframe.com/images/thumb/OctaviaIcon272.png/31px-OctaviaIcon272.png?ad6d4)](https://wiki.warframe.com/w/Octavia) [Octavia](https://wiki.warframe.com/w/Octavia)'s Mandachord, Suda regains clarity and is able to push out Hunhow.
 <div style="page-break-after: always;"></div><div style="page-break-after: always;"></div>

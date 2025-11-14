@@ -22,7 +22,7 @@ Valkyr was modified into a highly motivated and fearsome killer. She is adept at
 > 
 > That is why they will destroy us.
 
-—[Ballas](https://wiki.warframe.com/w/Ballas "Ballas")
+—[[Ballas]]
 ![[valkyrpa.png]]
 ![](https://youtu.be/9ubZLPNE4Lk?si=63hSov4MytpPKU0Y)
 
@@ -51,7 +51,7 @@ Valkyr bares her deadly claws, unleashing devastating attacks that also heal her
 
 ## Lore
 
-Previously having thrived among the Tenno in her original [Gersemi form](https://wiki.warframe.com/w/Valkyr_Gersemi_Skin "Valkyr Gersemi Skin"), Valkyr is known for her capture and subsequent torment at the hands of [Alad V](https://wiki.warframe.com/w/Alad_V "Alad V"). The Warframe-obsessed Corpus scientist brought Valkyr to his lab on [Jupiter](https://wiki.warframe.com/w/Jupiter "Jupiter"), where she was [restrained](https://wiki.warframe.com/w/Valkyr%27s_Bonds "Valkyr's Bonds") and subjected to [harsh experiments](https://wiki.warframe.com/w/Zanuka_Project "Zanuka Project"), including having her skin flayed. This mad science would greatly expand the [Corpus](https://wiki.warframe.com/w/Corpus "Corpus")' knowledge of [Warframe](https://wiki.warframe.com/w/Warframe "Warframe") design and influence the design of their own robotic proxies, and consequently left Valkyr visibly scarred, maddened, and enraged. Upon comparison with Gersemi, it can be seen that Alad V has added forearm restraints and gauntlets relating to the claws in her fourth ability [Hysteria](https://wiki.warframe.com/w/Hysteria "Hysteria"). This addition may have been inspired by the armor on her original [Prime Design](https://wiki.warframe.com/w/Valkyr/Prime "Valkyr/Prime").
+Previously having thrived among the Tenno in her original [Gersemi form](https://wiki.warframe.com/w/Valkyr_Gersemi_Skin "Valkyr Gersemi Skin"), Valkyr is known for her capture and subsequent torment at the hands of [[Alad V]]. The Warframe-obsessed Corpus scientist brought Valkyr to his lab on [Jupiter](https://wiki.warframe.com/w/Jupiter "Jupiter"), where she was [restrained](https://wiki.warframe.com/w/Valkyr%27s_Bonds "Valkyr's Bonds") and subjected to [harsh experiments](https://wiki.warframe.com/w/Zanuka_Project "Zanuka Project"), including having her skin flayed. This mad science would greatly expand the [[Corpus]]' knowledge of [Warframe](https://wiki.warframe.com/w/Warframe "Warframe") design and influence the design of their own robotic proxies, and consequently left Valkyr visibly scarred, maddened, and enraged. Upon comparison with Gersemi, it can be seen that Alad V has added forearm restraints and gauntlets relating to the claws in her fourth ability [Hysteria](https://wiki.warframe.com/w/Hysteria "Hysteria"). This addition may have been inspired by the armor on her original [Prime Design](https://wiki.warframe.com/w/Valkyr/Prime "Valkyr/Prime").
 
 Valkyr's skin was used as the outer armor for the [Zanuka](https://wiki.warframe.com/w/Zanuka "Zanuka") prototype, Alad V's companion proxy— hybridized with components from several Warframes.
 

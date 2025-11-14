@@ -22,7 +22,7 @@ Wisp floats between the material and the ethereal. She accesses multiple dimensi
 > 
 > Let her be real. Incandescent. This fugitive form. This... Wisp.
 
-—[Ballas](https://wiki.warframe.com/w/Ballas)
+—[[Ballas]]
 ![[wisppa.png]]
 ![](https://youtu.be/eMlX3isbMBE?si=Zod6xxMBhhAaDLYc)
 **Release Date:** May 22nd, 2019

@@ -22,7 +22,7 @@ Mirage's sleight of hand complements her might. Her dazzled foes take heavy dama
 > 
 > The mere vapors of your life, shimmering still. Mirage.
 
-—[Ballas](https://wiki.warframe.com/w/Ballas "Ballas")
+—[[Ballas]]
 ![[miragepa.png]]
 ![](https://youtu.be/LP9xH9hqC04?si=4t2ajkF36dyoa_--)
 **Release Date:** July 18th, 2014

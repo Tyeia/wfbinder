@@ -17,7 +17,7 @@ Enemies are made fragile by Gara's deadly touch. Gara's vitric abilities provide
 
 > What is known of the ancient warrior known as Gara comes to us from folklore and oral tradition. It is said that she was [Unum](https://wiki.warframe.com/w/Unum "Unum")'s closest companion, and that when the Lotus instructed her children to flee Gara remained, refusing to leave the side of the one she loved best.
 > 
-> When the [Sentient](https://wiki.warframe.com/w/Sentient "Sentient") was done razing a great many other Towers, when it turned its myriad eyes and receptors toward the Unum, it was Gara who gave herself to protect her friend - shattering the Sentient. The mindless monstrosities that now stride the Plains - the [Teralysts](https://wiki.warframe.com/w/Teralyst "Teralyst") - are all that remain of it.
+> When the [[Sentient]] was done razing a great many other Towers, when it turned its myriad eyes and receptors toward the Unum, it was Gara who gave herself to protect her friend - shattering the Sentient. The mindless monstrosities that now stride the Plains - the [Teralysts](https://wiki.warframe.com/w/Teralyst "Teralyst") - are all that remain of it.
 
 —[The Glass Warrior Fragment](https://wiki.warframe.com/w/Fragments/Glass "Fragments/Glass")
 
@@ -27,7 +27,7 @@ Enemies are made fragile by Gara's deadly touch. Gara's vitric abilities provide
 > 
 > The unbroken. Gara.
 
-—[Ballas](https://wiki.warframe.com/w/Ballas "Ballas")
+—[[Ballas]]
 ![[garapa.png]]
 ![](https://youtu.be/UZCrLzWb-sQ?si=yJWWihzuqW8iPgjt)
 
@@ -67,15 +67,15 @@ Create an expanding ring of molten glass that slowly crystallizes enemies who en
 
 ## Lore
 
-The person that would become Gara was one of the few that knew the [truth](https://wiki.warframe.com/w/Helminth "Helminth") of Warframes and had volunteered willingly to be turned into one. [Nihil](https://wiki.warframe.com/w/Nihil "Nihil") demanded she be glassed for her arrogance, and thus [Ballas](https://wiki.warframe.com/w/Ballas "Ballas") turned her into the Glass Warrior seemingly to spite the Glassmaker.
+The person that would become Gara was one of the few that knew the [truth](https://wiki.warframe.com/w/Helminth "Helminth") of Warframes and had volunteered willingly to be turned into one. [Nihil](https://wiki.warframe.com/w/Nihil "Nihil") demanded she be glassed for her arrogance, and thus [[Ballas]] turned her into the Glass Warrior seemingly to spite the Glassmaker.
 
 ### Glass Fragments
->[Grineer](https://wiki.warframe.com/w/Grineer "Grineer")! Spread out! Crawl if you have to! I need more glass! It is the key to a power I've never seen! The power to kill... a [Sentient](https://wiki.warframe.com/w/Sentient "Sentient")!
+>[[Grineer]]! Spread out! Crawl if you have to! I need more glass! It is the key to a power I've never seen! The power to kill... a [[Sentient]]!
 
 —[Vay Hek](https://wiki.warframe.com/w/Vay_Hek "Vay Hek")
 
-Gara, the **Glass Warrior**, served the [Unum](https://wiki.warframe.com/w/Unum "Unum"), a mysterious and reclusive being whose [Orokin Tower](https://wiki.warframe.com/w/Orokin_Tower "Orokin Tower")-body was beset by a massive [Sentient](https://wiki.warframe.com/w/Sentient "Sentient"). This Sentient, whose powers waned between dusk and dawn, would attack the Unum's Tower by nightfall and retreat by morning. Forbidden to attack the Sentient at the peak of its power, Gara would search for the colossal being during the daylight. To aid in her search, the Unum seeded Temple [Kuva](https://wiki.warframe.com/w/Kuva "Kuva") to the wildlife, which would connect their consciousness and allow the Unum to discover the Sentient's hiding place.
+Gara, the **Glass Warrior**, served the [Unum](https://wiki.warframe.com/w/Unum "Unum"), a mysterious and reclusive being whose [Orokin Tower](https://wiki.warframe.com/w/Orokin_Tower "Orokin Tower")-body was beset by a massive [[Sentient]]. This Sentient, whose powers waned between dusk and dawn, would attack the Unum's Tower by nightfall and retreat by morning. Forbidden to attack the Sentient at the peak of its power, Gara would search for the colossal being during the daylight. To aid in her search, the Unum seeded Temple [Kuva](https://wiki.warframe.com/w/Kuva "Kuva") to the wildlife, which would connect their consciousness and allow the Unum to discover the Sentient's hiding place.
 
 However, the Sentient captured the fauna and discovered it could use the Kuva to restore its long-lost ability to reproduce. Thus, its attacks escalated, forcing Gara to take decisive action. Carrying a bomb in her chest, Gara gave her life to destroy the Sentient as it descended on her mortally wounded body, detonating the bomb and scattering the Sentient across the land that would be known as the [Plains of Eidolon](https://wiki.warframe.com/w/Plains_of_Eidolon "Plains of Eidolon"), ending the threat to the tower. However, the threat of the Sentient still lingers, taking the form of the mindless [Eidolons](https://wiki.warframe.com/w/Eidolon "Eidolon") that wander the plains at night in search of its missing fragments to become whole once more.
 
-In present day, the [Ostron](https://wiki.warframe.com/w/Ostron "Ostron") researcher [Onkko](https://wiki.warframe.com/w/Onkko "Onkko") from [Cetus](https://wiki.warframe.com/w/Cetus "Cetus") disappears in an effort to prevent Gara from falling into [Grineer](https://wiki.warframe.com/w/Grineer "Grineer") hands. His wife [Saya](https://wiki.warframe.com/w/Saya "Saya") accepts the Tenno's help to find Onkko, coming across a case locked with a glass key. While finding the [glass fragments](https://wiki.warframe.com/w/Fragments/Glass "Fragments/Glass") needed to open the case, the [Lotus](https://wiki.warframe.com/w/Lotus "Lotus") performs a harmonics sweep on the glass key and discovers a blueprint for Gara hidden within.
+In present day, the [[Ostron]] researcher [Onkko](https://wiki.warframe.com/w/Onkko "Onkko") from [Cetus](https://wiki.warframe.com/w/Cetus "Cetus") disappears in an effort to prevent Gara from falling into [[Grineer]] hands. His wife [Saya](https://wiki.warframe.com/w/Saya "Saya") accepts the Tenno's help to find Onkko, coming across a case locked with a glass key. While finding the [glass fragments](https://wiki.warframe.com/w/Fragments/Glass "Fragments/Glass") needed to open the case, the [[Lotus]] performs a harmonics sweep on the glass key and discovers a blueprint for Gara hidden within.

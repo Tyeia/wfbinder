@@ -7,7 +7,7 @@
 
 -Alad V
 
-The **Ropalolyst** is a gigantic bird-like [Sentient](https://wiki.warframe.com/w/Sentient "Sentient") [boss](https://wiki.warframe.com/w/Boss "Boss") capable of flight. It can be found in the Remastered [Corpus Gas City](https://wiki.warframe.com/w/Corpus_Gas_City "Corpus Gas City") on its own [Assassination](https://wiki.warframe.com/w/Assassination "Assassination") node on [Jupiter](https://wiki.warframe.com/w/Jupiter "Jupiter"), requiring players to have completed [Chimera Prologue](https://wiki.warframe.com/w/Chimera_Prologue "Chimera Prologue") to battle it. It was dispatched by the [Sentients](https://wiki.warframe.com/w/Sentient "Sentient") to ensure [Alad V](https://wiki.warframe.com/w/Alad_V "Alad V") does not double-cross their "partnership", much to his displeasure.
+The **Ropalolyst** is a gigantic bird-like [[Sentient]] [boss](https://wiki.warframe.com/w/Boss "Boss") capable of flight. It can be found in the Remastered [Corpus Gas City](https://wiki.warframe.com/w/Corpus_Gas_City "Corpus Gas City") on its own [Assassination](https://wiki.warframe.com/w/Assassination "Assassination") node on [Jupiter](https://wiki.warframe.com/w/Jupiter "Jupiter"), requiring players to have completed [Chimera Prologue](https://wiki.warframe.com/w/Chimera_Prologue "Chimera Prologue") to battle it. It was dispatched by the [Sentients](https://wiki.warframe.com/w/Sentient "Sentient") to ensure [[Alad V]] does not double-cross their "partnership", much to his displeasure.
 # Lore
 ### [Mask of the Revenant](https://wiki.warframe.com/w/Mask_of_the_Revenant)
 
@@ -15,7 +15,7 @@ The **Ropalolyst** is a gigantic bird-like [Sentient](https://wiki.warframe.c
 
 —[A New Threat Looms Fragment](https://wiki.warframe.com/w/Fragments/Revenant "Fragments/Revenant")
 
-> A fragment of the ancient [Sentient](https://wiki.warframe.com/w/Sentient "Sentient") that once terrorized these [plains](https://wiki.warframe.com/w/Plains_of_Eidolon "Plains of Eidolon").
+> A fragment of the ancient [[Sentient]] that once terrorized these [plains](https://wiki.warframe.com/w/Plains_of_Eidolon "Plains of Eidolon").
 
 —[A Terror Long Forgotten Fragment](https://wiki.warframe.com/w/Fragments/Revenant "Fragments/Revenant")
 
@@ -23,9 +23,9 @@ Although perhaps not the same Ropalolyst, a spectral silhouette of the same Sent
 
 ### The Jovian Concord
 
-After the [Sentients](https://wiki.warframe.com/w/Sentient "Sentient") tricked [Alad V](https://wiki.warframe.com/w/Alad_V "Alad V") into forming an unwitting partnership, the Ropalolyst was stationed on his Gas City in Jupiter, threatening to destroy his city if he does not comply to create [Amalgams](https://wiki.warframe.com/w/Amalgam "Amalgam") for the Sentients.
+After the [Sentients](https://wiki.warframe.com/w/Sentient "Sentient") tricked [[Alad V]] into forming an unwitting partnership, the Ropalolyst was stationed on his Gas City in Jupiter, threatening to destroy his city if he does not comply to create [Amalgams](https://wiki.warframe.com/w/Amalgam "Amalgam") for the Sentients.
 
-During the battle with the Ropalolyst, [Natah](https://wiki.warframe.com/w/Natah "Natah") calls it her "other flesh" and tells the Tenno that its sacrifice will make way for the Amalgams to live. Meanwhile, Alad V encourages and even shows gratitude to the Tenno as they fight.
+During the battle with the Ropalolyst, [[Natah]] calls it her "other flesh" and tells the Tenno that its sacrifice will make way for the Amalgams to live. Meanwhile, Alad V encourages and even shows gratitude to the Tenno as they fight.
 
 # Natah Quotes
 **Natah**: _"Our history is smoke. Blurred by dreams, guided by ghosts. A Voice, a Void, lurks inside you, its purpose not yet shown. But what am I?"_

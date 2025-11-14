@@ -6,11 +6,11 @@ cssclasses:
 
 > Who help Grineer today? Not [Queens](https://wiki.warframe.com/w/Grineer_Queens "Grineer Queens"). Not [Vay Hek](https://wiki.warframe.com/w/Vay_Hek "Vay Hek"). Tenno and Blue Girl help brothers. Other brothers still have Veil. So Kahl break. This camp little. But soon, it get big. You see. Kahl not afraid. And now Kahl not alone.
 
- [![](https://wiki.warframe.com/images/thumb/GarrisonIcon.png/32px-GarrisonIcon.png?3d907)](https://wiki.warframe.com/w/Kahl%27s_Garrison) Kahl's Garrison is a resistance movement that fights against  [![](https://wiki.warframe.com/images/thumb/IconNarmer.png/32px-IconNarmer.png?1337d)](https://wiki.warframe.com/w/Narmer) [Narmer](https://wiki.warframe.com/w/Narmer). Led by [Kahl-175](https://wiki.warframe.com/w/Kahl-175 "Kahl-175") with the support of [Daughter](https://wiki.warframe.com/w/Daughter "Daughter") and the [Tenno](https://wiki.warframe.com/w/Tenno "Tenno"), he sets up his base at the [Drifter's Camp](https://wiki.warframe.com/w/Drifter%27s_Camp "Drifter's Camp"), preparing a campaign to free his [Grineer](https://wiki.warframe.com/w/Grineer "Grineer") brothers and the Origin System from Narmer. As he breaks the [Narmer Veils](https://wiki.warframe.com/w/Narmer_Veil "Narmer Veil"), Kahl recruits new supporters like [Chipper](https://wiki.warframe.com/w/Chipper "Chipper") along the way.
+ [![](https://wiki.warframe.com/images/thumb/GarrisonIcon.png/32px-GarrisonIcon.png?3d907)](https://wiki.warframe.com/w/Kahl%27s_Garrison) Kahl's Garrison is a resistance movement that fights against  [![](https://wiki.warframe.com/images/thumb/IconNarmer.png/32px-IconNarmer.png?1337d)](https://wiki.warframe.com/w/Narmer) [[Narmer]]. Led by [[Kahl-175]] with the support of [Daughter](https://wiki.warframe.com/w/Daughter "Daughter") and the [[Tenno]], he sets up his base at the [Drifter's Camp](https://wiki.warframe.com/w/Drifter%27s_Camp "Drifter's Camp"), preparing a campaign to free his [[Grineer]] brothers and the Origin System from Narmer. As he breaks the [Narmer Veils](https://wiki.warframe.com/w/Narmer_Veil "Narmer Veil"), Kahl recruits new supporters like [Chipper](https://wiki.warframe.com/w/Chipper "Chipper") along the way.
 ## Notable Members
 ### Kahl-175
 
-_Main article: [Kahl-175](https://wiki.warframe.com/w/Kahl-175 "Kahl-175")_
+_Main article: [[Kahl-175]]_
 
 As the Garrison's leader, **Kahl-175** makes preparations for his battle against Narmer. By talking to Kahl, he can undergo [Break Narmer](https://wiki.warframe.com/w/Break_Narmer "Break Narmer") weekly missions that continue his gameplay, which provides rank-ups for the Syndicate and  [![](https://wiki.warframe.com/images/thumb/KahlStock.png/32px-KahlStock.png?4a4c9)](https://wiki.warframe.com/w/Stock) [Stock](https://wiki.warframe.com/w/Stock) to buy wares from [Chipper](https://wiki.warframe.com/w/Chipper "Chipper").
 
@@ -24,17 +24,17 @@ Chipper offers blueprints for  [![](https://wiki.warframe.com/images/thumb/Sty
 
 _Main article: [Horrek](https://wiki.warframe.com/w/Horrek "Horrek")_
 
-**Horrek** is an [Ostron](https://wiki.warframe.com/w/Ostron "Ostron") chef. He does not provide any services, merely acting as an aesthetic to the Garrison.
+**Horrek** is an [[Ostron]] chef. He does not provide any services, merely acting as an aesthetic to the Garrison.
 
 ### Olvar D
 
 _Main article: [Olvar D](https://wiki.warframe.com/w/Olvar_D "Olvar D")_
 
-**Olvar D** is a [Corpus](https://wiki.warframe.com/w/Corpus "Corpus") [Crewman](https://wiki.warframe.com/w/Crewman "Crewman"). He does not provide any services, merely acting as an aesthetic to the Garrison.
+**Olvar D** is a [[Corpus]] [Crewman](https://wiki.warframe.com/w/Crewman "Crewman"). He does not provide any services, merely acting as an aesthetic to the Garrison.
 
 ### Jarka
 
 _Main article: [Jarka](https://wiki.warframe.com/w/Jarka "Jarka")_
 
-**Jarka** is a [Grineer](https://wiki.warframe.com/w/Grineer "Grineer") [Ballista](https://wiki.warframe.com/w/Ballista "Ballista"). She does not provide any services, merely acting as an aesthetic to the Garrison.
+**Jarka** is a [[Grineer]] [Ballista](https://wiki.warframe.com/w/Ballista "Ballista"). She does not provide any services, merely acting as an aesthetic to the Garrison.
 <div style="page-break-after: always;"></div>

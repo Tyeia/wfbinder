@@ -20,7 +20,7 @@ Protea knows all about protection. Her vast arsenal inflicts damage and provides
 > 
 > My desire is well known to you. Assemble what I have designed, and I shall be on my way.
 > 
-> Potent weaponry, exquisite anatomy, those are trivial. But temporal manipulation? Even the [Entrati](https://wiki.warframe.com/w/Entrati "Entrati")-
+> Potent weaponry, exquisite anatomy, those are trivial. But temporal manipulation? Even the [[Entrati]]-
 > 
 > The Entrati have violated time, and I have violated them.
 > 
@@ -28,7 +28,7 @@ Protea knows all about protection. Her vast arsenal inflicts damage and provides
 > 
 > Protea.
 
-—[Ballas](https://wiki.warframe.com/w/Ballas "Ballas") and [Parvos Granum](https://wiki.warframe.com/w/Parvos_Granum "Parvos Granum")
+—[[Ballas]] and [Parvos Granum](https://wiki.warframe.com/w/Parvos_Granum "Parvos Granum")
 ![[proteapa.png]]
 ![](https://youtu.be/t0ONmP3TGZ4?si=XxK-N5e7lN0xh4u-)
 
@@ -68,10 +68,10 @@ Drops a Temporal Anchor which, after a short duration, Protea rewinds to trigger
 
 —Protea Specter
 
-Protea was assigned to be the bodyguard of [Parvos Granum](https://wiki.warframe.com/w/Parvos_Granum "Parvos Granum"), the Founder of the [Corpus](https://wiki.warframe.com/w/Corpus "Corpus"), as part of an undisclosed deal he made with the [Orokin](https://wiki.warframe.com/w/Orokin "Orokin"). When the [Corpus Board of Directors](https://wiki.warframe.com/w/Corpus_Board_of_Directors "Corpus Board of Directors") betrayed him by attempting to assassinate him by sabotaging his transport's [Void](https://wiki.warframe.com/w/Void "Void") drive, Granum was saved by Protea's time manipulation abilities, trapping him in a temporal prison within the Void.
+Protea was assigned to be the bodyguard of [Parvos Granum](https://wiki.warframe.com/w/Parvos_Granum "Parvos Granum"), the Founder of the [[Corpus]], as part of an undisclosed deal he made with the [[Orokin]]. When the [Corpus Board of Directors](https://wiki.warframe.com/w/Corpus_Board_of_Directors "Corpus Board of Directors") betrayed him by attempting to assassinate him by sabotaging his transport's [Void](https://wiki.warframe.com/w/Void "Void") drive, Granum was saved by Protea's time manipulation abilities, trapping him in a temporal prison within the Void.
 
-Recently, the Corpus' power structure has been declining, with the Board of Directors continuously reaching a voting impasse. After 7 successive tied votes, [Nef Anyo](https://wiki.warframe.com/w/Nef_Anyo "Nef Anyo") invokes [The Deadlock Protocol](https://wiki.warframe.com/w/The_Deadlock_Protocol "The Deadlock Protocol"), a contingency initiative to instate a successor to the Founder. Seeking to prove that he himself is the genetic heir of Parvos Granum, Nef Anyo seeks to locate the Founder by tracking Protea, using Solaris workers as sacrifices for Void-temporal jumps to reach the [Granum Void](https://wiki.warframe.com/w/Granum_Void "Granum Void").
+Recently, the Corpus' power structure has been declining, with the Board of Directors continuously reaching a voting impasse. After 7 successive tied votes, [[Nef Anyo]] invokes [The Deadlock Protocol](https://wiki.warframe.com/w/The_Deadlock_Protocol "The Deadlock Protocol"), a contingency initiative to instate a successor to the Founder. Seeking to prove that he himself is the genetic heir of Parvos Granum, Nef Anyo seeks to locate the Founder by tracking Protea, using Solaris workers as sacrifices for Void-temporal jumps to reach the [Granum Void](https://wiki.warframe.com/w/Granum_Void "Granum Void").
 
-In an effort to thwart Nef Anyo's plans, the [Tenno](https://wiki.warframe.com/w/Tenno "Tenno") aids [Solaris United](https://wiki.warframe.com/w/Solaris_United "Solaris United") and gets to the Granum Void before Nef Anyo's henchmen do. There, they discover Parvos Granum alive and well, and Protea who has become a literal [Specter](https://wiki.warframe.com/w/Specter "Specter") of herself due to overextending her powers. The Warframe Specter, reinvigorated by her kin, turns hostile and attacks the Tenno and Nef Anyo's fleet with an army of [Errant Specters](https://wiki.warframe.com/w/Errant_Specter "Errant Specter"); Parvos Granum reveals that he had been using Nef Anyo in order to summon the Tenno to his domain.
+In an effort to thwart Nef Anyo's plans, the [[Tenno]] aids [[Solaris United]] and gets to the Granum Void before Nef Anyo's henchmen do. There, they discover Parvos Granum alive and well, and Protea who has become a literal [Specter](https://wiki.warframe.com/w/Specter "Specter") of herself due to overextending her powers. The Warframe Specter, reinvigorated by her kin, turns hostile and attacks the Tenno and Nef Anyo's fleet with an army of [Errant Specters](https://wiki.warframe.com/w/Errant_Specter "Errant Specter"); Parvos Granum reveals that he had been using Nef Anyo in order to summon the Tenno to his domain.
 
 Angered by Parvos Granum's deception and the threat of the Protea Specter, Nef Anyo calls truce with Solaris United and gives the Tenno the blueprint to the  [![](https://wiki.warframe.com/images/thumb/Xoris.png/32px-Xoris.png?5c2e5)](https://wiki.warframe.com/w/Xoris) [Xoris](https://wiki.warframe.com/w/Xoris), a glaive fashioned with Parvos Granum's Specter Particle Theory. The Tenno are able to reach the Granum Void once more and use the Xoris to save the trapped Solaris workers and defeat the Protea Specter.

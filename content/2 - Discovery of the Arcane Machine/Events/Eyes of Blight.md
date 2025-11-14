@@ -10,7 +10,7 @@
 
 —The Lotus
 
-**Operation Eyes of Blight** is an event released with [Update 15.8](https://wiki.warframe.com/w/Update_15#Update_15.8 "Update 15") (2014-12-19). The Tenno must defend the [Relays](https://wiki.warframe.com/w/Relay "Relay") from the looming threat of [Vay Hek](https://wiki.warframe.com/w/Vay_Hek "Vay Hek")'s [Balor Fomorians](https://wiki.warframe.com/w/Balor_Fomorian "Balor Fomorian"). The event began on Friday, December 19, 2014 and ended at 12 PM EDT on Monday, January 5, 2015 on PC, and began on Tuesday, February 24, 2015 on both the PS4 and Xbox One and ended at 2 PM EST Friday, March 6, 2015.
+**Operation Eyes of Blight** is an event released with [Update 15.8](https://wiki.warframe.com/w/Update_15#Update_15.8 "Update 15") (2014-12-19). The Tenno must defend the [Relays](https://wiki.warframe.com/w/Relay "Relay") from the looming threat of [[Councilor Vay Hek]]'s [Balor Fomorians](https://wiki.warframe.com/w/Balor_Fomorian "Balor Fomorian"). The event began on Friday, December 19, 2014 and ended at 12 PM EDT on Monday, January 5, 2015 on PC, and began on Tuesday, February 24, 2015 on both the PS4 and Xbox One and ended at 2 PM EST Friday, March 6, 2015.
 
 # Results
 All but 3 Relays were destroyed on all platforms.

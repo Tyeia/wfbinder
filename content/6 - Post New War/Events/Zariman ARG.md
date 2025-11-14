@@ -21,14 +21,14 @@ In [ASCII](https://en.wikipedia.org/wiki/ASCII "wikipedia:ASCII"), the [binary
 
 On April 20, 2022 05:58 UTC, TheRagingterror on Discord revealed that he and other content creators received a package containing promotional items for the Angels of the Zariman update. These packages arrived around April 13-20, 2022.
 
-One cardboard cutout in particular was a portrait of [Albrecht Entrati](https://wiki.warframe.com/w/Albrecht_Entrati "Albrecht Entrati") (identical to the one found during [The New War](https://wiki.warframe.com/w/The_New_War "The New War")) labeled "Digital Extremes-200-01-of-06-num1-mC-Zariman_Prop_AlbrechtPainting_withARG.psd", implying it contains clues for the ARG.
+One cardboard cutout in particular was a portrait of [[Albrecht Entrati]] (identical to the one found during [The New War](https://wiki.warframe.com/w/The_New_War "The New War")) labeled "Digital Extremes-200-01-of-06-num1-mC-Zariman_Prop_AlbrechtPainting_withARG.psd", implying it contains clues for the ARG.
 
 - There is a hidden code "M77" inscribed on his mask. M77 refers to [Messier 77](https://en.wikipedia.org/wiki/Messier_77 "wikipedia:Messier 77"), a galaxy that is within the constellation of [Cetus](https://en.wikipedia.org/wiki/Cetus "wikipedia:Cetus") (or the 'whale').
     - This implies that there is a lead somewhere in the in-game hub [Cetus](https://wiki.warframe.com/w/Cetus "Cetus") which was revealed to be a player named Unidentified-Signal. The player would type a clue in chat that is revealed in [In-Game Cetus and Base64 Puzzle](https://wiki.warframe.com/w/Zariman_ARG#In-Game_Cetus_and_Base64_Puzzle).
     - The [right ascension](https://en.wikipedia.org/wiki/Right_ascension "wikipedia:Right ascension") and [declination](https://en.wikipedia.org/wiki/Declination "wikipedia:Declination") of Messier 77 (RA 02h 42m 41s | Dec −0° 0′ 48″) would be used to solve one of the final puzzles in the ARG: [IRC Chat - Satellite Alignment Puzzle](https://wiki.warframe.com/w/Zariman_ARG#IRC_Chat_-_Satellite_Alignment_Puzzle).
 - ![](https://wiki.warframe.com/images/thumb/ZarimanARGAlbrechtPainting.jpg/800px-ZarimanARGAlbrechtPainting.jpg?04571)
     
-    Image of [Albrecht Entrati](https://wiki.warframe.com/w/Albrecht_Entrati "Albrecht Entrati") with the hidden code "M77" inscribed on his mask
+    Image of [[Albrecht Entrati]] with the hidden code "M77" inscribed on his mask
 
 ## April 19, 2022
 
@@ -205,7 +205,7 @@ A week old Twitch account discovered early on, [unidentifiedsignal](https://www
 
 Around April 22, 2022, 19:00 UTC two new TikTok videos were posted by WARFRAME's account in response to the password "We shall not fear to take the leap".
 
-- 0:22 video transcript: "I'll be honest, I wanted to believe you could do it but I was skeptical. You have no idea what this means to me. This is a second chance! The [Orokin](https://wiki.warframe.com/w/Orokin "Orokin") left these archives to rot and now we might lose it all to the Void. I'll share this decrypted file with you in another channel. I just need to check something. Hold tight."
+- 0:22 video transcript: "I'll be honest, I wanted to believe you could do it but I was skeptical. You have no idea what this means to me. This is a second chance! The [[Orokin]] left these archives to rot and now we might lose it all to the Void. I'll share this decrypted file with you in another channel. I just need to check something. Hold tight."
 - 1:16 video transcript: "I can't believe it's still intact. Thank you. This Void contamination sure is wild, huh? Never seen anything like it. Seems like it's amplifying the signal somehow. Wait is this feedback from a different dim- Sorry not important. What is important is the [Zariman](https://wiki.warframe.com/w/Zariman_Ten_Zero "Zariman Ten Zero"). Remember that? I'm sure you wish you didn't. Well too bad. I need you to remember. What happened here... it's... incomprehensible. But we can't let it be forgotten. I found a cache of encrypted data. Personnel files, message logs, and much more. Most of it is already gone, corrupted. We need to save what little is left. Please, I'm begging you. Help me back it up so it's safe. Still with me? Hmm, this signal is fading. I'll broadcast the one file you just cracked to a different channel. Stay tuned. Damn! I'm losing signal. I'll talk to you then."
 
 ### LOG_Z10_1_S-624ST
@@ -1018,7 +1018,7 @@ On April 26, 2022 17:44 UTC, the blog post was updated:
 
 26.04.2022.13.44: [IM_Z10_584P4_F.5-134](https://weendaswebegan.com/7A6172696D616E66696C656472697665/IM_Z10_584P4_F.5-134.pdf)
 ![](https://wiki.warframe.com/images/ZarimanARGTopSecretProject3.jpg?a32c4)
-The file Message.wav plays a two-tone audio that corresponds to a binary message. According to IM_Z10_584P4_F.5-134.pdf, the audio message is exactly 1679 bits long (a [semiprime](https://en.wikipedia.org/wiki/semiprime "wikipedia:semiprime")) which produces an image if the binary is arranged on a 23 by 73 grid. The replica [Arecibo message](https://en.wikipedia.org/wiki/Arecibo_message "wikipedia:Arecibo message") explains the binary number system, where the Zariman is headed, a depiction of [Orokin](https://wiki.warframe.com/w/Orokin "Orokin") and human physiology, and a depiction of the [Origin System](https://wiki.warframe.com/w/Origin_System "Origin System").
+The file Message.wav plays a two-tone audio that corresponds to a binary message. According to IM_Z10_584P4_F.5-134.pdf, the audio message is exactly 1679 bits long (a [semiprime](https://en.wikipedia.org/wiki/semiprime "wikipedia:semiprime")) which produces an image if the binary is arranged on a 23 by 73 grid. The replica [Arecibo message](https://en.wikipedia.org/wiki/Arecibo_message "wikipedia:Arecibo message") explains the binary number system, where the Zariman is headed, a depiction of [[Orokin]]he [Origin System](https://wiki.warframe.com/w/Origin_System "Origin System").
 
 Credit to Flameendercyborgguy#5537 on Discord the conversion of audio pings to binary (modified to remove an extra 23 bits and added few bits to the front for offset):
 

@@ -2,7 +2,7 @@
 
 —Kira's Shawzin
 
-**Kira** was once a passenger aboard the [Zariman Ten Zero](https://wiki.warframe.com/w/Zariman_Ten_Zero "Zariman Ten Zero"). She was the former fifth member of [The Holdfasts](https://wiki.warframe.com/w/The_Holdfasts "The Holdfasts"); Void manifestations of the crew aboard the [Zariman Ten Zero](https://wiki.warframe.com/w/Zariman_Ten_Zero "Zariman Ten Zero"). She transformed into a [Void Angel](https://wiki.warframe.com/w/Void_Angel "Void Angel") after succumbing to their song during the [[Zariman ARG]]
+**Kira** was once a passenger aboard the [Zariman Ten Zero](https://wiki.warframe.com/w/Zariman_Ten_Zero "Zariman Ten Zero"). She was the former fifth member of [[The Holdfasts]]; Void manifestations of the crew aboard the [Zariman Ten Zero](https://wiki.warframe.com/w/Zariman_Ten_Zero "Zariman Ten Zero"). She transformed into a [Void Angel](https://wiki.warframe.com/w/Void_Angel "Void Angel") after succumbing to their song during the [[Zariman ARG]]
 # Lore & History
 ### [[Zariman ARG]]
 

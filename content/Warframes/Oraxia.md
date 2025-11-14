@@ -44,4 +44,4 @@ Unfurl Oraxia’s spider legs and go on the prowl. Oraxia is immune to Status Ef
 
 ### Lore
 
-Oraxia was [Albrecht Entrati](https://wiki.warframe.com/w/Albrecht_Entrati "Albrecht Entrati")'s guardian Warframe during his stay in [Duviri](https://wiki.warframe.com/w/Duviri "Duviri"). She was left behind in **Scholar's Landing**, one of the lost islands that mysteriously vanished after he left Duviri, where she was driven mad by [The Indifference](https://wiki.warframe.com/w/The_Indifference "The Indifference") who whispered to her in Albrecht's voice.
+Oraxia was [[Albrecht Entrati]]'s guardian Warframe during his stay in [Duviri](https://wiki.warframe.com/w/Duviri "Duviri"). She was left behind in **Scholar's Landing**, one of the lost islands that mysteriously vanished after he left Duviri, where she was driven mad by [The Indifference](https://wiki.warframe.com/w/The_Indifference "The Indifference") who whispered to her in Albrecht's voice.
