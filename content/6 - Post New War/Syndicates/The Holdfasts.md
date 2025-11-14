@@ -42,11 +42,11 @@ _This section is [transcluded](https://en.wikipedia.org/wiki/Help:Transclusion 
 
 #### Kira
 
-_Main article: [Kira](https://wiki.warframe.com/w/Kira "Kira")_
+_Main article: [[Kira]]_
 
 **Kira** was formerly part of the Holdfasts of the Zariman, until she succumbed to the Song and transformed into a [Void Angel](https://wiki.warframe.com/w/Void_Angel "Void Angel") seen by the [Operator](https://wiki.warframe.com/w/Operator "Operator")/[Drifter](https://wiki.warframe.com/w/Drifter "Drifter") before they woke up in their [Dormizone](https://wiki.warframe.com/w/Dormizone "Dormizone") during the early part of the Angels of the Zariman quest line. After her defeat in the last quest, the Holdfasts made an altar to her memory at the western part of the Chrysalith's main lobby.
 
-Kira featured prominently in the [Zariman Alternate Reality Game](https://wiki.warframe.com/w/Zariman_ARG "Zariman ARG") as she asked help from the players to recover logs of her husband describing the events of her death, which also detailed several events prior to the Operator's/Drifter's return during the [Angels of the Zariman](https://wiki.warframe.com/w/Angels_of_the_Zariman "Angels of the Zariman") quest.
+Kira featured prominently in the [[Zariman ARG]] as she asked help from the players to recover logs of her husband describing the events of her death, which also detailed several events prior to the Operator's/Drifter's return during the [Angels of the Zariman](https://wiki.warframe.com/w/Angels_of_the_Zariman "Angels of the Zariman") quest.
 
 [![](https://wiki.warframe.com/images/thumb/CephalonMelica.png/180px-CephalonMelica.png?1fed8)](https://wiki.warframe.com/w/File:CephalonMelica.png)
 

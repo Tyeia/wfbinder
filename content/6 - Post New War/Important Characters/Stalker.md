@@ -1,7 +1,7 @@
 # Lore
 ### [The Reaper's Lament](https://www.warframe.com/news/the-reapers-lament)
 
-Hunhow, feeling regrets with his [own](https://wiki.warframe.com/w/Natah "Natah") [family](https://wiki.warframe.com/w/Erra_\(Character\) "Erra (Character)"), urges the Stalker to make amends with the Tenno, to wield the scythe once more (an instrument of cultivation, growth, and love, unlike  [![](https://wiki.warframe.com/images/thumb/War.png/32px-War.png?42c4e)](https://wiki.warframe.com/w/War) [War](https://wiki.warframe.com/w/War) that only kills indiscriminately), and let go of the past, as the [[Orokin]] weren't worthy of his loyalty. When the Stalker refuses, Hunhow warns that he will always have a target painted on his back and that his "actions will have consequences".
+Hunhow, feeling regrets with his [own](https://wiki.warframe.com/w/Natah "Natah") [family](https://wiki.warframe.com/w/Erra_\(Character\) "Erra (Character)"), urges the [[3 - The Revelation/Important Characters/Stalker|Stalker]] to make amends with the Tenno, to wield the scythe once more (an instrument of cultivation, growth, and love, unlike  [![](https://wiki.warframe.com/images/thumb/War.png/32px-War.png?42c4e)](https://wiki.warframe.com/w/War) [War](https://wiki.warframe.com/w/War) that only kills indiscriminately), and let go of the past, as the [[Orokin]] weren't worthy of his loyalty. When the Stalker refuses, Hunhow warns that he will always have a target painted on his back and that his "actions will have consequences".
 
 ### [Jade Shadows](https://wiki.warframe.com/w/Jade_Shadows "Jade Shadows")
 
